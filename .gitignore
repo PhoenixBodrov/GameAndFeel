@@ -1,0 +1,46 @@
+# Local Minecraft data
+/saves/
+/world/
+/world_nether/
+/world_the_end/
+/backups/
+/logs/
+/crash-reports/
+/screenshots/
+/downloads/
+/libraries/
+/versions/
+/assets/
+/.minecraft/
+/options.txt
+/optionsof.txt
+/optionsshaders.txt
+/servers.dat
+/servers.dat_old
+/usercache.json
+/usernamecache.json
+/session.lock
+
+# Credentials and machine settings
+.env
+.env.*
+!.env.example
+/launcher_accounts.json
+/launcher_profiles.json
+*.pem
+*.key
+
+# Generated outputs and local tools
+/.tools/
+/.gradle/
+/build/
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
+
+# Export archives and mod binaries are distributed separately
+*.zip
+*.rar
+*.7z
+/mods/*.jar
