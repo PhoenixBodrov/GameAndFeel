@@ -1,0 +1,21 @@
+name: Development task
+description: Track a concrete piece of work
+title: "Task: "
+body:
+  - type: textarea
+    id: work
+    attributes:
+      label: What needs to be done?
+      description: Describe the change and relevant files.
+    validations:
+      required: true
+  - type: textarea
+    id: completion
+    attributes:
+      label: Completion checks
+      description: List the checks needed before closing this task.
+  - type: textarea
+    id: context
+    attributes:
+      label: Related ideas or issues
+      description: Link any related feature, bug or design note.

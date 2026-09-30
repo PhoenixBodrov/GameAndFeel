@@ -1,0 +1,30 @@
+name: Bug report
+description: Report a problem in the Minecraft pack
+title: "Bug: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the visible problem.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How can we reproduce it?
+      description: Include where and when it happens.
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen instead?
+  - type: textarea
+    id: versions
+    attributes:
+      label: Relevant versions
+      description: Include the pack version, Minecraft version, loader and relevant mods when known.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or safe log excerpts
+      description: Remove personal information and secrets before attaching anything.

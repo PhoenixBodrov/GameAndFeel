@@ -1,0 +1,26 @@
+name: Feature idea
+description: Suggest a feature for the Minecraft pack
+title: "Feature: "
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What should we add?
+      description: Describe the player experience you want.
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Why should it be in the pack?
+      description: Explain how it fits the pack and what problem it solves.
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Possible mods and dependencies
+      description: List any mods, scripts, assets or version requirements you already know.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: How will we know it works?
+      description: Describe the result a player should be able to observe.
