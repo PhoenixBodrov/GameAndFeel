@@ -2,6 +2,10 @@ name: Bug report
 description: Report a problem in the Minecraft pack
 title: "Bug: "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Search existing bugs before opening a new issue. If one matches, add your reproduction steps, affected version and evidence as a comment on that issue. Do not post passwords, player data or private addresses.
   - type: textarea
     id: problem
     attributes:
@@ -23,6 +27,15 @@ body:
     attributes:
       label: Relevant versions
       description: Include the pack version, Minecraft version, loader and relevant mods when known.
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Where did it happen?
+      options:
+        - Single player
+        - Multiplayer client
+        - Dedicated server
+        - Other
   - type: textarea
     id: evidence
     attributes:
