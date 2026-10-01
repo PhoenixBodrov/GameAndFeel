@@ -1,0 +1,56 @@
+name: Playtest report
+description: Record what was tested, what worked, and which bugs were found
+title: "Playtest: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search existing issues before reporting a bug. If the bug already has an issue, add your new findings as a comment there and link it in this report. Do not post passwords, player data, private addresses or full logs that contain personal information.
+  - type: input
+    id: build
+    attributes:
+      label: Pack version or commit
+      description: Use a release version or the commit shown in GitHub Desktop.
+      placeholder: Version or commit identifier
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Test environment
+      options:
+        - Single player
+        - Multiplayer client
+        - Dedicated server
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: setup
+    attributes:
+      label: Minecraft and loader versions
+      description: Include the Minecraft version and loader when known.
+  - type: textarea
+    id: scope
+    attributes:
+      label: What did you test?
+      description: List the features, scenarios and steps you tried.
+    validations:
+      required: true
+  - type: textarea
+    id: results
+    attributes:
+      label: Results
+      description: Describe what worked, what failed and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: bugs
+    attributes:
+      label: Related bug issues
+      description: Link existing bug reports or create a separate bug issue for each distinct problem.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Safe evidence
+      description: Add screenshots or short, relevant log excerpts after removing private information.
