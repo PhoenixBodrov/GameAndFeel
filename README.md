@@ -1,14 +1,21 @@
 # Minecraft modpack
 
-Shared development repository for Phoenix and Vanya.
+Shared development repository for Phoenix and Vanya. This is the Minecraft part of Game and Feel. CS:GO belongs in a separate repository under the same Game and Feel organization.
 
-The original development folder from Vanya will establish the Minecraft version, mod loader, mod list, configs, quests and scripts. Those files have not been imported yet.
+Two pack lines are planned:
+
+| Pack | Folder |
+| --- | --- |
+| Minecraft 1.21 NeoForge | `Minecraft 1.21 NeoForge/` |
+| Minecraft 1.20.1 Forge | `Minecraft 1.20.1 Forge/` |
+
+Keep each pack's manifest, configs, scripts, quests and documentation in its own folder. The actual development folders have not been imported yet. Confirm their versions and layouts before adding files.
 
 ## Collaboration
 
 Each contributor works in their own local clone. Pull the latest changes before starting work. Create a branch for each task, keep the change focused, and open a pull request for the other contributor to review.
 
-Keep main as the tested pack. Record the gameplay effect and the checks performed with each change. Test multiplayer changes on a dedicated server when available.
+Keep main as the tested state of both packs. Record which pack a change affects, its gameplay effect and the checks performed. Test multiplayer changes on a dedicated server when available.
 
 ## Ideas and tasks
 
@@ -16,7 +23,7 @@ Use [Issues](../../issues) for feature ideas, development tasks and bug reports.
 
 ## Playtesting and community reports
 
-Anyone with a GitHub account can use [New issue](../../issues/new/choose) to submit a playtest report or a bug report while this repository is public. A playtest report records the pack version or commit, test environment, scenarios tried, results and related bugs. Use one bug issue per distinct problem. If an issue already describes the same problem, add your new findings in its comments so all reports stay together. Maintainers can link fixes and close an issue after verification.
+Anyone with a GitHub account can use [New issue](../../issues/new/choose) to submit a playtest report or a bug report while this repository is public. State which pack and version was tested. A playtest report records the commit, test environment, scenarios tried, results and related bugs. Use one bug issue per distinct problem. If an issue already describes the same problem, add your new findings in its comments so all reports stay together. Maintainers can link fixes and close an issue after verification.
 
 Do not post full logs, world saves, player data, private network addresses or secrets. Share only the relevant excerpt after checking it for private information.
 
