@@ -14,6 +14,12 @@ Keep main as the tested pack. Record the gameplay effect and the checks performe
 
 Use [Issues](../../issues) for feature ideas, development tasks and bug reports. Choose the matching form when creating an issue. Leave future ideas open so both contributors can discuss and refine them. Turn a planned idea into concrete tasks when the scope is clear. Link the issue in the pull request that implements it, and close it after the change is verified.
 
+## Playtesting and community reports
+
+Anyone with a GitHub account can use [New issue](../../issues/new/choose) to submit a playtest report or a bug report while this repository is public. A playtest report records the pack version or commit, test environment, scenarios tried, results and related bugs. Use one bug issue per distinct problem. If an issue already describes the same problem, add your new findings in its comments so all reports stay together. Maintainers can link fixes and close an issue after verification.
+
+Do not post full logs, world saves, player data, private network addresses or secrets. Share only the relevant excerpt after checking it for private information.
+
 This is also the place to move useful ideas from Discord. Add the idea and its context without copying private conversations or personal information.
 
 ## AI workflow
