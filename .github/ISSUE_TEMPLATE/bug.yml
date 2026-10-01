@@ -6,6 +6,16 @@ body:
     attributes:
       value: |
         Search existing bugs before opening a new issue. If one matches, add your reproduction steps, affected version and evidence as a comment on that issue. Do not post passwords, player data or private addresses.
+  - type: dropdown
+    id: pack
+    attributes:
+      label: Affected pack
+      options:
+        - Minecraft 1.21 NeoForge
+        - Minecraft 1.20.1 Forge
+        - Unsure
+    validations:
+      required: true
   - type: textarea
     id: problem
     attributes:
