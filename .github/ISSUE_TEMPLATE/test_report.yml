@@ -6,6 +6,15 @@ body:
     attributes:
       value: |
         Search existing issues before reporting a bug. If the bug already has an issue, add your new findings as a comment there and link it in this report. Do not post passwords, player data, private addresses or full logs that contain personal information.
+  - type: dropdown
+    id: pack
+    attributes:
+      label: Pack tested
+      options:
+        - Minecraft 1.21 NeoForge
+        - Minecraft 1.20.1 Forge
+    validations:
+      required: true
   - type: input
     id: build
     attributes:
