@@ -1,6 +1,8 @@
 # Minecraft modpack
 
-Shared development repository for Phoenix and Vanya. This is the Minecraft part of Game and Feel. CS:GO belongs in a separate repository under the same Game and Feel organization.
+Shared development repository for Phoenix and Vanya.
+
+[Game and Feel project board](https://github.com/users/PhoenixBodrov/projects/1) brings together plans and bugs for both games. [CS:GO](https://github.com/PhoenixBodrov/CSGO) has its own repository. Both repositories are currently owned by PhoenixBodrov.
 
 Two pack lines are planned:
 
