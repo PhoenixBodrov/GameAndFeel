@@ -4,6 +4,8 @@ This project is maintained by Phoenix and Vanya.
 
 Read the README and existing pack files before editing. Determine the Minecraft version, loader, mod versions and scripting tools from the supplied project. Ask when the project does not establish a required fact.
 
+The Minecraft 1.21 NeoForge and Minecraft 1.20.1 Forge packs are separate pack lines. Identify the affected pack before editing. Keep its files in its own folder and do not copy configuration or scripts between pack lines without checking version compatibility.
+
 Keep each task focused. Preserve unrelated configs, recipes, quests and assets. Do not update mods or change the loader unless the task explicitly requires it.
 
 Verify APIs and recipe formats against the installed mod versions. Do not invent mod identifiers, item identifiers or script functions.
