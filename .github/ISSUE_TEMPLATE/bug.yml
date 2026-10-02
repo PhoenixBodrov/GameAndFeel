@@ -1,11 +1,8 @@
 name: Bug report
-description: Report a problem in the Minecraft pack
+description: Report a problem in the Game and Feel packs
 title: "Bug: "
+labels: ["bug"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Search existing bugs before opening a new issue. If one matches, add your reproduction steps, affected version and evidence as a comment on that issue. Do not post passwords, player data or private addresses.
   - type: dropdown
     id: pack
     attributes:
@@ -13,9 +10,15 @@ body:
       options:
         - Minecraft 1.21 NeoForge
         - Minecraft 1.20.1 Forge
+        - CS:GO
+        - Shared tooling or documentation
         - Unsure
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        Search existing bugs before opening a new issue. If one matches, add your reproduction steps, affected version and evidence as a comment on that issue. Do not post passwords, player data or private addresses.
   - type: textarea
     id: problem
     attributes:
@@ -36,7 +39,7 @@ body:
     id: versions
     attributes:
       label: Relevant versions
-      description: Include the pack version, Minecraft version, loader and relevant mods when known.
+      description: Include the pack version, game version, loader where applicable, and relevant mods when known.
   - type: dropdown
     id: environment
     attributes:

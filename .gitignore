@@ -1,46 +1,48 @@
-# Local Minecraft data
-/saves/
-/world/
-/world_nether/
-/world_the_end/
-/backups/
-/logs/
-/crash-reports/
-/screenshots/
-/downloads/
-/libraries/
-/versions/
-/assets/
-/.minecraft/
-/options.txt
-/optionsof.txt
-/optionsshaders.txt
-/servers.dat
-/servers.dat_old
-/usercache.json
-/usernamecache.json
-/session.lock
+# Local game data at any pack depth
+**/saves/
+**/world/
+**/world_nether/
+**/world_the_end/
+**/backups/
+**/logs/
+**/crash-reports/
+**/screenshots/
+**/downloads/
+**/libraries/
+**/versions/
+**/.minecraft/
+**/options.txt
+**/optionsof.txt
+**/optionsshaders.txt
+**/servers.dat
+**/servers.dat_old
+**/usercache.json
+**/usernamecache.json
+**/session.lock
+**/launcher_accounts.json
+**/launcher_profiles.json
 
 # Credentials and machine settings
 .env
 .env.*
 !.env.example
-/launcher_accounts.json
-/launcher_profiles.json
 *.pem
 *.key
 
-# Generated outputs and local tools
-/.tools/
-/.gradle/
-/build/
-__pycache__/
+# Generated outputs
+**/.tools/
+**/.gradle/
+**/build/
+**/__pycache__/
 *.pyc
 Thumbs.db
 .DS_Store
 
-# Export archives and mod binaries are distributed separately
+# Pack exports and downloaded mod binaries
 *.zip
 *.rar
 *.7z
-/mods/*.jar
+**/mods/*.jar
+**/cache/
+**/shadercache/
+*.dem

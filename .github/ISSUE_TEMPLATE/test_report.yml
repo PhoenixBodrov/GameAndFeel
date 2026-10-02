@@ -2,19 +2,22 @@ name: Playtest report
 description: Record what was tested, what worked, and which bugs were found
 title: "Playtest: "
 body:
+  - type: dropdown
+    id: pack
+    attributes:
+      label: Affected pack
+      options:
+        - Minecraft 1.21 NeoForge
+        - Minecraft 1.20.1 Forge
+        - CS:GO
+        - Shared tooling or documentation
+        - Unsure
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
         Search existing issues before reporting a bug. If the bug already has an issue, add your new findings as a comment there and link it in this report. Do not post passwords, player data, private addresses or full logs that contain personal information.
-  - type: dropdown
-    id: pack
-    attributes:
-      label: Pack tested
-      options:
-        - Minecraft 1.21 NeoForge
-        - Minecraft 1.20.1 Forge
-    validations:
-      required: true
   - type: input
     id: build
     attributes:
@@ -37,8 +40,8 @@ body:
   - type: input
     id: setup
     attributes:
-      label: Minecraft and loader versions
-      description: Include the Minecraft version and loader when known.
+      label: Game and loader versions
+      description: Include the exact game build, loader where applicable, and relevant mod versions.
   - type: textarea
     id: scope
     attributes:

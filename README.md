@@ -1,42 +1,35 @@
-# Minecraft modpack
+# Game and Feel
 
-Shared development repository for Phoenix and Vanya.
+Shared modpack development for Phoenix and Vanya. This repository keeps the files, bug fixes and history for all three packs together.
 
-[Game and Feel project board](https://github.com/users/PhoenixBodrov/projects/1) brings together plans and bugs for both games. [CS:GO](https://github.com/PhoenixBodrov/CSGO) has its own repository. Both repositories are currently owned by PhoenixBodrov.
+[Planning board](https://github.com/users/PhoenixBodrov/projects/1) · [Bugs and ideas](https://github.com/PhoenixBodrov/GameAndFeel/issues/new/choose) · [Saved releases](https://github.com/PhoenixBodrov/GameAndFeel/releases)
 
-Two pack lines are planned:
+## Packs
 
-| Pack | Folder |
-| --- | --- |
-| Minecraft 1.21 NeoForge | `Minecraft 1.21 NeoForge/` |
-| Minecraft 1.20.1 Forge | `Minecraft 1.20.1 Forge/` |
+| Pack | Folder | Development branch | Release tag example |
+| --- | --- | --- | --- |
+| Minecraft 1.21 NeoForge | [Minecraft/1.21 NeoForge](Minecraft/1.21%20NeoForge) | `codex/minecraft121` | `minecraft121/v0.1.0` |
+| Minecraft 1.20.1 Forge | [Minecraft/1.20.1 Forge](Minecraft/1.20.1%20Forge) | `codex/minecraft1201` | `minecraft1201/v0.1.0` |
+| CS:GO | [CSGO](CSGO) | `codex/csgo` | `csgo/v0.1.0` |
 
-Keep each pack's manifest, configs, scripts, quests and documentation in its own folder. The actual development folders have not been imported yet. Confirm their versions and layouts before adding files.
+The folders currently contain documentation only. The working pack files must be supplied before the first playable baseline or release can be saved. No game compatibility or successful launch has been verified yet.
 
-## Collaboration
+## Development
 
-Each contributor works in their own local clone. Pull the latest changes before starting work. Create a branch for each task, keep the change focused, and open a pull request for the other contributor to review.
+Choose the pack folder, create an issue, and work on a branch. Open a pull request, review the diff together, test the affected pack, then merge into `main`. Every branch is a snapshot of the whole repository; keep changes focused on the intended pack folder.
 
-Keep main as the tested state of both packs. Record which pack a change affects, its gameplay effect and the checks performed. Test multiplayer changes on a dedicated server when available.
+Read the [collaboration guide](CONTRIBUTING.md) and [testing guide](docs/Testing.md). GitHub checks textual merge conflicts; game behavior must also be tested in the game.
 
-## Ideas and tasks
+## History and rollback
 
-Use [Issues](../../issues) for feature ideas, development tasks and bug reports. Choose the matching form when creating an issue. Leave future ideas open so both contributors can discuss and refine them. Turn a planned idea into concrete tasks when the scope is clear. Link the issue in the pull request that implements it, and close it after the change is verified.
+Commits preserve each saved change. Release tags identify tested snapshots for each pack. Release assets provide that pack's installable export. A Minecraft release does not require a CS:GO release.
 
-## Playtesting and community reports
+[Releases and rollback](docs/Releases%20and%20rollback.md) explains how to save a tested version, run an older release, revert a bad fix, or restore one pack folder while preserving the other packs and the history. The tags above are examples, not published releases.
 
-Anyone with a GitHub account can use [New issue](../../issues/new/choose) to submit a playtest report or a bug report while this repository is public. State which pack and version was tested. A playtest report records the commit, test environment, scenarios tried, results and related bugs. Use one bug issue per distinct problem. If an issue already describes the same problem, add your new findings in its comments so all reports stay together. Maintainers can link fixes and close an issue after verification.
+## Bugs and plans
 
-Do not post full logs, world saves, player data, private network addresses or secrets. Share only the relevant excerpt after checking it for private information.
+Anyone with a GitHub account can open issues or comment on existing bugs. Forms cover bugs, features, tasks and playtests and identify the affected pack. Add new evidence to a matching bug.
 
-This is also the place to move useful ideas from Discord. Add the idea and its context without copying private conversations or personal information.
+The Game and Feel board groups plans and progress. Maintainers add issues to it and move them through Todo, In Progress and Done. Verify fixes before closing bugs.
 
-## AI workflow
-
-Provide AGENTS.md as context when using GPT to work on the pack. Also provide the relevant files and installed mod versions. Review generated changes before accepting them, and record which checks were actually run.
-
-## Pack files
-
-Track the pack manifest, configs, scripts, quests, documentation and original assets. Keep worlds, backups, logs, caches, credentials and personal launcher settings out of Git.
-
-The initial ignore rules exclude mod JAR files and exported archives. Adapt these rules to the supplied pack format, and record exact mod versions and download sources before making a release.
+Track manifests, exact dependency versions, configs, scripts, quests, documentation and original assets. Keep credentials, personal launcher settings, logs, caches, saves and generated outputs outside Git. Preserve download sources and redistribution permissions for third party mods.
