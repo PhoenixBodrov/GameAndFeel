@@ -1,7 +1,23 @@
 name: Feature idea
-description: Suggest a feature for the Minecraft pack
+description: Suggest a feature for the Game and Feel packs
 title: "Feature: "
+labels: ["enhancement"]
 body:
+  - type: dropdown
+    id: pack
+    attributes:
+      label: Affected pack
+      options:
+        - Minecraft AI
+        - SteamPunk
+        - Steampunk 1.1
+        - Mine Kokka
+        - Mine Kokka compatability modpack
+        - CS:GO
+        - Shared tooling or documentation
+        - Unsure
+    validations:
+      required: true
   - type: textarea
     id: idea
     attributes:

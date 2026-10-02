@@ -1,21 +1,15 @@
-# Shared Minecraft development
+# Game and Feel development
 
 This project is maintained by Phoenix and Vanya.
 
-Read the README and existing pack files before editing. Determine the Minecraft version, loader, mod versions and scripting tools from the supplied project. Ask when the project does not establish a required fact.
+Read README.md and the existing pack files before editing. Identify the target pack: Minecraft 1.21.1 NeoForge, Minecraft 1.20.1 Forge or CS:GO. Keep changes within its folder unless shared changes are required. Never copy configs or scripts between game or loader versions without checking compatibility.
 
-The Minecraft 1.21 NeoForge and Minecraft 1.20.1 Forge packs are separate pack lines. Identify the affected pack before editing. Keep its files in its own folder and do not copy configuration or scripts between pack lines without checking version compatibility.
+Determine exact dependency versions and tools from the supplied files. Do not invent mod identifiers, APIs or config formats. Preserve unrelated changes and existing pack management formats. Refresh a packwiz index only when packwiz is actually used.
 
-Keep each task focused. Preserve unrelated configs, recipes, quests and assets. Do not update mods or change the loader unless the task explicitly requires it.
+Use a focused branch and pull request. Explain gameplay effects and record actual validation. Retest after conflict resolution. Never claim a client, game or server was tested unless it actually ran.
 
-Verify APIs and recipe formats against the installed mod versions. Do not invent mod identifiers, item identifiers or script functions.
+Do not commit credentials, personal launcher settings, worlds, saves, logs, caches or generated binaries. Preserve dependency source URLs and redistribution permissions.
 
-Do not commit credentials, personal launcher settings, worlds, backups, logs or caches. Do not redistribute third party mod binaries without checking the applicable permission.
-
-Use a separate branch for each task. Describe the gameplay effect, changed files and validation performed when presenting changes. Never claim that Minecraft was launched or a server was tested unless it actually happened.
-
-Use the existing pack management format. If packwiz is present, refresh its index after changing pack files.
-
-For gameplay changes, validate the affected behavior in a test world. For changes affecting multiplayer, check the dedicated server when available. State any checks that still require a human.
+Use independent pack release tags and the release guide. Do not invent playable releases, move published tags or rewrite shared history. Restore only the requested pack when reverting to a previous version.
 
 Do not use dash characters in user visible prose unless required by technical syntax.

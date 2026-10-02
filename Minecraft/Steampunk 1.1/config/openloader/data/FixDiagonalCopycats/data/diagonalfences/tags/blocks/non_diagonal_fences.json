@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "copycats:copycat_fence", "required": false }
+  ]
+}

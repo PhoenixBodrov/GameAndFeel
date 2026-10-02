@@ -1,11 +1,15 @@
+## Pack and issue
+
+Name the affected pack and link the issue.
+
 ## Change
 
-Describe the gameplay effect and why the change is needed.
+Explain the gameplay effect, changed files and reason.
 
-## Validation
+## Compatibility and tests
 
-Record the checks actually performed and their results. Include the Minecraft and mod versions relevant to the change.
+Record exact game, loader and relevant mod versions. Include client or server reproduction steps and results. Link the Playtest report. Separate completed checks from outstanding checks.
 
-## Remaining checks
+## Release and rollback
 
-List any client, world or dedicated server checks still required before merging.
+State whether a pack release is needed, identify the last tested version and describe save or world compatibility impact.

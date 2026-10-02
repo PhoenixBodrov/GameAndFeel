@@ -1,0 +1,1048 @@
+{
+  "values": {
+    "#blockrunner:slightly_slow_blocks": {
+      "speed": 0.85
+    },
+    "#blockrunner:very_quick_blocks": {
+      "speed": 1.55
+    },
+    "#blockrunner:very_slow_blocks": {
+      "speed": 0.45
+    },
+    "#blockrunner:quick_blocks": {
+      "speed": 1.35
+    },
+    "#blockrunner:slow_blocks": {
+      "speed": 0.65
+    },
+    "#blockrunner:slightly_quick_blocks": {
+      "speed": 1.15
+    },
+    "minecraft:polished_granite": {
+      "speed": 1.15
+    },
+    "minecraft:polished_granite_stairs": {
+      "speed": 1.15
+    },
+    "minecraft:polished_granite_slab": {
+      "speed": 1.15
+    },
+    "minecraft:polished_diorite": {
+      "speed": 1.15
+    },
+    "minecraft:polished_diorite_stairs": {
+      "speed": 1.15
+    },
+    "minecraft:polished_diorite_slab": {
+      "speed": 1.15
+    },
+    "minecraft:smooth_stone": {
+      "speed": 1.15
+    },
+    "minecraft:smooth_stone_slab": {
+      "speed": 1.15
+    },
+    "minecraft:dirt_path": {
+      "speed": 1.35
+    },
+    "minecraft:andesite": {
+      "speed": 1.35
+    },
+    "minecraft:andesite_stairs": {
+      "speed": 1.35
+    },
+    "minecraft:andesite_slab": {
+      "speed": 1.35
+    },
+    "minecraft:cracked_stone_bricks": {
+      "speed": 1.35
+    },
+    "minecraft:polished_blackstone": {
+      "speed": 1.55
+    },
+    "minecraft:polished_blackstone_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:polished_blackstone_slab": {
+      "speed": 1.55
+    },
+    "minecraft:polished_blackstone_bricks": {
+      "speed": 1.55
+    },
+    "minecraft:polished_blackstone_brick_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:polished_blackstone_brick_slab": {
+      "speed": 1.55
+    },
+    "minecraft:mossy_stone_bricks": {
+      "speed": 1.35
+    },
+    "minecraft:mossy_stone_brick_stairs": {
+      "speed": 1.35
+    },
+    "minecraft:mossy_stone_brick_slab": {
+      "speed": 1.35
+    },
+    "minecraft:stone_bricks": {
+      "speed": 1.35
+    },
+    "minecraft:stone_brick_stairs": {
+      "speed": 1.35
+    },
+    "minecraft:stone_brick_slab": {
+      "speed": 1.35
+    },
+    "minecraft:polished_deepslate": {
+      "speed": 1.55
+    },
+    "minecraft:polished_deepslate_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:polished_deepslate_slab": {
+      "speed": 1.55
+    },
+    "minecraft:nether_bricks": {
+      "speed": 1.55
+    },
+    "minecraft:nether_brick_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:nether_brick_slab": {
+      "speed": 1.55
+    },
+    "minecraft:deepslate_tiles": {
+      "speed": 1.55
+    },
+    "minecraft:deepslate_tile_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:deepslate_tile_slab": {
+      "speed": 1.55
+    },
+    "minecraft:chiseled_polished_blackstone": {
+      "speed": 1.55
+    },
+    "minecraft:cracked_deepslate_bricks": {
+      "speed": 1.55
+    },
+    "minecraft:sand": {
+      "speed": 0.6
+    },
+    "minecraft:red_sand": {
+      "speed": 0.6
+    },
+    "minecraft:mud": {
+      "speed": 0.6
+    },
+    "minecraft:rooted_dirt": {
+      "speed": 0.65
+    },
+    "minecraft:podzol": {
+      "speed": 0.65
+    },
+    "minecraft:coarse_dirt": {
+      "speed": 0.65
+    },
+    "minecraft:mycelium": {
+      "speed": 0.6
+    },
+    "minecraft:dirt": {
+      "speed": 0.7
+    },
+    "create:andesite_pillar": {
+      "speed": 1.35
+    },
+    "create:calcite_pillar": {
+      "speed": 1.55
+    },
+    "create:cut_andesite": {
+      "speed": 1.35
+    },
+    "create:cut_andesite_brick_slab": {
+      "speed": 1.35
+    },
+    "create:cut_andesite_brick_stairs": {
+      "speed": 1.35
+    },
+    "create:cut_andesite_brick_wall": {
+      "speed": 1.35
+    },
+    "create:cut_andesite_bricks": {
+      "speed": 1.35
+    },
+    "create:cut_andesite_slab": {
+      "speed": 1.35
+    },
+    "create:cut_andesite_stairs": {
+      "speed": 1.35
+    },
+    "create:cut_andesite_wall": {
+      "speed": 1.35
+    },
+    "create:cut_calcite": {
+      "speed": 1.55
+    },
+    "create:cut_calcite_brick_slab": {
+      "speed": 1.55
+    },
+    "create:cut_calcite_brick_stairs": {
+      "speed": 1.55
+    },
+    "create:cut_calcite_brick_wall": {
+      "speed": 1.55
+    },
+    "create:cut_calcite_bricks": {
+      "speed": 1.55
+    },
+    "create:cut_calcite_slab": {
+      "speed": 1.55
+    },
+    "create:cut_calcite_stairs": {
+      "speed": 1.55
+    },
+    "create:cut_calcite_wall": {
+      "speed": 1.55
+    },
+    "create:cut_deepslate": {
+      "speed": 1.55
+    },
+    "create:cut_deepslate_brick_slab": {
+      "speed": 1.55
+    },
+    "create:cut_deepslate_brick_stairs": {
+      "speed": 1.55
+    },
+    "create:cut_deepslate_brick_wall": {
+      "speed": 1.55
+    },
+    "create:cut_deepslate_bricks": {
+      "speed": 1.55
+    },
+    "create:cut_deepslate_slab": {
+      "speed": 1.55
+    },
+    "create:cut_deepslate_stairs": {
+      "speed": 1.55
+    },
+    "create:cut_deepslate_wall": {
+      "speed": 1.55
+    },
+    "create:cut_diorite": {
+      "speed": 1.15
+    },
+    "create:cut_diorite_brick_slab": {
+      "speed": 1.15
+    },
+    "create:cut_diorite_brick_stairs": {
+      "speed": 1.15
+    },
+    "create:cut_diorite_brick_wall": {
+      "speed": 1.15
+    },
+    "create:cut_diorite_bricks": {
+      "speed": 1.15
+    },
+    "create:cut_diorite_slab": {
+      "speed": 1.15
+    },
+    "create:cut_diorite_stairs": {
+      "speed": 1.15
+    },
+    "create:cut_diorite_wall": {
+      "speed": 1.15
+    },
+    "create:cut_granite": {
+      "speed": 1.15
+    },
+    "create:cut_granite_brick_slab": {
+      "speed": 1.15
+    },
+    "create:cut_granite_brick_stairs": {
+      "speed": 1.15
+    },
+    "create:cut_granite_brick_wall": {
+      "speed": 1.15
+    },
+    "create:cut_granite_bricks": {
+      "speed": 1.15
+    },
+    "create:cut_granite_slab": {
+      "speed": 1.15
+    },
+    "create:cut_granite_stairs": {
+      "speed": 1.15
+    },
+    "create:cut_granite_wall": {
+      "speed": 1.15
+    },
+    "create:deepslate_pillar": {
+      "speed": 1.55
+    },
+    "create:diorite_pillar": {
+      "speed": 1.15
+    },
+    "create:granite_pillar": {
+      "speed": 1.15
+    },
+    "create:layered_andesite": {
+      "speed": 1.35
+    },
+    "create:layered_calcite": {
+      "speed": 1.55
+    },
+    "create:layered_deepslate": {
+      "speed": 1.55
+    },
+    "create:layered_diorite": {
+      "speed": 1.15
+    },
+    "create:layered_granite": {
+      "speed": 1.15
+    },
+    "create:polished_cut_andesite": {
+      "speed": 1.35
+    },
+    "create:polished_cut_andesite_slab": {
+      "speed": 1.35
+    },
+    "create:polished_cut_andesite_stairs": {
+      "speed": 1.35
+    },
+    "create:polished_cut_andesite_wall": {
+      "speed": 1.35
+    },
+    "create:polished_cut_calcite": {
+      "speed": 1.55
+    },
+    "create:polished_cut_calcite_slab": {
+      "speed": 1.55
+    },
+    "create:polished_cut_calcite_stairs": {
+      "speed": 1.55
+    },
+    "create:polished_cut_calcite_wall": {
+      "speed": 1.55
+    },
+    "create:polished_cut_deepslate": {
+      "speed": 1.55
+    },
+    "create:polished_cut_deepslate_slab": {
+      "speed": 1.55
+    },
+    "create:polished_cut_deepslate_stairs": {
+      "speed": 1.55
+    },
+    "create:polished_cut_deepslate_wall": {
+      "speed": 1.55
+    },
+    "create:polished_cut_diorite": {
+      "speed": 1.15
+    },
+    "create:polished_cut_diorite_slab": {
+      "speed": 1.15
+    },
+    "create:polished_cut_diorite_stairs": {
+      "speed": 1.15
+    },
+    "create:polished_cut_diorite_wall": {
+      "speed": 1.15
+    },
+    "create:polished_cut_granite": {
+      "speed": 1.15
+    },
+    "create:polished_cut_granite_slab": {
+      "speed": 1.15
+    },
+    "create:polished_cut_granite_stairs": {
+      "speed": 1.15
+    },
+    "create:polished_cut_granite_wall": {
+      "speed": 1.15
+    },
+    "create:small_andesite_brick_slab": {
+      "speed": 1.35
+    },
+    "create:small_andesite_brick_stairs": {
+      "speed": 1.35
+    },
+    "create:small_andesite_brick_wall": {
+      "speed": 1.35
+    },
+    "create:small_andesite_bricks": {
+      "speed": 1.35
+    },
+    "create:small_calcite_brick_slab": {
+      "speed": 1.55
+    },
+    "create:small_calcite_brick_stairs": {
+      "speed": 1.55
+    },
+    "create:small_calcite_brick_wall": {
+      "speed": 1.55
+    },
+    "create:small_calcite_bricks": {
+      "speed": 1.55
+    },
+    "create:small_deepslate_brick_slab": {
+      "speed": 1.55
+    },
+    "create:small_deepslate_brick_stairs": {
+      "speed": 1.55
+    },
+    "create:small_deepslate_brick_wall": {
+      "speed": 1.55
+    },
+    "create:small_deepslate_bricks": {
+      "speed": 1.55
+    },
+    "create:small_diorite_brick_slab": {
+      "speed": 1.15
+    },
+    "create:small_diorite_brick_stairs": {
+      "speed": 1.15
+    },
+    "create:small_diorite_brick_wall": {
+      "speed": 1.15
+    },
+    "create:small_diorite_bricks": {
+      "speed": 1.15
+    },
+    "create:small_granite_brick_slab": {
+      "speed": 1.15
+    },
+    "create:small_granite_brick_stairs": {
+      "speed": 1.15
+    },
+    "create:small_granite_brick_wall": {
+      "speed": 1.15
+    },
+    "create:small_granite_bricks": {
+      "speed": 1.15
+    },
+    "immersive_weathering:cracked_deepslate_brick_slab": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_deepslate_brick_stairs": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_deepslate_brick_wall": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_deepslate_tile_slab": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_deepslate_tile_stairs": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_deepslate_tile_wall": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_nether_brick_slab": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_nether_brick_stairs": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_nether_brick_wall": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_polished_blackstone_brick_slab": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_polished_blackstone_brick_stairs": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_polished_blackstone_brick_wall": {
+      "speed": 1.55
+    },
+    "immersive_weathering:cracked_stone_brick_slab": {
+      "speed": 1.35
+    },
+    "immersive_weathering:cracked_stone_brick_stairs": {
+      "speed": 1.35
+    },
+    "immersive_weathering:cracked_stone_brick_wall": {
+      "speed": 1.35
+    },
+    "immersive_weathering:mossy_chiseled_stone_bricks": {
+      "speed": 1.35
+    },
+    "immersive_weathering:sandy_chiseled_stone_bricks": {
+      "speed": 1.35
+    },
+    "immersive_weathering:sandy_stone_brick_slab": {
+      "speed": 1.35
+    },
+    "immersive_weathering:sandy_stone_brick_stairs": {
+      "speed": 1.35
+    },
+    "immersive_weathering:sandy_stone_brick_wall": {
+      "speed": 1.35
+    },
+    "immersive_weathering:sandy_stone_bricks": {
+      "speed": 1.35
+    },
+    "immersive_weathering:snowy_chiseled_stone_bricks": {
+      "speed": 1.35
+    },
+    "immersive_weathering:snowy_stone_brick_slab": {
+      "speed": 1.35
+    },
+    "immersive_weathering:snowy_stone_brick_stairs": {
+      "speed": 1.35
+    },
+    "immersive_weathering:snowy_stone_brick_wall": {
+      "speed": 1.35
+    },
+    "immersive_weathering:snowy_stone_bricks": {
+      "speed": 1.35
+    },
+    "minecraft:andesite_wall": {
+      "speed": 1.35
+    },
+    "minecraft:blackstone": {
+      "speed": 1.55
+    },
+    "minecraft:blackstone_slab": {
+      "speed": 1.55
+    },
+    "minecraft:blackstone_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:blackstone_wall": {
+      "speed": 1.55
+    },
+    "minecraft:calcite": {
+      "speed": 1.55
+    },
+    "minecraft:chiseled_deepslate": {
+      "speed": 1.55
+    },
+    "minecraft:chiseled_nether_bricks": {
+      "speed": 1.55
+    },
+    "minecraft:chiseled_quartz_block": {
+      "speed": 1.55
+    },
+    "minecraft:chiseled_stone_bricks": {
+      "speed": 1.35
+    },
+    "minecraft:cobbled_deepslate": {
+      "speed": 1.55
+    },
+    "minecraft:cobbled_deepslate_slab": {
+      "speed": 1.55
+    },
+    "minecraft:cobbled_deepslate_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:cobbled_deepslate_wall": {
+      "speed": 1.55
+    },
+    "minecraft:cracked_deepslate_tiles": {
+      "speed": 1.55
+    },
+    "minecraft:cracked_nether_bricks": {
+      "speed": 1.55
+    },
+    "minecraft:cracked_polished_blackstone_bricks": {
+      "speed": 1.55
+    },
+    "minecraft:deepslate": {
+      "speed": 1.55
+    },
+    "minecraft:deepslate_brick_slab": {
+      "speed": 1.55
+    },
+    "minecraft:deepslate_brick_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:deepslate_brick_wall": {
+      "speed": 1.55
+    },
+    "minecraft:deepslate_bricks": {
+      "speed": 1.55
+    },
+    "minecraft:deepslate_tile_wall": {
+      "speed": 1.55
+    },
+    "minecraft:diorite": {
+      "speed": 1.15
+    },
+    "minecraft:diorite_slab": {
+      "speed": 1.15
+    },
+    "minecraft:diorite_stairs": {
+      "speed": 1.15
+    },
+    "minecraft:diorite_wall": {
+      "speed": 1.15
+    },
+    "minecraft:granite": {
+      "speed": 1.15
+    },
+    "minecraft:granite_slab": {
+      "speed": 1.15
+    },
+    "minecraft:granite_stairs": {
+      "speed": 1.15
+    },
+    "minecraft:granite_wall": {
+      "speed": 1.15
+    },
+    "minecraft:mossy_stone_brick_wall": {
+      "speed": 1.35
+    },
+    "minecraft:nether_brick_fence": {
+      "speed": 1.55
+    },
+    "minecraft:nether_brick_wall": {
+      "speed": 1.55
+    },
+    "minecraft:polished_andesite": {
+      "speed": 1.35
+    },
+    "minecraft:polished_andesite_slab": {
+      "speed": 1.35
+    },
+    "minecraft:polished_andesite_stairs": {
+      "speed": 1.35
+    },
+    "minecraft:polished_blackstone_brick_wall": {
+      "speed": 1.55
+    },
+    "minecraft:polished_blackstone_wall": {
+      "speed": 1.55
+    },
+    "minecraft:polished_deepslate_wall": {
+      "speed": 1.55
+    },
+    "minecraft:quartz_block": {
+      "speed": 1.55
+    },
+    "minecraft:quartz_bricks": {
+      "speed": 1.55
+    },
+    "minecraft:quartz_pillar": {
+      "speed": 1.55
+    },
+    "minecraft:quartz_slab": {
+      "speed": 1.55
+    },
+    "minecraft:quartz_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:red_nether_brick_slab": {
+      "speed": 1.55
+    },
+    "minecraft:red_nether_brick_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:red_nether_brick_wall": {
+      "speed": 1.55
+    },
+    "minecraft:red_nether_bricks": {
+      "speed": 1.55
+    },
+    "minecraft:smooth_quartz": {
+      "speed": 1.55
+    },
+    "minecraft:smooth_quartz_slab": {
+      "speed": 1.55
+    },
+    "minecraft:smooth_quartz_stairs": {
+      "speed": 1.55
+    },
+    "minecraft:stone_brick_wall": {
+      "speed": 1.35
+    },
+    "quark:andesite_bricks": {
+      "speed": 1.35
+    },
+    "quark:andesite_bricks_slab": {
+      "speed": 1.35
+    },
+    "quark:andesite_bricks_stairs": {
+      "speed": 1.35
+    },
+    "quark:andesite_bricks_vertical_slab": {
+      "speed": 1.35
+    },
+    "quark:andesite_bricks_wall": {
+      "speed": 1.35
+    },
+    "quark:andesite_pillar": {
+      "speed": 1.35
+    },
+    "quark:andesite_vertical_slab": {
+      "speed": 1.35
+    },
+    "quark:blackstone_bricks": {
+      "speed": 1.55
+    },
+    "quark:blackstone_bricks_slab": {
+      "speed": 1.55
+    },
+    "quark:blackstone_bricks_stairs": {
+      "speed": 1.55
+    },
+    "quark:blackstone_bricks_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:blackstone_bricks_wall": {
+      "speed": 1.55
+    },
+    "quark:blackstone_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:blue_nether_bricks": {
+      "speed": 1.55
+    },
+    "quark:blue_nether_bricks_slab": {
+      "speed": 1.55
+    },
+    "quark:blue_nether_bricks_stairs": {
+      "speed": 1.55
+    },
+    "quark:blue_nether_bricks_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:blue_nether_bricks_wall": {
+      "speed": 1.55
+    },
+    "quark:calcite_bricks": {
+      "speed": 1.55
+    },
+    "quark:calcite_bricks_slab": {
+      "speed": 1.55
+    },
+    "quark:calcite_bricks_stairs": {
+      "speed": 1.55
+    },
+    "quark:calcite_bricks_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:calcite_bricks_wall": {
+      "speed": 1.55
+    },
+    "quark:calcite_pillar": {
+      "speed": 1.55
+    },
+    "quark:calcite_slab": {
+      "speed": 1.55
+    },
+    "quark:calcite_stairs": {
+      "speed": 1.55
+    },
+    "quark:calcite_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:calcite_wall": {
+      "speed": 1.55
+    },
+    "quark:chiseled_andesite_bricks": {
+      "speed": 1.35
+    },
+    "quark:chiseled_calcite_bricks": {
+      "speed": 1.55
+    },
+    "quark:chiseled_diorite_bricks": {
+      "speed": 1.15
+    },
+    "quark:chiseled_granite_bricks": {
+      "speed": 1.15
+    },
+    "quark:cobbled_deepslate_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:deepslate_brick_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:deepslate_tile_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:diorite_bricks": {
+      "speed": 1.15
+    },
+    "quark:diorite_bricks_slab": {
+      "speed": 1.15
+    },
+    "quark:diorite_bricks_stairs": {
+      "speed": 1.15
+    },
+    "quark:diorite_bricks_vertical_slab": {
+      "speed": 1.15
+    },
+    "quark:diorite_bricks_wall": {
+      "speed": 1.15
+    },
+    "quark:diorite_pillar": {
+      "speed": 1.15
+    },
+    "quark:diorite_vertical_slab": {
+      "speed": 1.15
+    },
+    "quark:granite_bricks": {
+      "speed": 1.15
+    },
+    "quark:granite_bricks_slab": {
+      "speed": 1.15
+    },
+    "quark:granite_bricks_stairs": {
+      "speed": 1.15
+    },
+    "quark:granite_bricks_vertical_slab": {
+      "speed": 1.15
+    },
+    "quark:granite_bricks_wall": {
+      "speed": 1.15
+    },
+    "quark:granite_pillar": {
+      "speed": 1.15
+    },
+    "quark:granite_vertical_slab": {
+      "speed": 1.15
+    },
+    "quark:mossy_stone_brick_vertical_slab": {
+      "speed": 1.35
+    },
+    "quark:nether_brick_fence_gate": {
+      "speed": 1.55
+    },
+    "quark:nether_brick_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:polished_andesite_vertical_slab": {
+      "speed": 1.35
+    },
+    "quark:polished_blackstone_brick_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:polished_blackstone_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:polished_calcite": {
+      "speed": 1.55
+    },
+    "quark:polished_calcite_slab": {
+      "speed": 1.55
+    },
+    "quark:polished_calcite_stairs": {
+      "speed": 1.55
+    },
+    "quark:polished_calcite_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:polished_deepslate_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:polished_diorite_vertical_slab": {
+      "speed": 1.15
+    },
+    "quark:polished_granite_vertical_slab": {
+      "speed": 1.15
+    },
+    "quark:quartz_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:red_nether_brick_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:smooth_quartz_vertical_slab": {
+      "speed": 1.55
+    },
+    "quark:smooth_stone_vertical_slab": {
+      "speed": 1.15
+    },
+    "quark:stone_brick_vertical_slab": {
+      "speed": 1.35
+    },
+    "supplementaries:blackstone_tile": {
+      "speed": 1.55
+    },
+    "supplementaries:blackstone_tile_slab": {
+      "speed": 1.55
+    },
+    "supplementaries:blackstone_tile_stairs": {
+      "speed": 1.55
+    },
+    "supplementaries:blackstone_tile_wall": {
+      "speed": 1.55
+    },
+    "millenaire:path_dirt": {
+      "speed": 1.15
+    },
+    "millenaire:path_dirt_slab": {
+      "speed": 1.15
+    },
+    "millenaire:path_snow": {
+      "speed": 1.15
+    },
+    "millenaire:path_snow_slab": {
+      "speed": 1.15
+    },
+    "millenaire:path_gravel": {
+      "speed": 1.3
+    },
+    "millenaire:path_gravel_slab": {
+      "speed": 1.3
+    },
+    "millenaire:path_slabs": {
+      "speed": 1.45
+    },
+    "millenaire:path_slabs_slab": {
+      "speed": 1.45
+    },
+    "millenaire:path_sandstone": {
+      "speed": 1.55
+    },
+    "millenaire:path_sandstone_slab": {
+      "speed": 1.55
+    },
+    "millenaire:path_gravel_slabs": {
+      "speed": 1.55
+    },
+    "millenaire:path_gravel_slabs_slab": {
+      "speed": 1.55
+    },
+    "millenaire:path_ochre_tiles": {
+      "speed": 1.55
+    },
+    "millenaire:path_ochre_tiles_slab": {
+      "speed": 1.55
+    },
+    "#minecraft:planks": {
+      "speed": 1.15
+    },
+    "biomesoplenty:black_sand": {
+      "speed": 0.6
+    },
+    "biomesoplenty:glowing_moss_block": {
+      "speed": 0.7
+    },
+    "biomesoplenty:glowing_moss_carpet": {
+      "speed": 0.7
+    },
+    "biomesoplenty:mossy_black_sand": {
+      "speed": 0.6
+    },
+    "biomesoplenty:orange_sand": {
+      "speed": 0.6
+    },
+    "biomesoplenty:white_sand": {
+      "speed": 0.6
+    },
+    "ecologics:moss_layer": {
+      "speed": 0.7
+    },
+    "ecologics:surface_moss": {
+      "speed": 0.7
+    },
+    "farmersdelight:rich_soil": {
+      "speed": 0.7
+    },
+    "farmersdelight:rich_soil_farmland": {
+      "speed": 0.7
+    },
+    "immersive_weathering:grassy_sandy_dirt": {
+      "speed": 0.65
+    },
+    "immersive_weathering:grassy_silt": {
+      "speed": 0.65
+    },
+    "immersive_weathering:loam": {
+      "speed": 0.7
+    },
+    "immersive_weathering:mulch_block": {
+      "speed": 0.7
+    },
+    "immersive_weathering:red_sand_layer_block": {
+      "speed": 0.6
+    },
+    "immersive_weathering:sand_layer_block": {
+      "speed": 0.6
+    },
+    "immersive_weathering:sandy_dirt": {
+      "speed": 0.65
+    },
+    "immersive_weathering:silt": {
+      "speed": 0.65
+    },
+    "minecraft:farmland": {
+      "speed": 0.7
+    },
+    "minecraft:gravel": {
+      "speed": 0.85
+    },
+    "minecraft:moss_block": {
+      "speed": 0.7
+    },
+    "minecraft:moss_carpet": {
+      "speed": 0.7
+    },
+    "minecraft:snow": {
+      "speed": 0.75
+    },
+    "minecraft:snow_block": {
+      "speed": 0.75
+    },
+    "minecraft:suspicious_gravel": {
+      "speed": 0.85
+    },
+    "minecraft:suspicious_sand": {
+      "speed": 0.6
+    },
+    "regions_unexplored:ash": {
+      "speed": 0.65
+    },
+    "regions_unexplored:ashen_dirt": {
+      "speed": 0.7
+    },
+    "regions_unexplored:peat_coarse_dirt": {
+      "speed": 0.65
+    },
+    "regions_unexplored:peat_dirt": {
+      "speed": 0.65
+    },
+    "regions_unexplored:peat_farmland": {
+      "speed": 0.65
+    },
+    "regions_unexplored:peat_grass_block": {
+      "speed": 0.65
+    },
+    "regions_unexplored:peat_mud": {
+      "speed": 0.6
+    },
+    "regions_unexplored:peat_podzol": {
+      "speed": 0.65
+    },
+    "regions_unexplored:silt_coarse_dirt": {
+      "speed": 0.65
+    },
+    "regions_unexplored:silt_dirt": {
+      "speed": 0.65
+    },
+    "regions_unexplored:silt_farmland": {
+      "speed": 0.65
+    },
+    "regions_unexplored:silt_grass_block": {
+      "speed": 0.65
+    },
+    "regions_unexplored:silt_mud": {
+      "speed": 0.6
+    },
+    "regions_unexplored:silt_podzol": {
+      "speed": 0.65
+    },
+    "regions_unexplored:volcanic_ash": {
+      "speed": 0.65
+    },
+    "supplementaries:ash": {
+      "speed": 0.65
+    },
+    "supplementaries:raked_gravel": {
+      "speed": 0.85
+    }
+  }
+}

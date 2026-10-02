@@ -1,0 +1,207 @@
+enabled = true
+remove_damage_indicator_hearts = true
+round_damage_values = false
+
+[animation]
+	# Default: 16
+	# Range: > 0
+	duration = 16
+
+	[animation.size]
+		# Default: 0.5
+		# Range: 0.0 ~ 3.4028234663852886E38
+		min = 0.5
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		max = 1.0
+
+	[animation.brightness]
+		# Default: 0.85
+		# Range: 0.0 ~ 1.0
+		min = 0.85
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		max = 1.0
+
+	[animation.opacity]
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
+		min = 0.0
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		max = 1.0
+
+	[animation.speed]
+		# Default: 0.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		min = 0.0
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		max = 1.0
+
+	#Colors can be Minecraft color name (GOLD), hex code (#FFAA00), or NONE to disable damage numbers for that type
+	[color.damage]
+		default = "GOLD"
+		"twilightforest:spiked" = "GOLD"
+		"biomesoplenty:fumarole" = "GOLD"
+		"wan_ancient_beasts:quick_sand" = "GOLD"
+		"minecraft:fireworks" = "GOLD"
+		"minecraft:thorns" = "GOLD"
+		"irons_spellbooks:ender_magic" = "GOLD"
+		"tfmg:acid" = "GOLD"
+		"twilightforest:expired" = "GOLD"
+		"twilightforest:thrown_pickaxe" = "GOLD"
+		"minecraft:indirect_magic" = "GOLD"
+		"infinity_cave:wave" = "GOLD"
+		"undead_revamp2:confusion" = "GOLD"
+		"twilightforest:hydra_fire" = "GOLD"
+		"minecraft:dry_out" = "GOLD"
+		"twilightforest:thorns" = "GOLD"
+		"supplementaries:slingshot" = "GOLD"
+		"twilightforest:slider" = "GOLD"
+		"fishofthieves:mango" = "GOLD"
+		"regions_unexplored:dusk_trap" = "GOLD"
+		"minecraft:trident" = "GOLD"
+		"wan_ancient_beasts:crusher_spike" = "GOLD"
+		"neoforge:poison" = "GOLD"
+		"createaddition:barbed_wire" = "GOLD"
+		"twilightforest:squish" = "GOLD"
+		"spell_power:frost" = "GOLD"
+		"twilightforest:yeeted" = "GOLD"
+		"twilightforest:ant" = "GOLD"
+		"createaddition:tesla_coil" = "GOLD"
+		"burnt:flame_arrow" = "GOLD"
+		"irons_spellbooks:eldritch_magic" = "GOLD"
+		"tfmg:blast_furnace" = "GOLD"
+		"born_in_chaos_v1:punishment" = "GOLD"
+		"irons_spellbooks:blood_magic" = "GOLD"
+		"twilightforest:fiery" = "GOLD"
+		"irons_spellbooks:ice_magic" = "GOLD"
+		"legendarysurvivaloverhaul:hyperthermia" = "GOLD"
+		"twilightforest:ominous_fire" = "GOLD"
+		"irons_spellbooks:holy_magic" = "GOLD"
+		"create:mechanical_roller" = "GOLD"
+		"minecraft:mob_projectile" = "GOLD"
+		"twilightforest:scorched" = "GOLD"
+		"powergrid:overloaded_machine" = "GOLD"
+		"create:mechanical_drill" = "GOLD"
+		"irons_spellbooks:fire_field" = "GOLD"
+		"irons_spellbooks:blood_cauldron" = "GOLD"
+		"undead_revamp2:acid" = "GOLD"
+		"minecraft:mob_attack_no_aggro" = "GOLD"
+		"create:crush" = "GOLD"
+		"minecraft:sonic_boom" = "GOLD"
+		"twilightforest:hydra_mortar" = "GOLD"
+		"twilightforest:hydra_bite" = "GOLD"
+		"minecraft:on_fire" = "GOLD"
+		"minecraft:starve" = "GOLD"
+		"spell_power:fire" = "GOLD"
+		"twilightforest:oreberry" = "GOLD"
+		"twilightforest:failed_challenge" = "GOLD"
+		"minecraft:sweet_berry_bush" = "GOLD"
+		"twilightforest:leaf_brain" = "GOLD"
+		"minecraft:player_attack" = "GOLD"
+		"minecraft:wind_charge" = "GOLD"
+		"twilightforest:lost_words" = "GOLD"
+		"minecraft:bad_respawn_point" = "GOLD"
+		"undead_revamp2:ballslol" = "GOLD"
+		"create:mechanical_saw" = "GOLD"
+		"minecraft:dragon_breath" = "GOLD"
+		"tfmg:concrete" = "GOLD"
+		"create:cuckoo_surprise" = "GOLD"
+		"twilightforest:reactor" = "GOLD"
+		"irons_spellbooks:poison_cloud" = "GOLD"
+		"minecraft:wither_skull" = "GOLD"
+		"legendarysurvivaloverhaul:dehydration" = "GOLD"
+		"minecraft:campfire" = "GOLD"
+		"minecraft:cramming" = "GOLD"
+		"minecraft:stalagmite" = "GOLD"
+		"create:fan_fire" = "GOLD"
+		"quark:pickarang" = "GOLD"
+		"minecraft:lava" = "GOLD"
+		"playerrevive:bled_to_death" = "GOLD"
+		"minecraft:freeze" = "GOLD"
+		"irons_spellbooks:fire_magic" = "GOLD"
+		"minecraft:in_fire" = "GOLD"
+		"irons_spellbooks:heartstop" = "GOLD"
+		"twilightforest:frozen" = "GOLD"
+		"born_in_chaos_v1:piercing" = "GOLD"
+		"twilightforest:fire_jet" = "GOLD"
+		"minecraft:thrown" = "GOLD"
+		"minecraft:falling_block" = "GOLD"
+		"twilightforest:axing" = "GOLD"
+		"twilightforest:chilling_breath" = "GOLD"
+		"minecraft:out_of_world" = "GOLD"
+		"minecraft:falling_stalactite" = "GOLD"
+		"minecraft:fly_into_wall" = "GOLD"
+		"twilightforest:snowball_fight" = "GOLD"
+		"twilightforest:thrown_block" = "GOLD"
+		"twilightforest:moonworm" = "GOLD"
+		"spell_power:arcane" = "GOLD"
+		"minecraft:mob_attack" = "GOLD"
+		"minecraft:lightning_bolt" = "GOLD"
+		"minecraft:outside_border" = "GOLD"
+		"infinity_cave:bypass" = "GOLD"
+		"twilightforest:twilight_scepter" = "GOLD"
+		"twilightforest:knightmetal" = "GOLD"
+		"takesapillage:archer_snipe" = "GOLD"
+		"regions_unexplored:dorcel" = "GOLD"
+		"minecraft:arrow" = "GOLD"
+		"minecraft:explosion" = "GOLD"
+		"twilightforest:ghast_tear" = "GOLD"
+		"twilightforest:schooled" = "GOLD"
+		"create:fan_lava" = "GOLD"
+		"create:run_over" = "GOLD"
+		"minecraft:wither" = "GOLD"
+		"minecraft:unattributed_fireball" = "GOLD"
+		"takesapillage:skirmisher_hack" = "GOLD"
+		"minecraft:falling_anvil" = "GOLD"
+		"supplementaries:cannonball" = "GOLD"
+		"supplementaries:player_cannonball" = "GOLD"
+		"twilightforest:falling_ice" = "GOLD"
+		"twilightforest:lich_bomb" = "GOLD"
+		"spell_power:generic" = "GOLD"
+		"minecraft:fireball" = "GOLD"
+		"infinity_cave:kill" = "GOLD"
+		"minecraft:magic" = "GOLD"
+		"twilightforest:stale_sandwich" = "GOLD"
+		"create:potato_cannon" = "GOLD"
+		"irons_spellbooks:lightning_magic" = "GOLD"
+		"minecraft:sting" = "GOLD"
+		"twilightforest:lich_bolt" = "GOLD"
+		"minecraft:drown" = "GOLD"
+		"fishofthieves:coconut" = "GOLD"
+		"minecraft:generic_kill" = "GOLD"
+		"minecraft:player_explosion" = "GOLD"
+		"takesapillage:legioner_slay" = "GOLD"
+		"twilightforest:slam" = "GOLD"
+		"twilightforest:haunt" = "GOLD"
+		"supplementaries:bamboo_spikes" = "GOLD"
+		"create_sa:grapplin_whisk_attack" = "GOLD"
+		"legendarysurvivaloverhaul:hypothermia" = "GOLD"
+		"irons_spellbooks:nature_magic" = "GOLD"
+		"twilightforest:acid_rain" = "GOLD"
+		"minecraft:fall" = "GOLD"
+		"biomesoplenty:bramble" = "GOLD"
+		"twilightforest:thrown_axe" = "GOLD"
+		"irons_spellbooks:dragon_breath_pool" = "GOLD"
+		"supplementaries:xp_extracting" = "GOLD"
+		"spell_power:lightning" = "GOLD"
+		"farmersdelight:stove_burn" = "GOLD"
+		"spell_power:soul" = "GOLD"
+		"minecraft:hot_floor" = "GOLD"
+		"irons_spellbooks:evocation_magic" = "GOLD"
+		"minecraft:in_wall" = "GOLD"
+		"minecraft:generic" = "GOLD"
+		"infinity_cave:magic_bypass" = "GOLD"
+		"twilightforest:lifedrain" = "GOLD"
+		"supplementaries:player_bomb_explosion" = "GOLD"
+		"twilightforest:clamped" = "GOLD"
+		"minecraft:spit" = "GOLD"
+		"supplementaries:bomb_explosion" = "GOLD"
+		"minecraft:cactus" = "GOLD"
+		"spell_power:healing" = "GOLD"
+		"powergrid:zap" = "GOLD"
+
+	[color.heal]
+		default = "DARK_GREEN"

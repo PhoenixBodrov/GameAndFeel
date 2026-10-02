@@ -1,0 +1,532 @@
+#Time-based 1-10 evolution and mob stat scaling
+[scaling]
+	#Global evolution clock multiplier. Uses world game time, not day/night time. 1.0 = configured speed; 0 freezes automatic level progression.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	scalingSpeed = 1.0
+	#Base power level. With automatic progression disabled this is the fixed mob level.
+	# Default: 1
+	# Range: 1 ~ 10
+	startingLevel = 1
+	#Hard cap for the global mob evolution level. Never exceeds 10.
+	# Default: 10
+	# Range: 1 ~ 10
+	maxMobLevel = 10
+	#Automatically gain evolution levels as world game time passes. Independent from /time and modified day length.
+	autoLevelProgression = true
+	#Gameplay minutes required for each automatic level increase. World game time is used, so pausing singleplayer also pauses progression.
+	# Default: 60.0
+	# Range: 0.1 ~ 100000.0
+	levelIntervalMinutes = 60.0
+	#Maximum health growth in percent for every level above level 1.
+	# Default: 25.0
+	# Range: 0.0 ~ 1000.0
+	healthPercentPerLevel = 25.0
+	#Outgoing damage growth in percent for every level above level 1.
+	# Default: 18.0
+	# Range: 0.0 ~ 1000.0
+	damagePercentPerLevel = 18.0
+	#Movement speed growth in percent for every level above level 1.
+	# Default: 6.0
+	# Range: 0.0 ~ 100.0
+	speedPercentPerLevel = 6.0
+	#Experience growth in percent for every level above level 1.
+	# Default: 10.0
+	# Range: 0.0 ~ 1000.0
+	experiencePercentPerLevel = 10.0
+	#Armor penetration gained in percentage points for every level above level 1.
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	armorPenetrationPercentPerLevel = 3.0
+	#Loot amount growth in percent for every level above level 1.
+	# Default: 8.0
+	# Range: 0.0 ~ 1000.0
+	lootPercentPerLevel = 8.0
+	#Use compound/exponential stat growth between levels instead of linear growth.
+	exponentialScaling = false
+	#Absolute safety cap for health, damage, movement speed, experience and loot multipliers.
+	# Default: 20.0
+	# Range: 1.0 ~ 10000.0
+	maxStatMultiplier = 20.0
+	#Maximum armor penetration in percent.
+	# Default: 85.0
+	# Range: 0.0 ~ 100.0
+	maxArmorPenetrationPercent = 85.0
+	#Extra step height for affected mobs. 0.5 lets most mobs smoothly walk onto one-block obstacles without a jump.
+	# Default: 0.5
+	# Range: 0.0 ~ 3.0
+	stepHeightBonus = 0.5
+	#Evolution level from which jump assistance may clear approximately two-block obstacles.
+	# Default: 7
+	# Range: 1 ~ 10
+	twoBlockJumpLevel = 7
+	#Evolution level from which jump assistance may clear approximately three-block obstacles.
+	# Default: 9
+	# Range: 1 ~ 10
+	threeBlockJumpLevel = 9
+	#Jump-strength multiplier reached at level 10. Used only when the entity exposes the generic jump-strength attribute.
+	# Default: 1.68
+	# Range: 1.0 ~ 4.0
+	maxJumpStrengthMultiplier = 1.68
+	#Level from which affected mobs become substantially better at water pursuit.
+	# Default: 6
+	# Range: 1 ~ 10
+	swimBoostLevel = 6
+	#Additional generic water movement efficiency reached at level 10.
+	# Default: 0.85
+	# Range: 0.0 ~ 1.0
+	maxWaterMovementBonus = 0.85
+
+#Level-based sunlight survival for mobs that normally burn in daylight
+[burning]
+	#Enable level-based shade seeking, pre-dawn shelter behavior and eventual sunlight immunity.
+	enabled = true
+	#From this evolution level sun-sensitive mobs refuse dangerous sunlight and actively seek shade instead of chasing prey into the open.
+	# Default: 3
+	# Range: 1 ~ 10
+	avoidSunStartLevel = 3
+	#From this level sun-sensitive mobs start looking for shelter shortly before sunrise.
+	# Default: 5
+	# Range: 1 ~ 10
+	predawnShelterStartLevel = 5
+	#From this level listed sun-sensitive mobs become immune to daylight ignition and stop seeking shade because of the sun.
+	# Default: 7
+	# Range: 1 ~ 10
+	sunImmunityLevel = 7
+	#How many day-time ticks before the normal sunrise boundary level-5+ mobs begin proactively searching for shade.
+	# Default: 1200
+	# Range: 0 ~ 6000
+	predawnLeadTicks = 1200
+	#Maximum horizontal radius used when searching for reachable shade.
+	# Default: 18
+	# Range: 4 ~ 48
+	shadeSearchRadius = 18
+	#Ticks between expensive shelter searches/path safety checks. Larger values reduce CPU cost.
+	# Default: 20
+	# Range: 5 ~ 200
+	shadeRecheckTicks = 20
+	#Allow exposed sun-sensitive mobs to treat reachable water as valid daylight shelter as well as shade.
+	waterShelterEnabled = true
+	#While prey remains in sunlight, sheltered mobs move through connected shade/water toward the prey instead of freezing in one shelter spot.
+	stalkFromShelter = true
+	#If a mob is already burning/exposed and no shelter can be found, prey inside this distance may be chased instead of standing still and dying. Set to 0 to disable.
+	# Default: 7.0
+	# Range: 0.0 ~ 32.0
+	desperateChaseDistance = 7.0
+	#Fallback roaming distance used when an exposed mob cannot find shade or water. The mob keeps moving and re-searching instead of stopping in sunlight.
+	# Default: 12.0
+	# Range: 4.0 ~ 32.0
+	emergencyRunDistance = 12.0
+	#Entity IDs that use the sunlight-survival progression. Defaults to vanilla hostile mobs that normally burn in direct sunlight; add modded mobs here if needed.
+	sunSensitiveEntities = ["minecraft:zombie", "minecraft:zombie_villager", "minecraft:drowned", "minecraft:skeleton", "minecraft:stray", "minecraft:bogged", "minecraft:phantom"]
+
+#Choose which mobs are affected
+[entities]
+	#False = blacklist mode: all hostile mobs scale except listed entities. True = whitelist mode: only listed mobs scale.
+	whitelistMode = false
+	#Entity IDs used by whitelist/blacklist mode. Examples: minecraft:zombie, minecraft:skeleton, anothermod:monster
+	entityList = []
+
+#Smart pursuit and combat navigation
+[smartHunt]
+	#Enable smart pursuit, target memory, recovery pathing, jump assistance, weak-point selection and group breach coordination.
+	enabled = true
+	#Evolution level from which Smart Hunt becomes active.
+	# Default: 2
+	# Range: 1 ~ 10
+	startLevel = 2
+	#Base time a mob remembers the last known target position. High levels receive a moderate bonus. 20 ticks = 1 second.
+	# Default: 120
+	# Range: 0 ~ 12000
+	targetMemoryTicks = 120
+	#Base interval between path reachability checks. Stronger AI checks somewhat faster.
+	# Default: 20
+	# Range: 5 ~ 200
+	pathRecheckTicks = 20
+	#Base time a mob must fail to make useful progress before considering a breach.
+	# Default: 55
+	# Range: 0 ~ 1200
+	stuckBeforeBreachTicks = 55
+	#Minimum movement over a half-second sample that counts as progress.
+	# Default: 0.35
+	# Range: 0.01 ~ 5.0
+	stuckMovementThreshold = 0.35
+	#Sideways distance used to notice sensible weak entries such as doors, gates, fences or glass near the real obstruction.
+	# Default: 2.5
+	# Range: 0.0 ~ 8.0
+	weakPointSearchWidth = 2.5
+	#Before breaking a normal block the mob probes nearby walkable waypoints to go around a pillar, dirt bump or other small obstruction.
+	# Default: 3
+	# Range: 1 ~ 8
+	localBypassRadius = 3
+	#Nearby high-intelligence mobs attacking the same target reuse one breach instead of opening unrelated holes.
+	groupBreachEnabled = true
+	#Evolution level from which coordinated group breaching becomes active.
+	# Default: 5
+	# Range: 1 ~ 10
+	groupBreachStartLevel = 5
+	#Maximum distance at which mobs attacking the same target coordinate around an existing breach.
+	# Default: 8.0
+	# Range: 1.0 ~ 32.0
+	groupBreachRadius = 8.0
+	#Shorter stall delay for obvious entry obstacles such as closed doors, trapdoors, gates, fences and glass.
+	# Default: 18
+	# Range: 0 ~ 1200
+	quickBreachDelayTicks = 18
+	#How long an unseen target can remain remembered before the mob gives up and returns to normal AI. 20 ticks = 1 second.
+	# Default: 600
+	# Range: 0 ~ 12000
+	giveUpTicks = 600
+	#If an unseen target is farther than this distance, the mob gives up sooner.
+	# Default: 48.0
+	# Range: 4.0 ~ 256.0
+	giveUpRange = 48.0
+	#After giving up, time during which the same still-hidden target is ignored.
+	# Default: 200
+	# Range: 0 ~ 12000
+	reacquireCooldownTicks = 200
+	#Allow affected hostile mobs with no current target to acquire passive prey.
+	preyHuntingEnabled = true
+	#Evolution level from which passive-prey hunting becomes active.
+	# Default: 2
+	# Range: 1 ~ 10
+	preyHuntingStartLevel = 2
+	#Base scan interval for passive prey. Higher levels scan somewhat faster.
+	# Default: 40
+	# Range: 10 ~ 400
+	preyScanIntervalTicks = 40
+	#Maximum range at which an idle monster may notice visible passive prey.
+	# Default: 20.0
+	# Range: 2.0 ~ 96.0
+	preyScanRange = 20.0
+	#Allow passive Animal entities such as cows, pigs, sheep and chickens to be selected as prey.
+	attackAnimals = true
+	#Allow villagers and wandering traders to be selected as prey when there is no higher-priority vanilla target.
+	attackVillagers = true
+	#Allow tamed animals to be selected as prey. Disabled by default.
+	attackTamedAnimals = false
+	#Additional entity IDs that may be selected as prey even if they are not vanilla Animal/AbstractVillager classes.
+	preyEntityList = []
+
+#Tactical creeper siege coordination
+[creeperSiege]
+	#At high evolution levels creepers stop using normal suicide attacks and instead act as dedicated wall breachers for nearby monster groups.
+	enabled = true
+	#Minimum level at which creepers switch to tactical siege behavior. Below this level their normal vanilla attack behavior remains unchanged.
+	# Default: 7
+	# Range: 1 ~ 10
+	startLevel = 7
+	#How far a blocked monster may look for an available creeper to make the breach instead of mining the wall itself.
+	# Default: 18.0
+	# Range: 4.0 ~ 64.0
+	requestRadius = 18.0
+	#Nearby monsters assigned to the same siege try to stay at least this far from the tactical creeper before it ignites.
+	# Default: 5.5
+	# Range: 2.0 ~ 16.0
+	blastSafetyRadius = 5.5
+	#Distance from the selected blocking block at which a tactical creeper stops and starts its fuse.
+	# Default: 2.15
+	# Range: 1.0 ~ 6.0
+	fuseDistance = 2.15
+	#When no breach is requested, tactical creepers search this radius for another monster to follow as part of the pack.
+	# Default: 18.0
+	# Range: 4.0 ~ 64.0
+	packSearchRadius = 18.0
+	#Preferred distance a tactical creeper keeps behind its monster pack while waiting for a real breach request.
+	# Default: 3.5
+	# Range: 1.0 ~ 12.0
+	packFollowDistance = 3.5
+	#How many creepers in a local attacking pack try to stay alive as demolition reserves. Other creepers keep normal vanilla attacks.
+	# Default: 1
+	# Range: 0 ~ 4
+	reserveCount = 1
+	#If a tactical-level creeper has no non-creeper monster pack nearby, let it use normal vanilla chase/fuse behavior instead of waiting passively.
+	soloUsesVanillaAttack = true
+	#A reserve creeper abandons reserve duty and defends itself with vanilla behavior if its attack target gets this close. Set to 0 to disable.
+	# Default: 3.0
+	# Range: 0.0 ~ 12.0
+	reservePanicDistance = 3.0
+	#Allied monsters only begin backing away once the assigned demolition creeper is this close to the actual breach. Prevents the pack from freezing while a creeper is still far away.
+	# Default: 6.5
+	# Range: 2.0 ~ 20.0
+	clearanceActivationDistance = 6.5
+	#Maximum time a creeper waits at the breach for allied monsters to clear the blast radius before it ignites.
+	# Default: 80
+	# Range: 0 ~ 600
+	clearanceWaitTicks = 80
+
+#Progressive obstacle breaking used only when pursuit is genuinely blocked
+[blockBreaking]
+	#Enable progressive obstacle breaking by affected mobs.
+	enabled = true
+	#Evolution level from which affected mobs may begin breaking explicit barriers such as doors, fences, gates and glass.
+	# Default: 3
+	# Range: 1 ~ 10
+	startLevel = 3
+	#Evolution level from which affected mobs may breach ordinary terrain/walls after the route is confirmed unreachable.
+	# Default: 4
+	# Range: 1 ~ 10
+	terrainBreachStartLevel = 4
+	#Base block breaking speed multiplier before the evolution-level bonus.
+	# Default: 1.0
+	# Range: 0.01 ~ 100.0
+	speedMultiplier = 1.0
+	#Additional block breaking speed in percent for every evolution level above level 1.
+	# Default: 65.0
+	# Range: 0.0 ~ 1000.0
+	speedPercentPerLevel = 65.0
+	#Maximum distance from the mob to the block it is actually attacking.
+	# Default: 2.75
+	# Range: 1.0 ~ 8.0
+	reach = 2.75
+	#Maximum distance to the active or remembered living target at which block breaking is allowed.
+	# Default: 28.0
+	# Range: 2.0 ~ 128.0
+	targetRange = 28.0
+	#Blocks harder than this will not be broken. Negative-hardness blocks are always protected.
+	# Default: 50.0
+	# Range: 0.0 ~ 10000.0
+	maxHardness = 50.0
+	#Cooldown after successfully breaking a block. Higher evolution levels reduce this cooldown.
+	# Default: 8
+	# Range: 0 ~ 1200
+	cooldownTicks = 8
+	#If enabled, broken blocks use normal block drops with an empty-hand-like context.
+	dropResources = true
+	#Allow mobs to break blocks containing block entities such as chests. Disabled by default.
+	breakBlockEntities = false
+	#Play the hit sound of the actual block while a mob attacks it.
+	hitSounds = true
+	#Spawn small particles from the actual block while a mob attacks it.
+	hitParticles = true
+	#Base ticks between visible/sounding swings while breaking. High levels swing faster.
+	# Default: 6
+	# Range: 1 ~ 40
+	hitIntervalTicks = 6
+	#Allow mobs to select blocks below their current feet level as a breach. Off by default so they do not randomly mine dirt instead of walking around.
+	allowGroundDigging = false
+	#Blocks that mobs are never allowed to break.
+	blockBlacklist = ["minecraft:bedrock", "minecraft:end_portal_frame", "minecraft:end_portal"]
+
+#Separate siege durability used by mob breaching and tactical creepers. Does not change player mining speed.
+[siegeDurability]
+	#Use the custom siege durability system instead of vanilla mining hardness for mob breaching decisions and break time.
+	enabled = true
+	#Show siege durability and material category on block-item tooltips.
+	showTooltip = true
+	# Default: 12
+	# Range: 1 ~ 100000
+	fragile = 12
+	# Default: 30
+	# Range: 1 ~ 100000
+	soft = 30
+	# Default: 65
+	# Range: 1 ~ 100000
+	wood = 65
+	# Default: 95
+	# Range: 1 ~ 100000
+	log = 95
+	# Default: 140
+	# Range: 1 ~ 100000
+	stone = 140
+	# Default: 190
+	# Range: 1 ~ 100000
+	denseStone = 190
+	# Default: 260
+	# Range: 1 ~ 100000
+	lightMetal = 260
+	# Default: 380
+	# Range: 1 ~ 100000
+	heavyMetal = 380
+	# Default: 600
+	# Range: 1 ~ 100000
+	reinforced = 600
+	# Default: 950
+	# Range: 1 ~ 100000
+	obsidian = 950
+	# Default: 1
+	# Range: 1 ~ 10
+	minLevelFragile = 1
+	# Default: 1
+	# Range: 1 ~ 10
+	minLevelSoft = 1
+	# Default: 2
+	# Range: 1 ~ 10
+	minLevelWood = 2
+	# Default: 3
+	# Range: 1 ~ 10
+	minLevelLog = 3
+	# Default: 4
+	# Range: 1 ~ 10
+	minLevelStone = 4
+	# Default: 5
+	# Range: 1 ~ 10
+	minLevelDenseStone = 5
+	# Default: 6
+	# Range: 1 ~ 10
+	minLevelLightMetal = 6
+	# Default: 7
+	# Range: 1 ~ 10
+	minLevelHeavyMetal = 7
+	# Default: 8
+	# Range: 1 ~ 10
+	minLevelReinforced = 8
+	#Optional exact minimum mob levels in the form namespace:block=level. Obsidian-class blocks remain creeper-only.
+	levelOverrides = ["strongmobsfromkokk:reinforced_glass=5", "strongmobsfromkokk:fortress_glass=7", "strongmobsfromkokk:bastion_glass=9", "strongmobsfromkokk:reinforced_bars=8", "strongmobsfromkokk:fortress_bars=9", "strongmobsfromkokk:bastion_bars=10", "strongmobsfromkokk:reinforced_iron_door=8", "strongmobsfromkokk:fortress_door=9", "strongmobsfromkokk:bastion_door=10"]
+	#Base hand-breach power at evolution level 1. Material tiers are unlocked by level; breach power controls how quickly an unlocked block is broken.
+	# Default: 30.0
+	# Range: 1.0 ~ 100000.0
+	mobBreachPowerBase = 30.0
+	#Additional hand-breach power for each evolution level above 1.
+	# Default: 45.0
+	# Range: 0.0 ~ 100000.0
+	mobBreachPowerPerLevel = 45.0
+	#Tactical creeper breach power at the configured tactical-creeper start level.
+	# Default: 300.0
+	# Range: 1.0 ~ 100000.0
+	creeperBreachPowerAtStartLevel = 300.0
+	#Additional tactical creeper breach power for every level above the tactical-creeper start level.
+	# Default: 325.0
+	# Range: 0.0 ~ 100000.0
+	creeperBreachPowerPerLevel = 325.0
+	#Minimum evolution level at which a tactical creeper may destroy obsidian-class siege blocks. Normal mobs can never hand-break them.
+	# Default: 9
+	# Range: 1 ~ 10
+	creeperObsidianBreachLevel = 9
+	#Global time scale for hand-breaking siege durability. Higher = mobs take longer to break blocks with the same power.
+	# Default: 100.0
+	# Range: 1.0 ~ 10000.0
+	breakTimeScale = 100.0
+	#Optional exact overrides in the form namespace:block=value. Example: create:industrial_iron_block=700
+	overrides = ["strongmobsfromkokk:reinforced_glass=220", "strongmobsfromkokk:fortress_glass=360", "strongmobsfromkokk:bastion_glass=520", "strongmobsfromkokk:reinforced_bars=420", "strongmobsfromkokk:fortress_bars=620", "strongmobsfromkokk:bastion_bars=820", "strongmobsfromkokk:reinforced_iron_door=500", "strongmobsfromkokk:fortress_door=700", "strongmobsfromkokk:bastion_door=900"]
+
+#High-level reinforcement ability
+[reinforcements]
+	#Allow sufficiently evolved mobs to call zombie reinforcements while fighting.
+	enabled = true
+	#Minimum evolution level required to call reinforcements.
+	# Default: 8
+	# Range: 1 ~ 10
+	startLevel = 8
+	#Cooldown between reinforcement calls for one mob. 20 ticks = 1 second.
+	# Default: 1800
+	# Range: 100 ~ 72000
+	cooldownTicks = 1800
+	#A mob may call reinforcements when its health percentage is at or below this value.
+	# Default: 55.0
+	# Range: 1.0 ~ 100.0
+	healthTriggerPercent = 55.0
+	#A high-level mob may also call reinforcements after being seriously stuck for this many ticks.
+	# Default: 100
+	# Range: 20 ~ 2400
+	stuckTriggerTicks = 100
+	#Base chance for a valid reinforcement call. Levels 9-10 gain an additional chance bonus.
+	# Default: 45.0
+	# Range: 0.0 ~ 100.0
+	chancePercent = 45.0
+	#Number of helpers emerging at levels 8-9 by default.
+	# Default: 2
+	# Range: 1 ~ 8
+	baseCount = 2
+	#Extra helpers added when the caller is level 10.
+	# Default: 1
+	# Range: 0 ~ 8
+	level10ExtraCount = 1
+	#Duration of the rise-from-ground visual sequence for summoned helpers.
+	# Default: 24
+	# Range: 5 ~ 100
+	emergeTicks = 24
+	#Approximate horizontal distance from the caller used when searching for helper emergence positions. Helpers never intentionally spawn through a sealed wall around the victim.
+	# Default: 5.0
+	# Range: 2.0 ~ 12.0
+	spawnRadius = 5.0
+
+#Optional integration with the Pale Garden mod. At high evolution levels, monster packs may raise a pale-oak tree with a real Creaking Heart and a linked Creaking.
+[paleGardenSiege]
+	enabled = true
+	# Default: 8
+	# Range: 1 ~ 10
+	startLevel = 8
+	nightOnly = true
+	# Default: 30.0
+	# Range: 0.0 ~ 100.0
+	callChancePercent = 30.0
+	# Default: 12.5
+	# Range: 0.0 ~ 100.0
+	callChancePerLevelPercent = 12.5
+	# Default: 3600
+	# Range: 100 ~ 72000
+	targetCooldownTicks = 3600
+	# Default: 1
+	# Range: 0 ~ 8
+	maxActiveTrees = 1
+	# Default: 6.0
+	# Range: 2.0 ~ 32.0
+	minSpawnRadius = 6.0
+	# Default: 12.0
+	# Range: 3.0 ~ 48.0
+	maxSpawnRadius = 12.0
+	# Default: 55
+	# Range: 10 ~ 200
+	emergeTicks = 55
+	# Default: 80
+	# Range: 20 ~ 2400
+	stuckTriggerTicks = 80
+	# Default: 60.0
+	# Range: 1.0 ~ 100.0
+	healthTriggerPercent = 60.0
+	trackThroughWalls = true
+	# Default: 64.0
+	# Range: 8.0 ~ 256.0
+	trackRange = 64.0
+
+#Rare high-level siege caster support for targets that are vertically or pathfinding-wise difficult to reach
+[siegeCaster]
+	enabled = true
+	# Default: 7
+	# Range: 1 ~ 10
+	startLevel = 7
+	# Default: 24.0
+	# Range: 0.0 ~ 100.0
+	callChancePercent = 24.0
+	# Default: 5.0
+	# Range: 0.0 ~ 100.0
+	callChancePerLevelPercent = 5.0
+	# Default: 2400
+	# Range: 100 ~ 72000
+	targetCooldownTicks = 2400
+	# Default: 1
+	# Range: 0 ~ 8
+	maxNearby = 1
+	# Default: 6.0
+	# Range: 2.0 ~ 20.0
+	spawnRadius = 6.0
+	# Default: 3.0
+	# Range: 1.0 ~ 32.0
+	verticalTrigger = 3.0
+	# Default: 80
+	# Range: 20 ~ 2400
+	stuckTriggerTicks = 80
+	summonPhantoms = true
+	# Default: 2
+	# Range: 0 ~ 8
+	phantomCount = 2
+	# Default: 240
+	# Range: 40 ~ 7200
+	phantomCooldownTicks = 240
+	# Default: 800
+	# Range: 100 ~ 72000
+	phantomLifetimeTicks = 800
+	selfDestruct = true
+	# Default: 2.75
+	# Range: 1.0 ~ 12.0
+	selfDestructDistance = 2.75
+	# Default: 30
+	# Range: 5 ~ 200
+	selfDestructFuseTicks = 30
+	# Default: 3.25
+	# Range: 0.0 ~ 20.0
+	selfDestructPower = 3.25
+	# Default: 2400
+	# Range: 200 ~ 72000
+	lifetimeTicks = 2400

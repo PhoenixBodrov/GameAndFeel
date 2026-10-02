@@ -1,0 +1,6 @@
+// Hundred Years War client skin sync configuration
+{
+  // Whether this client may download and use cached remote custom skins.
+  // If false, other players' custom skins always render as default on this client.
+  "enableRemoteSkinDownloads": true
+}

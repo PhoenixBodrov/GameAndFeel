@@ -1,0 +1,16 @@
+
+#How much the villagers talk.
+[chatter]
+	#How often villagers speak. NORMAL is exactly what the add-on does;
+	#each step up roughly halves the gap between lines and how long a
+	#villager remembers having already greeted you.
+	#QUIET, NORMAL, CHATTY, VERY_CHATTY.
+	#Allowed Values: QUIET, NORMAL, CHATTY, VERY_CHATTY
+	chattiness = "NORMAL"
+	#Let a crowd carry more than one voice at a time. The add-on allows
+	#exactly one villager in the world to be speaking, so a hamlet of four
+	#and a town of forty produce the same number of lines a minute. With
+	#this on, a busy village gets a second and eventually a third voice.
+	#It never goes past three: overlapping voices are worse than silence.
+	crowd_voices = true
+

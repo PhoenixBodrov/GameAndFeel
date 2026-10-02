@@ -1,0 +1,13 @@
+
+#What the mod draws on your screen.
+[display]
+	#Show the text of what a villager is saying, above the hotbar.
+	#Off leaves the voice lines and the animations exactly as they are --
+	#this is the caption only, not the dialogue.
+	subtitles = true
+	#Put the speaker's name in front of the subtitle -- "Farmer: Hello"
+	#-- so you can tell who is talking. It is the name you gave the
+	#villager with a name tag, or its profession if you have not named it.
+	#Off shows the line on its own.
+	speaker_name = true
+

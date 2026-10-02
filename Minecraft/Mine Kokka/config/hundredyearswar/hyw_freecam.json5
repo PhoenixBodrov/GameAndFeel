@@ -1,0 +1,16 @@
+// HYW RTSfreecam server configuration
+// This file controls server-side player permission for HYW RTSfreecam only.
+// On multiplayer servers, edit the server's copy of this file; a client-side copy does not affect remote servers.
+// It does not control the original Freecam mod.
+{
+  // Config file version. Used for automatic migration; normally do not edit.
+  "configVersion": 1,
+
+  // Enable the RTSfreecam whitelist. When false, every player may use HYW RTSfreecam.
+  // When true, only player names listed in "rtsFreecamWhitelist" may use HYW RTSfreecam.
+  "enableRtsFreecamWhitelist": false,
+
+  // Player names allowed to use HYW RTSfreecam when the whitelist is enabled.
+  // Examples: ["Steve", "Alex", "Player_Name"]
+  "rtsFreecamWhitelist": []
+}

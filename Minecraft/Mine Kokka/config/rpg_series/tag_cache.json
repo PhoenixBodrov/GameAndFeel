@@ -1,0 +1,82 @@
+{
+  "cache": {
+    "rpg_series:loot_tier/tier_1_accessories": [],
+    "rpg_series:archetype/healing_weapon": [],
+    "rpg_series:loot_tier/tier_4_armors": [],
+    "rpg_series:loot_tier/tier_5_armors": [],
+    "rpg_series:loot_tier/tier_3_armors": [
+      "archers:netherite_ranger_armor_head",
+      "archers:netherite_ranger_armor_chest",
+      "archers:netherite_ranger_armor_legs",
+      "archers:netherite_ranger_armor_feet"
+    ],
+    "rpg_series:loot_tier/tier_0_accessories": [],
+    "rpg_series:loot_tier/tier_1_armors": [
+      "archers:archer_armor_head",
+      "archers:archer_armor_chest",
+      "archers:archer_armor_legs",
+      "archers:archer_armor_feet"
+    ],
+    "rpg_series:loot_tier/tier_1_weapons": [
+      "archers:iron_spear",
+      "archers:composite_longbow"
+    ],
+    "rpg_series:archetype/ranged_damage_weapon": [
+      "archers:mechanic_shortbow",
+      "archers:netherite_shortbow",
+      "archers:composite_longbow",
+      "archers:royal_longbow",
+      "archers:netherite_longbow",
+      "archers:rapid_crossbow",
+      "archers:netherite_rapid_crossbow",
+      "archers:heavy_crossbow",
+      "archers:netherite_heavy_crossbow"
+    ],
+    "rpg_series:loot_tier/tier_2_armors": [
+      "archers:ranger_armor_head",
+      "archers:ranger_armor_chest",
+      "archers:ranger_armor_legs",
+      "archers:ranger_armor_feet"
+    ],
+    "rpg_series:loot_tier/tier_0_weapons": [
+      "archers:flint_spear"
+    ],
+    "rpg_series:archetype/defense_weapon": [],
+    "rpg_series:loot_tier/tier_2_accessories": [],
+    "rpg_series:loot_tier/tier_4_accessories": [],
+    "rpg_series:loot_tier/tier_3_accessories": [],
+    "rpg_series:archetype/melee_damage_weapon": [
+      "archers:flint_spear",
+      "archers:iron_spear",
+      "archers:golden_spear",
+      "archers:diamond_spear",
+      "archers:netherite_spear"
+    ],
+    "rpg_series:archetype/magic_damage_weapon": [],
+    "rpg_series:loot_theme/aether": [],
+    "rpg_series:loot_theme/dragon": [],
+    "rpg_series:loot_tier/tier_1_relics": [],
+    "rpg_series:loot_tier/tier_2_weapons": [
+      "archers:diamond_spear",
+      "archers:royal_longbow",
+      "archers:heavy_crossbow",
+      "archers:mechanic_shortbow",
+      "archers:rapid_crossbow"
+    ],
+    "rpg_series:loot_tier/tier_3_weapons": [
+      "archers:netherite_spear",
+      "archers:netherite_rapid_crossbow",
+      "archers:netherite_heavy_crossbow",
+      "archers:netherite_shortbow",
+      "archers:netherite_longbow"
+    ],
+    "rpg_series:loot_tier/tier_4_weapons": [],
+    "rpg_series:loot_theme/golden_weapon": [
+      "archers:golden_spear"
+    ],
+    "rpg_series:loot_tier/tier_3_relics": [],
+    "rpg_series:loot_tier/tier_5_weapons": [],
+    "rpg_series:loot_tier/tier_2_relics": [],
+    "rpg_series:loot_tier/tier_4_relics": []
+  }
+}

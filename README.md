@@ -1,42 +1,34 @@
-# Minecraft modpack
+# Game and Feel
 
-Shared development repository for Phoenix and Vanya.
+Shared modpack files, bug fixes, development history and downloadable snapshots for Phoenix and kokkas56.
 
-[Game and Feel project board](https://github.com/users/PhoenixBodrov/projects/1) brings together plans and bugs for both games. [CS:GO](https://github.com/PhoenixBodrov/CSGO) has its own repository. Both repositories are currently owned by PhoenixBodrov.
+[Board](https://github.com/users/PhoenixBodrov/projects/1) · [Bugs and ideas](https://github.com/PhoenixBodrov/GameAndFeel/issues/new/choose) · [Downloads](https://github.com/PhoenixBodrov/GameAndFeel/releases)
 
-Two pack lines are planned:
+## Minecraft
 
-| Pack | Folder |
-| --- | --- |
-| Minecraft 1.21 NeoForge | `Minecraft 1.21 NeoForge/` |
-| Minecraft 1.20.1 Forge | `Minecraft 1.20.1 Forge/` |
+The folder names mirror the supplied Minecraft directory.
 
-Keep each pack's manifest, configs, scripts, quests and documentation in its own folder. The actual development folders have not been imported yet. Confirm their versions and layouts before adding files.
+| Folder | Game and loader | Purpose |
+| --- | --- | --- |
+| Minecraft/Minecraft AI | 1.20.1 Forge 47.4.10 | Experimental development pack |
+| Minecraft/SteamPunk | 1.20.1 Forge 47.4.10 | Current stable pack used for play and development |
+| Minecraft/Steampunk 1.1 | 1.20.1 Forge 47.4.10 | Older development pack, may be retired |
+| Minecraft/Mine Kokka | 1.21.1 NeoForge 21.1.233 | Newest main development pack |
+| Minecraft/Mine Kokka compatability modpack | 1.21.1 NeoForge 21.1.250 | Separate bug and compatibility test pack |
+| CSGO | Awaiting files | CS:GO modpack |
 
-## Collaboration
+SteamPunk is the current stable pack, with a planned move to Mine Kokka. Mine Kokka is the newest development pack. Steampunk 1.1 is older work that may be retired. Minecraft AI is for experimental development. The compatibility pack stays separate for testing new mods. The supplied Steampunk 1.1 metadata identifies Forge 1.20.1, despite its description as previous 1.21; retain the recorded version until replacement files confirm otherwise.
 
-Each contributor works in their own local clone. Pull the latest changes before starting work. Create a branch for each task, keep the change focused, and open a pull request for the other contributor to review.
+Configs, scripts, quests and custom pack data are tracked. Binary dependency inventories record exact checksums. Downloadable archives contain installed mods and resources, without launcher accounts, worlds, logs or generated caches. Snapshots are user supplied and have not been launch tested by this setup process.
 
-Keep main as the tested state of both packs. Record which pack a change affects, its gameplay effect and the checks performed. Test multiplayer changes on a dedicated server when available.
+## Branches and history
 
-## Ideas and tasks
+main holds shared changes. Starter work branches are codex/minecraft1201, codex/neoforge1211, codex/neoforgeTests and codex/csgo. Use focused branches and pull requests for fixes. A branch contains the complete repository; edit the intended pack folder.
 
-Use [Issues](../../issues) for feature ideas, development tasks and bug reports. Choose the matching form when creating an issue. Leave future ideas open so both contributors can discuss and refine them. Turn a planned idea into concrete tasks when the scope is clear. Link the issue in the pull request that implements it, and close it after the change is verified.
+Each pack has independent release tags and downloads. See [Releases and rollback](docs/Releases%20and%20rollback.md). Do not move published tags.
 
-## Playtesting and community reports
+## Team workflow
 
-Anyone with a GitHub account can use [New issue](../../issues/new/choose) to submit a playtest report or a bug report while this repository is public. State which pack and version was tested. A playtest report records the commit, test environment, scenarios tried, results and related bugs. Use one bug issue per distinct problem. If an issue already describes the same problem, add your new findings in its comments so all reports stay together. Maintainers can link fixes and close an issue after verification.
+Use features & bugs for ideas and reports, in progress Kokk or in progress Rein while developing, To test when a change needs verification, and Completed after verification. Attach logs to bug reports when available. Drag a log file into the issue editor; logs are optional and must not contain passwords or access tokens.
 
-Do not post full logs, world saves, player data, private network addresses or secrets. Share only the relevant excerpt after checking it for private information.
-
-This is also the place to move useful ideas from Discord. Add the idea and its context without copying private conversations or personal information.
-
-## AI workflow
-
-Provide AGENTS.md as context when using GPT to work on the pack. Also provide the relevant files and installed mod versions. Review generated changes before accepting them, and record which checks were actually run.
-
-## Pack files
-
-Track the pack manifest, configs, scripts, quests, documentation and original assets. Keep worlds, backups, logs, caches, credentials and personal launcher settings out of Git.
-
-The initial ignore rules exclude mod JAR files and exported archives. Adapt these rules to the supplied pack format, and record exact mod versions and download sources before making a release.
+See [Synchronization](docs/Synchronization.md), [Collaboration](CONTRIBUTING.md) and [Testing](docs/Testing.md). Git detects file conflicts; gameplay and mod compatibility still require game tests.
