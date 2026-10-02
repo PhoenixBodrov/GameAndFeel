@@ -8,8 +8,11 @@ body:
     attributes:
       label: Affected pack
       options:
-        - Minecraft 1.21 NeoForge
-        - Minecraft 1.20.1 Forge
+        - Minecraft AI
+        - SteamPunk
+        - Steampunk 1.1
+        - Mine Kokka
+        - Mine Kokka compatability modpack
         - CS:GO
         - Shared tooling or documentation
         - Unsure
@@ -54,3 +57,10 @@ body:
     attributes:
       label: Screenshots or safe log excerpts
       description: Remove personal information and secrets before attaching anything.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or crash report
+      description: Optional but recommended. Drag a log or crash report file into this field, or paste a short relevant excerpt. Remove passwords, tokens and private details first.
+    validations:
+      required: false

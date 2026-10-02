@@ -1,0 +1,3717 @@
+{
+  "pack": "Mine Kokka",
+  "version": {
+    "profile": "NeoForge 1.21.1",
+    "loaderCoordinates": [
+      "net.neoforged:neoforge:21.1.233:universal",
+      "net.neoforged:neoforge:21.1.233:client"
+    ]
+  },
+  "files": [
+    {
+      "path": "mods/Abandoned-Watchtowers-7.0.1-NeoForge-1.21.1.jar",
+      "size": 164469,
+      "sha256": "7ceda6d406e1865d0a52a97cfbd1a3347bc51685cd6d76d93aeb1ea6c0867001"
+    },
+    {
+      "path": "mods/accessories-neoforge-1.1.0-beta.53-1.21.1.jar",
+      "size": 1078697,
+      "sha256": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
+    },
+    {
+      "path": "mods/accessories_cclayer-9.3.1-beta.28-1.21.1-neoforge.jar",
+      "size": 468241,
+      "sha256": "055e4ca4474ed4730b5f0d1d30f0fa052655bc70e7a3e9a9af08c24a5bc7107a"
+    },
+    {
+      "path": "mods/alloyed-3.0.9-1.21.1-neoforge.jar",
+      "size": 873568,
+      "sha256": "d32e68e20733859cb2fa2ca5ed3141a240a96c1aacd6259ae44afea00eb16929"
+    },
+    {
+      "path": "mods/ancore-4.0.0-neoforge-1.21.x.jar",
+      "size": 2975,
+      "sha256": "09030385340261c9eb18064df3ecd58e6c1813f4230f860f6a1b83ff882f6da6"
+    },
+    {
+      "path": "mods/another_furniture-neoforge-4.0.2-1.21.1.jar",
+      "size": 2417424,
+      "sha256": "c61a66c73bcc5147d9983dc72c485493a612d2dbc078fcb86e2024155e34b7dd"
+    },
+    {
+      "path": "mods/Antique-Atlas-1.21.1-8.0.1-NeoForge.jar",
+      "size": 1477919,
+      "sha256": "b5b406b7b48fbdd68e66160a24145fc399f21e39f9f391120bb172e8180e45fc"
+    },
+    {
+      "path": "mods/archers-neoforge-2.7.0-1.21.1.jar",
+      "size": 723267,
+      "sha256": "1b66fdd54d4e4979dad6882f88810bf3317e45e7d32b5aa52982a3332407ffb2"
+    },
+    {
+      "path": "mods/architectury-13.0.8-neoforge-1.21.jar",
+      "size": 584004,
+      "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+    },
+    {
+      "path": "mods/artifacts-neoforge-13.2.1.jar",
+      "size": 1030252,
+      "sha256": "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8"
+    },
+    {
+      "path": "mods/azurelibarmor-neo-1.21.1-3.1.3.jar",
+      "size": 574146,
+      "sha256": "7d95ea861c06ed99ee75d1da9a6a7a61b5d8fdd8f476a0df5e8d76b84796dcd0"
+    },
+    {
+      "path": "mods/bagus_lib-1.21.1-13.25.1.jar",
+      "size": 224874,
+      "sha256": "a1e6baf5c41881235fe9b6f820426a7755c75fe174df62bac0aa341bab5483d4"
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.1-21.0.57.jar",
+      "size": 701108,
+      "sha256": "ab56a4edaaf7366e6aa5a7446cf4f0d939e844ab0fb0df9b27967916bff0425a"
+    },
+    {
+      "path": "mods/bettercombat-neoforge-2.3.2-1.21.1.jar",
+      "size": 1041845,
+      "sha256": "afb1f28271ee3b622947f533aa754bb22ed67edd4940a3e9fdf2cca1edb7b8a9"
+    },
+    {
+      "path": "mods/betterfoliagerenewed-neoforge-1.21-6.0.jar",
+      "size": 388038,
+      "sha256": "f653c453d12e9b6b4db0a2abbac1fd1de25753950167b9bbf5b1f695f2cafb91"
+    },
+    {
+      "path": "mods/betterfurnacesreforged-1.21.1-1.1.2518.1-neoforge.jar",
+      "size": 640069,
+      "sha256": "1afc865777f453bf4c25102da3167347a5baa41c7f1b9895b2a630105d1ab843"
+    },
+    {
+      "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+      "size": 22338081,
+      "sha256": "6af75f8f41fb50a80945237930516542f5d9b5005334afdc41b393f58f18932a"
+    },
+    {
+      "path": "mods/block_factorys_bosses-2.0.12-neo-1.21.1.jar",
+      "size": 20707172,
+      "sha256": "6f2f0bf6fda4126cc41ab34f8e88c4dfc1f4b498ffc040a15bd501b8870a8b84"
+    },
+    {
+      "path": "mods/BlockRunner-v21.1.2-1.21.1-NeoForge.jar",
+      "size": 107012,
+      "sha256": "ff337de308c0ac97f15cb774c08e28a009288eca6c5aaa25c898d0f698bae75c"
+    },
+    {
+      "path": "mods/born_in_chaos_-Neoforge-_1.21.1_1.7.5.jar",
+      "size": 11841361,
+      "sha256": "9afebf09cf6a75e731c9eda414fcebc2a414f9e3d834ceea49bbfcc9c45492b7"
+    },
+    {
+      "path": "mods/bundle-api-neoforge-1.1.0.jar",
+      "size": 64124,
+      "sha256": "73328888d1dede4c121974a0914f5a35cb857283223217a59de7b5b697e43771"
+    },
+    {
+      "path": "mods/Burden-Of-Time-1.21.1-5.0.2-NeoForge.jar",
+      "size": 40212,
+      "sha256": "b79b6a248be353c9bebdcb40e4271002648f06aaf20944421b17a5d313e2d059"
+    },
+    {
+      "path": "mods/burnt_basic-1.10.4-neoforge-1.21.1.jar",
+      "size": 22118318,
+      "sha256": "3792da2d7e37874819a16ab72aef292d75a50209414680ceb16dcb2fa16c0d4f"
+    },
+    {
+      "path": "mods/c2me-neoforge-mc1.21.1-0.3.0alpha.0.93.jar",
+      "size": 4510749,
+      "sha256": "2735b16e136e51c03c9a8211fbecaf9d571a28475981223c60662465664f5322"
+    },
+    {
+      "path": "mods/caelus-neoforge-7.0.1-1.21.1.jar",
+      "size": 50235,
+      "sha256": "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
+    },
+    {
+      "path": "mods/citadel-2.7.0-1.21.1.jar",
+      "size": 3033192,
+      "sha256": "a80af1dbc6d00ea908366bcc175951a11fbf83a12aeadd36b5035a772ff7c3a6"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge-1.21.1.jar",
+      "size": 1163890,
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "size": 1163890,
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+    },
+    {
+      "path": "mods/cluttered-NeoForge-3.0.3-1.21.1.jar",
+      "size": 5404861,
+      "sha256": "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f"
+    },
+    {
+      "path": "mods/combat_roll-neoforge-2.0.6-1.21.1.jar",
+      "size": 193381,
+      "sha256": "4904ae4c392d51c431c915822d817de608fd524632021ce417a17ce1a0185f17"
+    },
+    {
+      "path": "mods/connector-2.0.0-beta.14-1.21.1-full.jar",
+      "size": 4526785,
+      "sha256": "45664deef6a8403bc89acd91f8999d3cea4a69c95eb97ef872716ef96711a1f6"
+    },
+    {
+      "path": "mods/ConnectorExtras-1.12.1+1.21.1.jar",
+      "size": 86284,
+      "sha256": "ee89c3425b9a4bff766aaff02ccf8110c06f5da6ef5d71974556885cf25d4880"
+    },
+    {
+      "path": "mods/copycats-3.0.4mc.1.21.1-neoforge.jar",
+      "size": 1791747,
+      "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+    },
+    {
+      "path": "mods/cosycritters-1.21.1-NeoForge-0.0.6.jar",
+      "size": 55503,
+      "sha256": "0f9c3f619a549c13c538e9daf61e550b5f66b2454e5eb17a4b215648804d0cf1"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "size": 19123767,
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+      "size": 33030286,
+      "sha256": "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
+    },
+    {
+      "path": "mods/create-confectionery1.21.1_v1.1.3.jar",
+      "size": 2128395,
+      "sha256": "05d8a9967e93437358ba7ffcf5e9238753c3e71c2b3a1156f5fcb22781e4d3a1"
+    },
+    {
+      "path": "mods/create-stuff-additions1.21.1_v2.1.3.jar",
+      "size": 1325365,
+      "sha256": "32e4372a6a970752e0921b56b34115e2e626b248d55123ae3d67723c87444e1c"
+    },
+    {
+      "path": "mods/create_ltab-4.0.2.jar",
+      "size": 2857303,
+      "sha256": "03e665b7c2d439c640f98bc0f362072be54cb441de1a1ff34fd623aa05ea824c"
+    },
+    {
+      "path": "mods/create_more_automation-0.5.2-neoforge-1.21.1.jar",
+      "size": 315683,
+      "sha256": "2e85408b5480667af7b2e8be4569f147d070f7be7d0d2985aade6d3adc3d8977"
+    },
+    {
+      "path": "mods/create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+      "size": 1055815,
+      "sha256": "37cfe32ca602a37bd21307e6f456a35788c30315722f14e07326ff555d188fc0"
+    },
+    {
+      "path": "mods/createaddition-1.21.1-1.5.10.jar",
+      "size": 1595173,
+      "sha256": "72653762c1014c33ce151858d1478573dbd74cbc23c74ffe1fb2d71fb73627ee"
+    },
+    {
+      "path": "mods/createbetterfps-1.21.1-1.1.4.jar",
+      "size": 26547,
+      "sha256": "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+    },
+    {
+      "path": "mods/createdeco-2.1.3-1.21.1-neoforge.jar",
+      "size": 3328498,
+      "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+    },
+    {
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+      "size": 1216443,
+      "sha256": "62c88048902c23cde0d8b5b0da2eb7b463c5249380b1f8c86cafd817b0daf4a9"
+    },
+    {
+      "path": "mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "size": 1185088,
+      "sha256": "ed83bea2826667fca80a6a8067f89fe7b97eb8b3213bbcb7f0f4e6a6898c0bc9"
+    },
+    {
+      "path": "mods/cristellib-neoforge-1.21.1-3.0.3.jar",
+      "size": 539899,
+      "sha256": "f5ada4fe5a4a8ba9f8800a54f9ae6fe5a7a4d1156ada6567d11d45e3c3b02239"
+    },
+    {
+      "path": "mods/crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
+      "size": 1398478,
+      "sha256": "4520de01496893d5cb80faaaeadf67b03481ebe769e11caffaa02bb12fe3bcd1"
+    },
+    {
+      "path": "mods/croptopia-neoforge-1.21.1-4.2.4.jar",
+      "size": 2220594,
+      "sha256": "6bbca7da92548a727abd29bc04fbd659dff87718ae24a1558d8ae83f654c6574"
+    },
+    {
+      "path": "mods/dawnoftimebuilder-neoforge-1.21.1-1.6.6.jar",
+      "size": 3083725,
+      "sha256": "3b37504f81554f9965f1292005bd0da3bbdb09f367d1891a15c166ab0ba0e739"
+    },
+    {
+      "path": "mods/day_length-2.0.0-neoforge-1.21.1.jar",
+      "size": 21445,
+      "sha256": "6125c16029b6d747699bb0177dbfc040b7d86a7d773f207e33a4a426261cd4ba"
+    },
+    {
+      "path": "mods/displaydelight-1.7.0-1.21.1.jar",
+      "size": 1144367,
+      "sha256": "4a77575139aa2fd1e1887243461e4f5cf1a532ac0a3a4d3a80c469d07a6df55c"
+    },
+    {
+      "path": "mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "size": 30113661,
+      "sha256": "daba497eaaefe535f04f2ee6f6be11485d3d5b46676fbf0a792d26e178ef4785"
+    },
+    {
+      "path": "mods/dynamic_ecosystems-neoforge-1.21.1_1.41.0.jar",
+      "size": 25094691,
+      "sha256": "b5b5113e145c8e1bf7fb13058cf5279f20726c757ee8d3e072a564b8e2425020"
+    },
+    {
+      "path": "mods/dynamicsurroundings-neoforge-1.21.1-0.4.2.jar",
+      "size": 14844663,
+      "sha256": "dae59dceb749957fcd9cb589e0cab5ef60f2e6422002dd490ba3111b6eb4eaff"
+    },
+    {
+      "path": "mods/eatinganimation-1.21.0-6.0.1.jar",
+      "size": 289863,
+      "sha256": "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb"
+    },
+    {
+      "path": "mods/ecologics-1.21.1-2.3.4.jar",
+      "size": 1881965,
+      "sha256": "083734cd81969b56bc5780e3046bdab7922d74bc2187ecc5417da494ad5087ff"
+    },
+    {
+      "path": "mods/effortlessbuilding-1.21.1-3.10-all.jar",
+      "size": 2212218,
+      "sha256": "43cc5b654a3f29a094ea5888749bbdc2c094d07e0e80a77647c073d00f87cad8"
+    },
+    {
+      "path": "mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+      "size": 1330403,
+      "sha256": "fe6c04dcfdbb8815058ebf1102d64cb4c86060a0a1b7350121e4a976d4a92248"
+    },
+    {
+      "path": "mods/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "size": 746263,
+      "sha256": "875647ca276c2cfc9418ee2d62398c61380eac8d79ab0e555aefa09ac3b07d18"
+    },
+    {
+      "path": "mods/expandability-12.0.0.jar",
+      "size": 44765,
+      "sha256": "6e9e21d60d6f48052482dddf0f3a24662687ac2ad3c868d7c9a88fe851d293c5"
+    },
+    {
+      "path": "mods/factoryapi-1.21.1-2.2.8-neoforge.jar",
+      "size": 537975,
+      "sha256": "f51f62e5f101ce75f71dfde5a1f64f7d75cd34158d91648360260b7764e9c487"
+    },
+    {
+      "path": "mods/fallen_logs-6.4-1.21.1.jar",
+      "size": 3149431,
+      "sha256": "40e62b783e7acb2f76e6a04f1b6155789a7db5767fb609905aa72da216754d42"
+    },
+    {
+      "path": "mods/fallingleaves-1.21.1-2.5.1.jar",
+      "size": 153343,
+      "sha256": "3c03b49b5f35481d4baf61ec1fe04233b39cb5a34f7447be04f7d4efd2976834"
+    },
+    {
+      "path": "mods/farmers-cutting-quark-1.21.1-1.0.jar",
+      "size": 18479,
+      "sha256": "cc7bb63dd64289d59c426c8d84694f922c2ce302dc9f3e0ebb28a9ab24c9740e"
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.3.1.jar",
+      "size": 3124506,
+      "sha256": "f02ffbf597af17d481b930daeed4b5906d6a6fddb464d392f28f42560965f4f4"
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge-1.21.1.jar",
+      "size": 121559,
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+    },
+    {
+      "path": "mods/floatingdamagenumbers-21.1.2.jar",
+      "size": 35039,
+      "sha256": "aca0ccc69a8e6784c6ea3d0344f4686d20cc01a88cd95d0eddad1e663016cd01"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar",
+      "size": 104654,
+      "sha256": "1fffe12e3e8343ef52d306ee29f7d6f6724d47a185a375c4a3c75aab3894c68d"
+    },
+    {
+      "path": "mods/forgified-fabric-api-0.116.7+2.2.2+1.21.1.jar",
+      "size": 5567694,
+      "sha256": "602f84ce93582c0096763d5bee4bade2d08fb5439d7d4088f9b7261d7cec16c2"
+    },
+    {
+      "path": "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+      "size": 5569717,
+      "sha256": "19867adeb1b5c0e79510b7fd2d6213a59949c9277b96a1c76a04a22211ad6d15"
+    },
+    {
+      "path": "mods/FpsReducer2-neoforge-1.21-2.10.jar",
+      "size": 143137,
+      "sha256": "f3afa8a76ae8f320610d6e50970881722a758c1c23ded4831293d1c81adbce21"
+    },
+    {
+      "path": "mods/friendsandfoes-neoforge-4.0.26-mc1.21.1.jar",
+      "size": 5211942,
+      "sha256": "dda1240b97a93dc109f95d5cf58b836bca0cab1ab9aa263787038e3c708ee09c"
+    },
+    {
+      "path": "mods/fruitsdelight-1.2.13-1.21.1.jar",
+      "size": 1910600,
+      "sha256": "2c1a51a56e99868ed3f87ecd67e35c371484ffde90dd66ed9b57b37ff285193b"
+    },
+    {
+      "path": "mods/gaggle_of_golems-1.4.1-neoforge-1.21.1.jar",
+      "size": 5769524,
+      "sha256": "a28cf32db27a3ee8ac21e469fcd01ce9a942062c5c7f4ac3d6cbb685247a0fc2"
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "size": 622582,
+      "sha256": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
+    },
+    {
+      "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "size": 90918,
+      "sha256": "9362e2faacc6c864a91c5d0f452305fe7a496aa6c91131af63d021f1baa773a7"
+    },
+    {
+      "path": "mods/gml-6.0.1.jar",
+      "size": 14819375,
+      "sha256": "0cfe097daac51f01dbfef2f6a5087b3455786fb5e28a1c580e295fd78db50031"
+    },
+    {
+      "path": "mods/GoodEnding-1.21.1-1.1.0-NeoForge.jar",
+      "size": 12584606,
+      "sha256": "79d02840db9e9f53bf74e32ab573f8bb64941a82b9ae59b86d5739267f9f5e35"
+    },
+    {
+      "path": "mods/hackersandslashers-1.1.3.jar",
+      "size": 518742,
+      "sha256": "352815ecf56ce45e9584541e543f62acb15a780d4c2d5ca8c686f3d71f616615"
+    },
+    {
+      "path": "mods/hardmodeores-1.21.1-b.jar",
+      "size": 81688,
+      "sha256": "fe2c5cd7b1335b3dbeb47026446eb30949efca4dd25b2c19418d091ecbc5179e"
+    },
+    {
+      "path": "mods/HellishTrials-neoforge-1.0.5-1.21.1.jar",
+      "size": 581988,
+      "sha256": "7f28724652eedd275970455e37629758f7279bd3918a4f1d852676dcf392db63"
+    },
+    {
+      "path": "mods/holdmyitemsnf-1.21.1v2.1.jar",
+      "size": 107291,
+      "sha256": "ba638b37b49ff4efbc4eed9408b53abd16c2f2ce6825feea6c24f486c729a2e1"
+    },
+    {
+      "path": "mods/HundredYearsWar-0.6.2r-fix2-1.21.1-neoforge.jar",
+      "size": 9283984,
+      "sha256": "32a6938497cacad854c368348c9a9a1f9a768d1e105fde74fc2121cffa97c60b"
+    },
+    {
+      "path": "mods/Immersive-weathering-V1.0.4-neoforge-beta.jar",
+      "size": 2283529,
+      "sha256": "3290e96d1df45b8e3fbdbc7027f86cdb72b4f3a4e8a26d62ffe2d504c57a3c4d"
+    },
+    {
+      "path": "mods/infinity_cave-0.7-NeoForge-1.21.1.jar",
+      "size": 7226784,
+      "sha256": "5e5c4dd8489a2399e10949c57554a60e70dc6bae11701b171f69637c9d56ecf3"
+    },
+    {
+      "path": "mods/inventoryessentials-neoforge-1.21.1-21.1.14.jar",
+      "size": 189928,
+      "sha256": "009a72510e6c15b74a1582f7c74311d046675b9235aabfd1ab7b3f3c7aa6fdb1"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "size": 1295466,
+      "sha256": "05f1b8660f74f543fba61d4ce7cf8632d4c69a95b7c15b1a6fd442be2e397ca6"
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.12-mc1.21.1.jar",
+      "size": 2438548,
+      "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+    },
+    {
+      "path": "mods/irons_lib-1.21.1-1.1.0.jar",
+      "size": 400168,
+      "sha256": "92aa20968d51a65267218aafe757cae2a3330f5f552ab8594510d89fded84989"
+    },
+    {
+      "path": "mods/irons_spellbooks-1.21.1-3.16.1.jar",
+      "size": 13789430,
+      "sha256": "e917dfdb9ced0cae0e5d9c471cae5b427855b31b0015872ec376ab2bdde373a7"
+    },
+    {
+      "path": "mods/ItemPhysic_NEOFORGE_v1.8.12_mc1.21.1.jar",
+      "size": 54034,
+      "sha256": "8e05bff7d23e9e3f5aed1ae4207abec16b8d1a7e9b84ac1f2ee99cc012a85c9d"
+    },
+    {
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "size": 725742,
+      "sha256": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "size": 1529391,
+      "sha256": "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
+    },
+    {
+      "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.84.jar",
+      "size": 4128387,
+      "sha256": "3465a8bb8c21ad4a4eb45478eb40897cee144cec6419b0c5e96e8782103ad32c"
+    },
+    {
+      "path": "mods/kotlinforforge-5.11.0-all.jar",
+      "size": 6869790,
+      "sha256": "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
+    },
+    {
+      "path": "mods/kubejs-neoforge-2101.7.2-build.368.jar",
+      "size": 2281720,
+      "sha256": "28867299e7a9f02cfd74e34745fdbbb073fe4887fddbc98fd6c1ed2e87b01482"
+    },
+    {
+      "path": "mods/legendarysurvivaloverhaul-1.21.1-2.4.2.jar",
+      "size": 3742368,
+      "sha256": "da9c38f05df4dfe09e5226f17d43a0c1725c16ede3ea6dd2d945c111b1d413e4"
+    },
+    {
+      "path": "mods/letsdo-brewery-neoforge-2.1.9.jar",
+      "size": 1656054,
+      "sha256": "7abbc2bb43fa319d4893e84b145b2cc803e6e61f5e6f0c37ec4611567a07ed66"
+    },
+    {
+      "path": "mods/letsdo-farm_and_charm-neoforge-1.1.22.jar",
+      "size": 2580595,
+      "sha256": "2fe62301c96883689bee28a7eac4b05ea026990c26b51d06a124a4bd3a1b5293"
+    },
+    {
+      "path": "mods/letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "size": 757160,
+      "sha256": "053ecf864dc1b1624b0fb78a552a086ee9da21c1c81ce5a75aad61ec2bfebf24"
+    },
+    {
+      "path": "mods/libIPN-neoforge-1.21.1-6.6.3.jar",
+      "size": 626146,
+      "sha256": "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b"
+    },
+    {
+      "path": "mods/libjf-3.17.4+forge.jar",
+      "size": 730989,
+      "sha256": "6c77dab50125f819fe5d4107fa481cf6074c8d935aa608fc7f7e7f67e103a6cc"
+    },
+    {
+      "path": "mods/lithium-neoforge-0.15.3-mc1.21.1.jar",
+      "size": 774148,
+      "sha256": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
+    },
+    {
+      "path": "mods/lithostitched-1.7.9-neoforge-21.1.jar",
+      "size": 824695,
+      "sha256": "9da5826e349f8a58dca526f7afcec9cdd7d6906577945242c87462aa6debcdee"
+    },
+    {
+      "path": "mods/lodestone-1.21.1-1.8.2.jar",
+      "size": 818829,
+      "sha256": "cc961af6a77391628378c1c838e521415fa895062b13def493d27234ca527f3e"
+    },
+    {
+      "path": "mods/luckysarmory-1.0.2-1.21.1-neoforge.jar",
+      "size": 239601,
+      "sha256": "4aaad280e8ea2b4a03d33e3043baab393e58bd3c36b0ccf1508c70ec371d940d"
+    },
+    {
+      "path": "mods/luckyswardrobe-2.0.0.jar",
+      "size": 228947,
+      "sha256": "74bffa2668971fb22fca7a182ea2e66cc9927798f2c574795e0b8fbdb0cd3021"
+    },
+    {
+      "path": "mods/millenaire-9.0.1.jar",
+      "size": 20756865,
+      "sha256": "e35e0fcc5fa4771e8cb90fbefa3ab7f9ddcdafe56fd65040e9f94771a85b27c3"
+    },
+    {
+      "path": "mods/minersdelight-1.21.1-1.4.5.jar",
+      "size": 390203,
+      "sha256": "616881ef219807f24962a461afa1fe10eab7989099779b4650bbceca48213344"
+    },
+    {
+      "path": "mods/moonlight-1.21-2.29.33-neoforge.jar",
+      "size": 1596760,
+      "sha256": "47759081ab26271fed829f17abe1a8aa8ac1a17a111acb3b9255749e35e00f7a"
+    },
+    {
+      "path": "mods/morevillagers-neoforge-1.21.1-6.0.0.jar",
+      "size": 227363,
+      "sha256": "6d45d9cde3484f082cf6d2fd4cf66015906b77ce47b172f52578973e584a2d43"
+    },
+    {
+      "path": "mods/mynethersdelight-1.21.1-1.10.2.jar",
+      "size": 825875,
+      "sha256": "002678f15ae0e61805d3bbd0bc8c7d7f683d63e6ab479ff8fb2518514134c4c2"
+    },
+    {
+      "path": "mods/naturalist-1.0.2-neoforge-1.21.1.jar",
+      "size": 5028168,
+      "sha256": "04616a9f136c7a8fd6f9f75e83be80af33bc54924b3ca16b0f33d19273c25e95"
+    },
+    {
+      "path": "mods/natures_spirit-2.2.5-1.21.1.jar",
+      "size": 18606071,
+      "sha256": "f8fcf83f96bdff3901c91bf60a361f3de231e4ae78d547b9abd013b70f773bed"
+    },
+    {
+      "path": "mods/neo21.1_regrowth_CC-21.34.7.jar",
+      "size": 155905,
+      "sha256": "bc0183ca7d6c3db43f7a054c212250de70ef85b30eb3e9787b93ca511704f1c2"
+    },
+    {
+      "path": "mods/nether-s-exoticism-1.21.1-1.2.9.jar",
+      "size": 2975631,
+      "sha256": "a1e6db89192b1b770eed1d084e406aa56ec3c65e542c3ec2fb8abe3667234242"
+    },
+    {
+      "path": "mods/noisium-neoforge-2.3.0-mc1.21-1.21.1.jar",
+      "size": 60296,
+      "sha256": "e95209d593bc00d7c5de94f746ffd1dfbfa70ac8fbe938393ef930d00416109c"
+    },
+    {
+      "path": "mods/OpenLoader-neoforge-1.21.1-21.1.5.jar",
+      "size": 35602,
+      "sha256": "c0becabbb2d45c254e959d3a26a0237dacdfccb7cde85de98c4b863057e842ff"
+    },
+    {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1-1.21.jar",
+      "size": 1221583,
+      "sha256": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
+    },
+    {
+      "path": "mods/pamhc2crops-neoforge-1.21.1-1.0.9.jar",
+      "size": 1536646,
+      "sha256": "ebdb8aaf2bda8d4a46fb655af57b546f285a1ff15411bba691c18420064b84b5"
+    },
+    {
+      "path": "mods/pamhc2foodcore-neoforge-1.21.1-1.0.4.jar",
+      "size": 1699044,
+      "sha256": "acd5dd380eafc3f317b67231a2355c204cab254dfdf4ab1f25c084fdd3d317b9"
+    },
+    {
+      "path": "mods/pamhc2foodextended-neoforge-1.21.1-1.0.0.jar",
+      "size": 1983616,
+      "sha256": "d61dda7d00ab69bfaef45854df01ab6cfd64243d7f9a5ae870c89dd954247a8c"
+    },
+    {
+      "path": "mods/pamhc2trees-neoforge-1.21.1-1.0.9.jar",
+      "size": 1399642,
+      "sha256": "64c34129468b0d75738cf0faf667a52067d2db1e72ee8564c0a8f850bbf154c7"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-2.0.4-1.21.1.jar",
+      "size": 203149,
+      "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+    },
+    {
+      "path": "mods/PlayerAnimationLibNeoforge-1.1.4+mc.1.21.1.jar",
+      "size": 1155653,
+      "sha256": "b0836ad98db1e614f1e62cb40d5943eb4ba7d51f298e4b3ad0746770364ab072"
+    },
+    {
+      "path": "mods/PlayerRevive_NEOFORGE_v2.1.0_mc1.21.1.jar",
+      "size": 5304844,
+      "sha256": "08b6252996627aece36164c553715f6e8180030f55bf61db004f3369b4ca3115"
+    },
+    {
+      "path": "mods/pommel-held-items-1.4.2-1.21.x.jar",
+      "size": 50703,
+      "sha256": "f895e4983846ab538cb0210f6626ce0b437f3a90c1e716ad78f18c6facd134f7"
+    },
+    {
+      "path": "mods/ponder-neoforge-1.0.87+mc1.21.1.jar",
+      "size": 822408,
+      "sha256": "d6b7fdf94359f73dc1fee730eded898d51b3bf0d626710753253becd8e4e6bef"
+    },
+    {
+      "path": "mods/powergrid-mc1.21.1-0.5.5.1.jar",
+      "size": 6252168,
+      "sha256": "e1570e7691b0d1d7495342581a769ddb765d538c63047e96159e0c6dec9a8d69"
+    },
+    {
+      "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "size": 84812,
+      "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "size": 1425176,
+      "sha256": "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c"
+    },
+    {
+      "path": "mods/Quark-4.1-480.jar",
+      "size": 15542634,
+      "sha256": "989c465df2e4cb9f602840c2eec143358bf11462cc19dc0b0c7c9f17449e75a5"
+    },
+    {
+      "path": "mods/railways-0.2.1neoforge-mc1.21.1.jar",
+      "size": 12118736,
+      "sha256": "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914"
+    },
+    {
+      "path": "mods/ranged_weapon_api-neoforge-2.3.3+1.21.1.jar",
+      "size": 141442,
+      "sha256": "49f439f6b771aeecebeeacc1e920761ba75a8da6ce71026e18412af06ec66405"
+    },
+    {
+      "path": "mods/regions-unexplored-0.6.1-neoforge-21.1.jar",
+      "size": 6365928,
+      "sha256": "8eac74e63ba6bc9c3aea459adcdeba58d7918d296d0775c6f51777fe2ee1967a"
+    },
+    {
+      "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "size": 341009,
+      "sha256": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4"
+    },
+    {
+      "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "size": 484332,
+      "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+    },
+    {
+      "path": "mods/revampedwolf-1.21.1-13.1.0.jar",
+      "size": 58142,
+      "sha256": "1faf6421653e354e06b0624af0d6a53cf9006c21d4cb57919704a7b1f0967225"
+    },
+    {
+      "path": "mods/rhino-2101.2.7-build.85.jar",
+      "size": 882075,
+      "sha256": "95df92ce578b2504cb16d8c9fc285303bf062eb15452246a18e57b7cf091c19a"
+    },
+    {
+      "path": "mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+      "size": 2215572,
+      "sha256": "794223f5a91b8b80a962754b5180ec3e2472db6941e9b6c1cdd49324df628389"
+    },
+    {
+      "path": "mods/roamers_neoforge_v2.1_1.21.1.jar",
+      "size": 1273972,
+      "sha256": "f5fb528c670e7059524e755499b424b9b384a46d5d6babc48002d907df5e7f8f"
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-1.2.2.jar",
+      "size": 12719293,
+      "sha256": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
+    },
+    {
+      "path": "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "size": 159205,
+      "sha256": "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
+    },
+    {
+      "path": "mods/SereneShrubbery-NeoForge-1.21.1-v2.4.0.jar",
+      "size": 841114,
+      "sha256": "3d604606432c1cd5cf381823b8d064c4798869ad6dd36df2b1a60f37db8f31a7"
+    },
+    {
+      "path": "mods/shine-2.0.01.21.1-neoforge.jar",
+      "size": 360286,
+      "sha256": "29388c400be0803b721bebcc4bc1902bea8dd1bf7cfb5840c7252b4d4033a6b9"
+    },
+    {
+      "path": "mods/sleep_tight-1.21-1.4.1-neoforge.jar",
+      "size": 768856,
+      "sha256": "1e638e9e370f86cb80cd60a4d8032760aa48019e616c65ae40a89cc01808d38b"
+    },
+    {
+      "path": "mods/slimy_stuff-1.21.1-1.1.1.jar",
+      "size": 401636,
+      "sha256": "c4b97131b8e5e09d6740486c000d440de71c4761b463d5b656e3f3e2e0d8f9f1"
+    },
+    {
+      "path": "mods/sodium-neoforge-0.6.13-mc1.21.1.jar",
+      "size": 1162994,
+      "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+    },
+    {
+      "path": "mods/solcarrot-1.21.1-1.16.6.jar",
+      "size": 105355,
+      "sha256": "ae3e73a08c8373fbee639b2feaf21c2e08caf9e4a44f8dfa610f44a5143f2fd1"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.63.1912.jar",
+      "size": 1141190,
+      "sha256": "6bc4b8d7becd624a407665c147e35ada8343f77fb4246a16ab5c5aec9c17c4c7"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.4.58.2026.jar",
+      "size": 1648596,
+      "sha256": "ba368aa618306c2b702c74afdfe9944da0087a6dd9ed1c5e4a7809a433cdcbb3"
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.21.1-1.5.60.1851.jar",
+      "size": 1716175,
+      "sha256": "76e8bb1b0a332ffaee2a75030f15ca913cbc14d04dcbb74a49aa3e313890b3a1"
+    },
+    {
+      "path": "mods/spawn-animations-compats-15.0.jar",
+      "size": 77724,
+      "sha256": "ba25cedb6b93cdbb6f24b9a1c249d553f3b519bf364c6803a84a0dcd9f1a9058"
+    },
+    {
+      "path": "mods/spell_engine-neoforge-1.9.9+1.21.1.jar",
+      "size": 3785539,
+      "sha256": "9d7151b8b748a86910a32345967d40fe82a10326dcc3780978002c570b621563"
+    },
+    {
+      "path": "mods/spell_power-neoforge-1.4.6+1.21.1.jar",
+      "size": 195485,
+      "sha256": "b5457fd85e36e839b5d18c215ac1d113ae5d3e1a8dbc48a342d906a93da9a380"
+    },
+    {
+      "path": "mods/Structory_26.1_v1.3.16.jar",
+      "size": 1261336,
+      "sha256": "2591265c9899bbb7305b4d6992e2a5fa1aff1bc691c724d3da34761b806251b7"
+    },
+    {
+      "path": "mods/structure_pool_api-neoforge-1.2.1+1.21.1.jar",
+      "size": 140459,
+      "sha256": "c18460025b07bc05fdc95bf62621c6b56f45e4eeb1c319f12787f39eb9315ea9"
+    },
+    {
+      "path": "mods/supplementaries-1.21-3.5.34-neoforge.jar",
+      "size": 13366044,
+      "sha256": "3e82252fcd89b090786e1640f8cf8fac76e3e35f30465849944e7b89ca2f433b"
+    },
+    {
+      "path": "mods/swem-1.21.1-1.6.11.jar",
+      "size": 12182086,
+      "sha256": "ac997b1f110c0a5b30646989c4fb4dd6f5ba28dec0d2e298611a75d840549092"
+    },
+    {
+      "path": "mods/t_and_t-neoforge-fabric-1.13.7-1.21.1.jar",
+      "size": 3641681,
+      "sha256": "925d61a8cee8ca013bac15cda2fcfbdf647eb1cde50c414c18298ea3a627c640"
+    },
+    {
+      "path": "mods/takesapillage-neoforge-1.0.10-mc1.21.1.jar",
+      "size": 3290722,
+      "sha256": "a86e4396e68e7c2ff22fd4ce9369e933139011c285097573ea76eeb914eef20d"
+    },
+    {
+      "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "size": 120364,
+      "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
+    },
+    {
+      "path": "mods/tfmg-1.2.2-1.21.1-neoforge.jar",
+      "size": 4986234,
+      "sha256": "31829296de219302dd5678e310b22767a455cf582fcc40e48c0b7c6c2b426bdd"
+    },
+    {
+      "path": "mods/THEUNDEADREVAMPED_1.8f_1.21.1-neoforge.jar",
+      "size": 7473761,
+      "sha256": "b8ee3ddff5b0c14259c21200e36c8bf321e3ecdc3ab181bf8a2d90e2bf140206"
+    },
+    {
+      "path": "mods/trashslot-neoforge-1.21.1-21.1.9.jar",
+      "size": 77367,
+      "sha256": "8d5ed45a30eb649bcea93136541d5274bcd9585084bdacb3d2bd72bb97808e5f"
+    },
+    {
+      "path": "mods/TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "size": 517750,
+      "sha256": "2a5ec9cca187b4a031e9dd7e5eec8d0872f7d2bc355d88bda633021fa7eb71b0"
+    },
+    {
+      "path": "mods/trmt-0.5.1-1.21.1-neoforge.jar",
+      "size": 130176,
+      "sha256": "587ffebf3ac00e6a4740502aca4ab25d929d425c945841db76a3d40556cf1682"
+    },
+    {
+      "path": "mods/twilightforest-1.21.1-4.8.3345-universal.jar",
+      "size": 27154121,
+      "sha256": "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
+    },
+    {
+      "path": "mods/UnionLib-1.21.1-12.0.18-NeoForge-all.jar",
+      "size": 732829,
+      "sha256": "c17d45e053844b1a5f6fa847f2658c0476a0770d476d3ffd3808ed877f8b6a96"
+    },
+    {
+      "path": "mods/valhelsia_core-neoforge-1.21.1-1.1.5.jar",
+      "size": 181277,
+      "sha256": "8364c248ea4b8975327bc6cc36478ecdc1567110a6c8a47ce6b43e648edd1127"
+    },
+    {
+      "path": "mods/valhelsia_furniture-neoforge-1.21-1.1.0.jar",
+      "size": 4447796,
+      "sha256": "342a735f1f86e383a36698d92b1734b6d0e36baffbb20790b102607bc8a22c79"
+    },
+    {
+      "path": "mods/valhelsia_structures-neoforge-1.21.1-1.1.2.jar",
+      "size": 2338805,
+      "sha256": "7a1b792e8b4339e8ed5fe6968edb05745e6debaeb182096604154dfd97046628"
+    },
+    {
+      "path": "mods/variantsandventures-neoforge-1.0.26-mc1.21.1.jar",
+      "size": 1082397,
+      "sha256": "7cdbd2a4503142c5900066bbbf4c06a813b06322fbb3088e41d059e22d8dfc19"
+    },
+    {
+      "path": "mods/wab-1.21.1-1.3.2_1.jar",
+      "size": 9094536,
+      "sha256": "7dfa7e2ca7ed87890c99395cffbc75b6343c62f15196aa0eea2d0d1e16608e6c"
+    },
+    {
+      "path": "mods/waystones-neoforge-1.21.1-21.1.30.jar",
+      "size": 877356,
+      "sha256": "f333723d8afc979ebc2317b9d42de177b21a81935a58e14e3810c981a94a7fb7"
+    },
+    {
+      "path": "mods/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
+      "size": 344392,
+      "sha256": "af0de505aef99fa9feca6b969932b28b834f4663dcb95c12bf65dccbe304a605"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2-1.21.1-neoforge.jar",
+      "size": 1118651,
+      "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+    },
+    {
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "size": 388678,
+      "sha256": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "size": 795839,
+      "sha256": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0"
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "size": 461244,
+      "sha256": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
+    },
+    {
+      "path": "mods/Zeta-1.1-40.jar",
+      "size": 763725,
+      "sha256": "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa"
+    },
+    {
+      "path": "resourcepacks/Actually-3D-Stuff-1.21.zip",
+      "size": 832067,
+      "sha256": "270c2666558928edb8b169aa21a44527c50b4dd85ce865a768a7b7453876bd43"
+    },
+    {
+      "path": "resourcepacks/Better-Leaves-9.5.zip",
+      "size": 1923769,
+      "sha256": "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"
+    },
+    {
+      "path": "resourcepacks/MPLOCmods_v30.zip",
+      "size": 9670842,
+      "sha256": "20f12ef224814c50af0795b2ac70b8286f5d49cf3a6d8a85ae206b3a7079eb76"
+    },
+    {
+      "path": "resourcepacks/Stoneborn-1.20.2-1.21.5-V3.2.4.zip",
+      "size": 5397401,
+      "sha256": "f7dbe357b03faa38b3baf10ce5d061158922bc58bab3370682fd35e8f48a7504"
+    },
+    {
+      "path": "resourcepacks/Visual Effects+.zip",
+      "size": 58366980,
+      "sha256": "3e20cd894938aed27fa11314ac83116f984b17d1f8fb9406567e96b8f84c70d8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/.gitignore",
+      "size": 5,
+      "sha256": "b500a04cbe326ae1bcb2875daa125ccce2d930201138ba2c5ec4e51da6152303"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/addedMods.md",
+      "size": 49320,
+      "sha256": "733c2a5b31fc9d453631cfdd719e5371818283b56f95443be89e7d779aeaa7a7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/ComplementaryLicense.txt",
+      "size": 5596,
+      "sha256": "68197060d55c2ee8ddf03411d66787d5e6d8c5b95efa0925d372a2e8698ac60d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/Credits.txt",
+      "size": 41,
+      "sha256": "26173b99b0c3d9988197562d17e4fad318afa5b6602f9394f6788cd3442dec1b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/EuphoriaPatchesLicense.txt",
+      "size": 4004,
+      "sha256": "b2ff5826e1d6a7d53a0b95c437f8c11d273ba2fd422bfd3c8858cfd97dd18439"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/InformationEuphoriaPatches.md",
+      "size": 2579,
+      "sha256": "936d311eccf07dcb3668971a7136fde6afa8e78c41b91ed581c981422c835fdd"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/Made for Complementary Shaders r5.7.1.txt",
+      "size": 90,
+      "sha256": "de5cc55e7420fa118038e6bebccea3570868420c56fda22539d96b433eab6678"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/block.properties",
+      "size": 2414387,
+      "sha256": "1f80415272fe5ddcdc580dee1434f96d30f14d9fbd4f580803356172221f96f0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.10083-10159.properties",
+      "size": 242046,
+      "sha256": "e26b26e29a893ac535082649903d4b45bd097b9bba7bfa7648207bcffbdc943a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.10160-10241.properties",
+      "size": 275422,
+      "sha256": "7518d95ef33fd60231136dd7a7a098177f80c8738e97942c256080b50ee89c5a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.10243-10349.properties",
+      "size": 228210,
+      "sha256": "73376e1fee11ad23c17e537dfe5f0b393db2d47070c7287c31b16a1c4459bdbe"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.10352-10460.properties",
+      "size": 317207,
+      "sha256": "5bc8e5b46db695165bf0481687911e8653a2c904cd4bb778e049e11e3f8aefe3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.10461-10608.properties",
+      "size": 144663,
+      "sha256": "31324c1681c52cb3a4bfb36120764c98d8bddab9c56f145dff54dd03fe830d32"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.10612-10744.properties",
+      "size": 153369,
+      "sha256": "67b05288e1bbf40071c88b2ea7fb1dfe716b541e3408b975d04a8fde3c8dec0b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.10746-10854.properties",
+      "size": 85728,
+      "sha256": "45efcf2fc46397e2d10171d471c3f99447cb9093ac0eebed4001fdcc6b2644ea"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.10856-10964.properties",
+      "size": 36974,
+      "sha256": "6c6eba8209c6b7df0021f966c2bd9a3198b2567b78012dedd889326d3ab45536"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.10968-31020.properties",
+      "size": 350853,
+      "sha256": "5d0a49be8df469e3159fb4e6517e487a87894635570ad26055d263f6bfc2923c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.31021-32016.properties",
+      "size": 30774,
+      "sha256": "889b752f4079f05dc69cf404a49130f028bc2a22219393c5f20516ecee34afb4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/block.5000-10081.properties",
+      "size": 323556,
+      "sha256": "7f1aff06747e83bec299ac61db4122e7000538db6bd1b6b67c76820fac5472f3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.13+/index.md",
+      "size": 16660,
+      "sha256": "9a8e668408926a05962a2f98b375635e77cc4c2fd1a596ebc11906130baa39c9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.7.10/block.properties",
+      "size": 60598,
+      "sha256": "c21993226d4c5c2ba4242f11b41f2fee5451d76992c287f7b071f67e3ff53829"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/1.8+/block.properties",
+      "size": 138226,
+      "sha256": "b2830bdb0d1427eb001bbd0baeceea41f01c0f514d385a56808f64e8bdfb1e4b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/instructions/readme.properties",
+      "size": 7266,
+      "sha256": "3ef4aef4fc320bf1f63209607ac9d129542e736a5a79c4dd68d736d0785f7fee"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/renderlayers/renderlayers.properties",
+      "size": 7428,
+      "sha256": "9541c3b5d2a31324a2f8cc0e192c56e88563252861212ac8ce37d79fa7ed7e88"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/blockProperties/tags/tags.properties",
+      "size": 8271,
+      "sha256": "504aa35f0b13d2db9e84344a90dc9828993392b1545c021c740244d01d4c584d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/colorwheel.properties",
+      "size": 824,
+      "sha256": "bbe3b3302655f1c7160e62765b6b2881181b183c02951c7438c754aaf6566017"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/dimension.properties",
+      "size": 4445,
+      "sha256": "67d3dd53ec9c0b3488b86bb5f9e471166b7c66fdb78bcbabe42602328dde888e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/entity.properties",
+      "size": 13693,
+      "sha256": "284b0d4d3380e1a41d61b0f8a776504755663fd831d41d49783ce707b8779d18"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/item.properties",
+      "size": 175881,
+      "sha256": "fba656aa237db11a16df5c79b9016014941206ca4e1b737ba2d4ee4068bd7943"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lang/en_US.lang",
+      "size": 142659,
+      "sha256": "fddd60080d45b0987beb6d7653ce67c6454504d525c0cf0e92b228e06b069c0c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lang/ja_JP.lang",
+      "size": 165428,
+      "sha256": "fd3513476fd9ced9836238f73ba0c3f727e695b1edc81950126ae6608af4a9a7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lang/pl_PL.lang",
+      "size": 154815,
+      "sha256": "87b74802ce8d8368b7580a80587e740739f0856b67be26001c4bb35cf55d600c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lang/pt_BR.lang",
+      "size": 154818,
+      "sha256": "6ec10130c03ba6b3b1efdc253505667886123e2d57b77620a75d3c9de63c2b26"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lang/ru_RU.lang",
+      "size": 193060,
+      "sha256": "348f307e4fd5638656fe7b78c22d497e6754dfdef47a2bc03ed7834144fbf258"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lang/uk_UA.lang",
+      "size": 200794,
+      "sha256": "6b77828d911300d35a9b1145b09976b800cfe8d821cd936dba2798294201b5e1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lang/zh_CN.lang",
+      "size": 138926,
+      "sha256": "e5e94e97480c39785d159eeb3568fae29821ba8ac68b4181b54194a6b25a7351"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/antialiasing/fxaa.glsl",
+      "size": 8046,
+      "sha256": "5797e7fbe5ab4cdda840574879a37b72a8ee0a1c7956db5ddc36dff66251d1b8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/antialiasing/jitter.glsl",
+      "size": 834,
+      "sha256": "31009d1e48a49ed1fcc06faabd17582044bd842853571fb13895701e5040cc70"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/antialiasing/taa.glsl",
+      "size": 7395,
+      "sha256": "4c5037c967b8c6dd716fc00be7aac8275c8f48e70e41bab4151af24285ea7c83"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/auroraBorealis.glsl",
+      "size": 13001,
+      "sha256": "d5847a5ea7ef7cce3d617b41c21a1cc1786c2a748bbe781285d7041a66b68d25"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/bedrockNoise.glsl",
+      "size": 2499,
+      "sha256": "5e29e8837501326b9f4827fdca57943d2f25146cf870f1cc5306580d196efe73"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/clouds/cloudCoord.glsl",
+      "size": 1510,
+      "sha256": "73937ee1c11ae6f694afd64be405b4b8df9ab52fa194972f5c8cbca16b054c52"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/clouds/mainClouds.glsl",
+      "size": 8365,
+      "sha256": "286efd28ac8744736e219d50bc31cec739821ccbb5c99a3921b41e20ee058bfe"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl",
+      "size": 11129,
+      "sha256": "afe54a5f159a31649a41e0cd077e1945db3e57dfaa1bab093cec96bea12865ca"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/clouds/unboundClouds.glsl",
+      "size": 15967,
+      "sha256": "c4f8ee4987eb7c64f4d922416ce13bf8436c9e18243a80cc526096489649a173"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/endCrystalVortex.glsl",
+      "size": 15646,
+      "sha256": "0afaca9604d105443d7452864fadeac741afca84fbd4483367600e44550789a1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/enderBeams.glsl",
+      "size": 3818,
+      "sha256": "5e7b80fe5c9d2abcdcdf266fa016eaa66eef25c48ee89c0b73a206221c674bf5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/enderStars.glsl",
+      "size": 2044,
+      "sha256": "d3f478a2d451401526ab9603fa7ecc47f6b7a390cf632d33da2dbe0b99c10cc9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/endFlash.glsl",
+      "size": 2147,
+      "sha256": "1aded7f60672f45b4d325912fdd91a10262f92bb614d01e1089beedd98afd475"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/endPortalBeam.glsl",
+      "size": 2881,
+      "sha256": "2d80432dcb1eda4d1e5b10ba25b8b8a5661782de44cce9a3efae6743d77cb5a3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/fog/bloomFog.glsl",
+      "size": 1456,
+      "sha256": "5aa7a704159789c4321ee21875b641ac9e44e1ead3065f98faddeea09a916870"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/fog/caveFactor.glsl",
+      "size": 2422,
+      "sha256": "223ef83b535b268b76a4b4488df5086b1d66c22be1f70c3085a66c8e4a13331c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/fog/coloredLightFog.glsl",
+      "size": 3185,
+      "sha256": "761fd62619fdb439cd3787aff94fcf5c7ee10ad36b29f03ac8bf62a2441cacaf"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/fog/endCenterFog.glsl",
+      "size": 618,
+      "sha256": "4b06d046b82e7189c6198c2d84804cb84abfd0fb6f738455afd7c81ae616a643"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/fog/mainFog.glsl",
+      "size": 9759,
+      "sha256": "249590e7985679bbea219dd13408f738f309a4eb5f7ca13d6a3cbbcc6673b519"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/fog/waterFog.glsl",
+      "size": 505,
+      "sha256": "783847fb46712a1cba42a57eb5d99f2478cc6b9721480f8ca88b3f60d7132a7b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/netherNoise.glsl",
+      "size": 1643,
+      "sha256": "badb2e3c6027953e10c5a65256171a40117e5b7e0d1c32f3abde7dce8ef2a3c5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/netherStorm.glsl",
+      "size": 2904,
+      "sha256": "bfaf7043f6a61b0d7254013a31443f5a83b119711b94d63cbf6fbc370688c073"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/nightNebula.glsl",
+      "size": 6936,
+      "sha256": "17126f1931374b6b441a2e8688d7122856b511d62c5cdaf90f869a7602d233b8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/overworldBeams.glsl",
+      "size": 2372,
+      "sha256": "7c7f9c897afe1d16ddf5167f4fbbef5d65fd7fb9abd5060ff9dc94c84d1f6362"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/rainbow.glsl",
+      "size": 3267,
+      "sha256": "dc008f8e1e67d681fed8f7763e18c4bc608c3fd731adc1690831605a48ff36c9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/shootingStars.glsl",
+      "size": 4496,
+      "sha256": "57518e34f50291829a606844edc1a65dd5a83b36689075539a7943c31441e128"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/sky.glsl",
+      "size": 6898,
+      "sha256": "fb9d4e901210c30a1e5654dd3543ca0efc4c95c2a452896f6ebde01b4f17cd14"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/stars.glsl",
+      "size": 3259,
+      "sha256": "e798860a93d343aa7e508477e1ed59c1a74f7bbfc001932cadf07937991dacec"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/atmospherics/volumetricLight.glsl",
+      "size": 16073,
+      "sha256": "0d9332f0f5242edbd4c0078ef3861f63a8b5fe46837361086251f3515bac3f76"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/colors/blocklightColors.glsl",
+      "size": 469,
+      "sha256": "03d470edaf9fcb19cfd2996a9def906ad9c4d057654711ac9e6bb060241d5925"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/colors/blocklightColorsACT.glsl",
+      "size": 15031,
+      "sha256": "b142822629224a552852509142d40a14cc9612253eea73ac3aa0ba87040b4fc1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/colors/cloudColors.glsl",
+      "size": 380,
+      "sha256": "e8ee6839d4b7a20d44a5303f066530f1e80048fbc913d5f786d9ded8e5de1884"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/colors/colorMultipliers.glsl",
+      "size": 2937,
+      "sha256": "d43e8765c584c1233e382eaf88c9fc28631083f03a3b96231e93f5acfe72a06f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/colors/lightAndAmbientColors.glsl",
+      "size": 5696,
+      "sha256": "65d02e2ebeb31bb6b50f9e921814daa3593d466ac4a8e5605dc186d4085b8104"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/colors/moonPhaseInfluence.glsl",
+      "size": 977,
+      "sha256": "91b63c93a137dafb43b09fd6f3c54404cf3081b27bbf1d7808da8736d37d74c2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/colors/skyColors.glsl",
+      "size": 3274,
+      "sha256": "9f7f4ad8e8a350c95d0cbd53225dc43c69d3b931b1cf90425eaaf24ba7b6bfbc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/colors/tonemaps.glsl",
+      "size": 13997,
+      "sha256": "4d766935716dd49cb0edf55e14bd7efac7d3f630a5a06beeea2d79ffabdb0176"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/common.glsl",
+      "size": 47312,
+      "sha256": "d4e5644b6826635393489254acb56c6d80fe293cfa038ea3dc6d6e08185f71d7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/lighting/cloudShadows.glsl",
+      "size": 3431,
+      "sha256": "ec95d2bbcf3bc2c903efa95f5acecd6fb1c98d8cdceef96a976957e016db8a50"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/lighting/coloredBlocklight.glsl",
+      "size": 3499,
+      "sha256": "d94145d42b3afac647a92f3ee59355bf492f77045dbdc45fc521f34bc6d8970d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/lighting/ggx.glsl",
+      "size": 2590,
+      "sha256": "0fad6fdfbf8e2ab13b7e9441d86ae3a5182096c1735c65e6841295aa6e0deb9e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/lighting/heldLighting.glsl",
+      "size": 3856,
+      "sha256": "91d4721cf52866bd6a0ce333431a461825c45f9c42da73b08d37ea264a09f24c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/lighting/mainLighting.glsl",
+      "size": 38270,
+      "sha256": "cca71d02b1d40b39368a81639ac3613aebc1bd43f41d24f4edabaca5f29f60b6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/lighting/minimumLighting.glsl",
+      "size": 1015,
+      "sha256": "8e1ee20a4226185f6292c4fa9c99f5860f4930b54cb54459fba062c662a9818d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/lighting/shadowSampling.glsl",
+      "size": 3899,
+      "sha256": "093a9aa320a3a09d6251b3c8d1dcd9ab8006ce1090638ba63660498ea1b35a82"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialHandling/blockEntityIPBR.glsl",
+      "size": 4597,
+      "sha256": "8f26047445382d272ecd9a57123d2aa90f242ec841b4712670f7dcdced4d40fc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialHandling/customMaterials.glsl",
+      "size": 5865,
+      "sha256": "2acb156154410b42fd8cf1fc0d46dd97c09e6494925a7ff025794f2a74c11510"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialHandling/deferredIPBR.glsl",
+      "size": 2186,
+      "sha256": "549975fba2c32aa022c837f962c9b47196561bc24f72fb96f319daeff7a5e672"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialHandling/deferredMaterials.glsl",
+      "size": 835,
+      "sha256": "3ba76167fd067eb4501745647d2fdf3655d2db216e6a6ede476299979083e038"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialHandling/entityIPBR.glsl",
+      "size": 23387,
+      "sha256": "9f55ce3a926f0b6c4ade4fac21a59e485d5562a623b499840997bfb2b13ea106"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialHandling/irisIPBR.glsl",
+      "size": 13138,
+      "sha256": "6018017adf974fb8c5065d467b5551e8f786c7f661f708820b87ac7e674dda3e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialHandling/materialDefines.glsl",
+      "size": 416,
+      "sha256": "009cb22126f2dfe08bb00ec7c69209610e19ecaa1e0e7f1167449ee67bacaf4e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialHandling/terrainIPBR.glsl",
+      "size": 220005,
+      "sha256": "e839d04463399f5313f500808ab8a93cfb80f93c529b8c9ca5e8aea8b97a90da"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialHandling/translucentIPBR.glsl",
+      "size": 8004,
+      "sha256": "5b4309cabc9b51ea8f15294613cebfeccb9a23d0136665a39598edfe22873484"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl",
+      "size": 2911,
+      "sha256": "4dbc5b6000ec1d09dce24cb1fe5e380220f3b2b610d7211e4ac49a94cd26f2cc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/coatedTextures.glsl",
+      "size": 1545,
+      "sha256": "b0e0ba035604722db41d21b4407d3dc2c2c244aacb263871067877f4e92d4d9c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/connectedGlass.glsl",
+      "size": 4358,
+      "sha256": "a1b1f8909b6eb886d29c0275271adae6ccf2cf4ad94dab394707def81c12e840"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/customEmission.glsl",
+      "size": 1293,
+      "sha256": "086655cd8f7341a3c658d49bcd780a5420bc64b33c511c8950ee5e53cbfeccdd"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/generatedNormals.glsl",
+      "size": 3519,
+      "sha256": "b5ca6ace23e6ed76c87837c00f8f19e0d3dfec424c496e9b7c9e7fd53bdcf9ed"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/playerRayTracer.glsl",
+      "size": 4051,
+      "sha256": "445a7c3fc8ff7a08e3aee69338a0641041d05bab50d9edbba9858729388ffb97"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/pomEffects.glsl",
+      "size": 4328,
+      "sha256": "59f27de86c3b6ee983a90db220dad8f4611a5bdce02ab085d03247a2cf7a1d21"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/reflectionBackground.glsl",
+      "size": 5209,
+      "sha256": "0625d0ef6951d3264d31e65b2e2979113b018df60000087e25bc9703c9f50b4c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/reflectionBlurFilter.glsl",
+      "size": 1699,
+      "sha256": "4ddbf3b6f5b5723c816878266d0dd9d8dc586ee154d8a9f40a2ac097fe35cb1c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/reflections.glsl",
+      "size": 13581,
+      "sha256": "2efbe93f9a6d59b7ab43db1e1cd9e9607e8bb0510f9bb4117d4925615553bd28"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/refraction.glsl",
+      "size": 1601,
+      "sha256": "7aa34d565c261ee9182a13e22d7f196609784f1c96b53404e7e39c9c56dee791"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/snowyWorld.glsl",
+      "size": 1228,
+      "sha256": "405974cd6e5b7533d1ad5368eaf026a3655453300484712cfc880852f424389c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl",
+      "size": 5601,
+      "sha256": "72c90152fd8a1b35d4a88f655b652818c2352dc74945b278159e7fce54bcefa9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/wavingBlocks.glsl",
+      "size": 9165,
+      "sha256": "46b6f9dede14e471a248f8388093a7f7cee3090c04434f7ba453fed097b7062d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/materialMethods/worldSpaceRef.glsl",
+      "size": 17526,
+      "sha256": "fd82ee169f2120dd3a83df75ce8ec7df7d510a5102d070a240a1a157edce5c94"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/overlayNoise.glsl",
+      "size": 2003,
+      "sha256": "a45fef99079de47be661cefc55a391d53bd73bfe19e0cb5b7fd9320e23a44d81"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/overlayNoiseApply.glsl",
+      "size": 9582,
+      "sha256": "f3cc6b626332036dc4b222e6685e691a76bb1e6f378c7856e7b926a9c2893a26"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/seasons.glsl",
+      "size": 32607,
+      "sha256": "076c2a87aa450b5d612811f264efc1011cf0c0c9471a8bda68a8c422a63e850f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/seasonsTime.glsl",
+      "size": 1706,
+      "sha256": "c0a4b083a3291efb00c863e90750c567d085b8fb48460e3bcb0d01141a62a5fc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl",
+      "size": 69,
+      "sha256": "836623d3e0bd37fc5da4243107756aa0283f9e6ec4771f7bb69e788a3ea24c12"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl",
+      "size": 26,
+      "sha256": "5da8aef26dd12f13fb731f421354e49365a1d60c4b8eb04a08c2661ec2997480"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl",
+      "size": 6111,
+      "sha256": "a5f2a2e32bb7ddecbaf806feade2dc33ed5e8a90aee17a97061e014ef3dbcaa5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/others/lightningBolt.glsl",
+      "size": 174,
+      "sha256": "10ff6d9144043034680fd9c9011e4facc71681b067a744310f49d0cced1049de"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/others/signText.glsl",
+      "size": 310,
+      "sha256": "abd1454e2f8d841d43ac72e73d20ac99d346bedbf865588e5308339111abc5ad"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/others/SpacEagle17.glsl",
+      "size": 1524,
+      "sha256": "f66e9a26fe104b6c32dd9c709d241e80ec735c5b8e785882556112edcbfe5d1d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/others/trident.glsl",
+      "size": 117,
+      "sha256": "27f5720c2422645fc90db091ac4fc803606d9ce8985156ea22d7ee39ca6861cc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl",
+      "size": 129,
+      "sha256": "cf93bcf15e36b79d8da82325ebb37de1a92eab8d0a5dbbec40c96f76ff1f7877"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl",
+      "size": 61,
+      "sha256": "c0f10c36c4eee4cfdc22daadfe4d8788af05d01f941630f155a7b0c8469177d6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl",
+      "size": 130,
+      "sha256": "f44e5423ec2540c018ca5b00177f8ffcf55ec113cd69beb36be3f678cbad0a41"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl",
+      "size": 129,
+      "sha256": "442052d0c904a764a01cf210670c612851444cebbafbdc09a49b365b9aa44031"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl",
+      "size": 123,
+      "sha256": "5f5b85273765a2c26f386a2418be8b27407e2384f395911144f4abb023883c5f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl",
+      "size": 129,
+      "sha256": "0f502cbde662a4b216e7e54f3b52df7413bc1c785f63ab910e0bb1a85f5e40e9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl",
+      "size": 170,
+      "sha256": "2b04073a2764b8ba962805fe335e769bf72b63242da552d323c34f1fd736f2b7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl",
+      "size": 98,
+      "sha256": "e232dd0f2cdbd44bd62f162b618a93ddc4f09afb455973eaeac2be4dc6a88e2c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl",
+      "size": 143,
+      "sha256": "33dd104c86f6a7a2685e1cc8b92ae71e3c9a10714db49116fc9ce0e3c781fc89"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/paleOakPlanks.glsl",
+      "size": 124,
+      "sha256": "dede4f3b7d712d67594ad6e7c05eaf06840bd515927de0a1825620baea43ad26"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl",
+      "size": 135,
+      "sha256": "b700095091578ae8dcc6a03ac94a98c57f0ff240fd0ed59889d66968b1e39f5e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl",
+      "size": 123,
+      "sha256": "59e6d2ace976f81fe8b9ce2214313607c2789c9cfd35da231006297e24276d9b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/amethyst.glsl",
+      "size": 164,
+      "sha256": "da584a6527c319d88138f5219fc71c2f9163da8659cd7133d949014dd6cff37e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/anvil.glsl",
+      "size": 107,
+      "sha256": "0662dfb894e42edc05c0821ec190f574b654ced82bbf410d2d6cf4b05609af66"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/autoModdedOres.glsl",
+      "size": 1007,
+      "sha256": "9d05202ed9d3bd144d8abe4306b557f0a7fa421656dfb9fd1bac0e4ef63dfdd8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl",
+      "size": 55,
+      "sha256": "6e755e75879fc2cfaf1dbf1cac41d7754dd0faf0eed58e41a77721d2ff461d1b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/candle.glsl",
+      "size": 200,
+      "sha256": "7c3d061bd999fe9e5d629473a2fb3ed1a205b1cad1fe7458e3729a342f33a5ae"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl",
+      "size": 158,
+      "sha256": "4c5c8e51582a87f0483aac3ffb68823af4e38c92359bec1290660532bdb3a428"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl",
+      "size": 308,
+      "sha256": "50eb662c008b6f9a9d0bb92abe58053f68069e56d9c555ecb75c41af9278f496"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/copperBulb.glsl",
+      "size": 863,
+      "sha256": "8ce41c8a3b34de3c98242c74c42259554e1faedf352b2a312da9fe76e533a0d4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/coral.glsl",
+      "size": 153,
+      "sha256": "0a3228e03798183c8acaf0256fb649e1a1e0ee6531d2d6f5d64146816eb316da"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl",
+      "size": 634,
+      "sha256": "cef2bc3a5fa2e16e68a90f291406ea565f650331bc46857506a950a5bfd402b5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl",
+      "size": 143,
+      "sha256": "6fad5b3d786e9f25976a67266ce3680d1e2e23399fab3e1aab8847a87327704a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl",
+      "size": 550,
+      "sha256": "ccf10f42b8f098a11a4dfd49d75ccffa60b750dfacff177c70881ca0c6858295"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/dirt.glsl",
+      "size": 36,
+      "sha256": "be7a8973dbdf72b53e2b554144a354eb5a291955b85751909387ecde8436783d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl",
+      "size": 327,
+      "sha256": "53eda3498388c929280007600f2e7bf31911cd59f7d62a9818b4c3873ebea0bc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl",
+      "size": 75,
+      "sha256": "1f54feb2f0f8e0fa1b19671aad10713e63bb1c8b7bf7e847506365348602a1f8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/endStone.glsl",
+      "size": 1029,
+      "sha256": "477ac6aaac05b8f6f391cb100c57ee26a08d1b664941d1b610951e5f10ae801d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/froglights.glsl",
+      "size": 770,
+      "sha256": "e82ab091980837e385dd41b150d220ba0f6801087951d5bbc868f67d6383eea4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl",
+      "size": 449,
+      "sha256": "e8a768213c2692a767151e0a56352f7d2aaadf4a9f36876622c0f445c1cb906b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl",
+      "size": 334,
+      "sha256": "68bf067287cce875400663e278b5f74d05ccb6ab21ead112663c6b66b82f2312"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl",
+      "size": 107,
+      "sha256": "043b1ba0a9764669234b9d7b7feaef8eb87f82cdd92f953dfbdb9964def5ae57"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl",
+      "size": 122,
+      "sha256": "845256aa330329fcca63eade2954dcfd27fecb93504b2fcf09c4c56986f0ac77"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/lava.glsl",
+      "size": 2213,
+      "sha256": "bcb65fed3ee973dce3ce01e5ff688d8c4ed35c14eae4113be2716192fda6e0f3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/lavaEdge.glsl",
+      "size": 3192,
+      "sha256": "aedd416709c77c803eba24b0edc66a35412ca880ffe20b02576c4d8777ccb8d7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/lavaNoise.glsl",
+      "size": 5064,
+      "sha256": "0fca8cf09fb667e36c3a35889c364839bc75c7531a106acfe823add14a9eae7b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/leaves.glsl",
+      "size": 974,
+      "sha256": "bea1a082aee6a3fb483e28a0f2361cf852ef49adbbb07b3e69ca67dac3e9cb51"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl",
+      "size": 193,
+      "sha256": "78b59b42f86c6ef41758010e74bf4bf0efac73d0bab98c0295d4c0a2af25b01e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl",
+      "size": 186,
+      "sha256": "76e15ba671daf9652311285e35bb945c360382a04fa4a163769228994e8a9c54"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl",
+      "size": 104,
+      "sha256": "a88f580dde2750e08b89b468b047a8551c6af99c7dfcfc15f5eb4c5305fdabc6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl",
+      "size": 310,
+      "sha256": "5112b789955679f871342cda0559d06d3b5cd01d619612ff6b00ccc971ce2d8b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/openEyeblossom.glsl",
+      "size": 472,
+      "sha256": "ad47b4c463a52defc9bab8933e51aedacf225383d185e735e97f80749b33957e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/paleOakWood.glsl",
+      "size": 64,
+      "sha256": "271ba200b77159489f852065162c840f6ae99d1b7f98b67b1740eee670de9370"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl",
+      "size": 31,
+      "sha256": "016ef28833b6e3fd726518a8617229a4f530935b23f3d37205482edfffd92d8b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl",
+      "size": 427,
+      "sha256": "a683bf6cf3d888530f7d03e080f7c6b67bdaced66d13fc4159f9e44432ac75a6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl",
+      "size": 190,
+      "sha256": "f2f245c3da1f610875b186cc54ed3e8fe525eee6f197d3310eb0ba1a5089bd51"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl",
+      "size": 129,
+      "sha256": "e60f97631f2f68c06a4b9e7beef6794ed1de5996665dd7ddb4b06f418d9428a4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl",
+      "size": 120,
+      "sha256": "17ab2aa1c891c54cd3c470b39e7aef16beb9d2b1adf410cce04e289d7a8f6f7d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl",
+      "size": 231,
+      "sha256": "bdec270fc31bd35f5e9d3bc4bc1dbde2dd072037d9e8d87f9131e69b13431685"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl",
+      "size": 523,
+      "sha256": "5a94c9d908d5823646f63708a5c32d9041cac8f8a9bfc12df948fff6960b11fb"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/snow.glsl",
+      "size": 446,
+      "sha256": "60c286afdf7dcbb27a2be841d68b0a3620efd4b864f469e90a7eedb24a0a680d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/stone.glsl",
+      "size": 163,
+      "sha256": "8cd674b9b04a9038c37dc91f0efa4fbc2f3b4f317a9fb23e1a91bf1ec4fd05a6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/terrain/torchflower.glsl",
+      "size": 672,
+      "sha256": "0a3d82f4d7cca144f830b71ed58a6fe63717f0afd651238ee0430b083a4b9469"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/translucents/glass.glsl",
+      "size": 610,
+      "sha256": "f758609b4f1a9ba4ead0d526b3c160ff3ab1bb9a0cef58ae85d7b4ebd4cd8cb6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl",
+      "size": 4467,
+      "sha256": "bdd6e8c823a74a92c5fc943bcbb14a12301adc3ab5d602ecce2c844d967327a2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl",
+      "size": 126,
+      "sha256": "0e4ee68f02b4937acb968b4169ab21c9aab9a10787a4c826dffdc829c0f481fd"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/materials/specificMaterials/translucents/water.glsl",
+      "size": 13215,
+      "sha256": "f76721ddc884f8d475ab82cee0e096a0977ef1fa8d6f3a57e8f48a9b1db2fa72"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/colorCodedPrograms.glsl",
+      "size": 2643,
+      "sha256": "a27c45e49a28e5d9c3d4bdcdc8b98e1ead5b4024ca6f7cd9720065fde6e6a3ff"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/darkOutline.glsl",
+      "size": 2640,
+      "sha256": "44d00f997e5555d75be64c9f3e69b1cc96130b79fd1473033dac27a7060e6b39"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/dhSSAO.glsl",
+      "size": 3378,
+      "sha256": "b13f3d0c46f0e8823c29bc13bd21bce53e1b4f602b73289f449cf1d1748e0cb1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/distantLightBokeh.glsl",
+      "size": 971,
+      "sha256": "d539c3f73e233e8549cf72e88864d42ad83c327439bf9064d1906b5c98aefe2c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/distortWorld.glsl",
+      "size": 1724,
+      "sha256": "b7133521073d4b4a91efb81897a5c92b3a8d3328c65e59fdde4823f195d7f317"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/handSway.glsl",
+      "size": 693,
+      "sha256": "72b571a76e41aeef9c7f36edfa0fb19fd8c74773db85d38cdd0803c36eb403ce"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/lensFlare.glsl",
+      "size": 7442,
+      "sha256": "6ccece931b8e199e863fc7a968a356fce28038091c67fe7fc15334ebcf5e0b3a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/myFile.glsl",
+      "size": 56,
+      "sha256": "ab3def8d80468abb0d38d3c1c52514a78a2cd71245eeaf12c84073025375ecc8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/packing.glsl",
+      "size": 1321,
+      "sha256": "b732ac6f24e80a8594e7d704cd3f94f924ca232b53e3a7eaca6b215f685ac734"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/pixelation.glsl",
+      "size": 3378,
+      "sha256": "51b448f627dc0705d634f22b6005cfbd64387b13cadc218f85cefd27fe817f39"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/pixelCraft.glsl",
+      "size": 4644,
+      "sha256": "9cd7af39644c7eed79f299902a4bc3b488bc0128d264adab36550eeddde82834"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/potato.glsl",
+      "size": 12544,
+      "sha256": "e22c9b0278c6e76eefd3d90e61af7faa58890dd374181dc6bbe953307c522985"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/reprojection.glsl",
+      "size": 1221,
+      "sha256": "2d85a383ae2888c549560970a81314cc4d9260fc609bf8560b2d02fbddadd522"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/shockwave.glsl",
+      "size": 3113,
+      "sha256": "b125f6ed97d88d1cac9ef9408fefe19a1911cb7659538af22de9e328f650d4b0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/showLightLevels.glsl",
+      "size": 1187,
+      "sha256": "4b56f400b681ed4a9a04ababfb91bb244d34a8c72769fefe3cd669e90cd4bbf0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/misc/worldOutline.glsl",
+      "size": 2950,
+      "sha256": "612217a641059fec9240f0cfa519e4d430ce8d77ca66a5e587234e068e0810c0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/pipelineSettings.glsl",
+      "size": 2235,
+      "sha256": "5324443e091bd52d848a70bbbd591f7b63dbbccf399ae726354a5e9fe9c65153"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/activateSettings.glsl",
+      "size": 2365,
+      "sha256": "3944e7f2db40fb988b94fcbee2ba4d43459fa6bfab76ba152f193c2b733eff51"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/bloom.glsl",
+      "size": 363,
+      "sha256": "a052110fb6ab30894959447826a15a215044ed44d2f95378bb402eba7a79b991"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/blueScreen.glsl",
+      "size": 105,
+      "sha256": "14fadf77d678ad4823191a9b182583f13581af2dad8c9f32e3fc0e62bd720725"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/clouds.glsl",
+      "size": 4495,
+      "sha256": "52a67496fc34fe1c3cda066de9752e3dd58459563b70b61ba81d91351f8e4864"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/cloudsAndLighting.glsl",
+      "size": 485,
+      "sha256": "1f1a503c3182467aeae8375570c1bdf576ac2af95b10cda3b55caa8d99e81088"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/colorMult.glsl",
+      "size": 7028,
+      "sha256": "fff24109b107378c15d5c30491257cdb585fd930c2e50da3eefaf5fee755b6a1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/composite1.glsl",
+      "size": 351,
+      "sha256": "ce4d56ae33ce81d31ad0c19fe9c5ffd4fde9db41996efec8c922fbc8867612f7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/composite2.glsl",
+      "size": 78,
+      "sha256": "84476ed4ec480179e9bcabaebe1350bc2570f24026dfa2962e30460e102ca110"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/composite3.glsl",
+      "size": 2778,
+      "sha256": "6a473c21ba12c2a7fda9d90e9d58f4ef983170efaf204d3fbc8b33758ee3fed3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/composite5.glsl",
+      "size": 12209,
+      "sha256": "47b056be7cb78c8c5f8a9e61ca0c583da2d95302a8db70e098514217675fb891"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/deferred1.glsl",
+      "size": 563,
+      "sha256": "7fb460f69099a60b3671e98bc6dafa401785e2ec7bf5458f26ef2bb9a723a8f9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/emissionMult.glsl",
+      "size": 243,
+      "sha256": "16c0a701153a74a01718bfec38e4837fc72d07337cd58648fb389f60491e223f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/emissiveFlowers.glsl",
+      "size": 355,
+      "sha256": "286fdba94de94df3ecc47710f915e726713a5770efdbd97dba521a743e140d8c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/endBeams.glsl",
+      "size": 126,
+      "sha256": "2fe60706cf72c7a5a0839adc01dd47bdcd0df7d0a02da943bde362868cea46fc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/enderStars.glsl",
+      "size": 5602,
+      "sha256": "20aad4e7fe5f55cfcf9b2b590aa0a79e1bc934589b66c911af68ebfb6d50f8f0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/endFlash.glsl",
+      "size": 282,
+      "sha256": "3b90559c6239e30652d74a0053f3f528c84f0bbf2ab6c1aa34331e325b07a50f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/entities.glsl",
+      "size": 131,
+      "sha256": "6f244883998b85cebfa0b9240603850ca4a42e42466447821fc5fc4849b913f2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/entityMaterials.glsl",
+      "size": 261,
+      "sha256": "b3747e0457eda106725633d80ad4a27a8b4c373b3452118e1591e5f139e84acd"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/final.glsl",
+      "size": 24322,
+      "sha256": "f6dfed01816453e0ce050ba86721a6f3456d7ec09265cdf7782f6d7cc0bf2010"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/interactiveFoliage.glsl",
+      "size": 129,
+      "sha256": "2099f562aa4fd536e10a05a934aff153285a6582c410acd68ba2fe40e40d98cb"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/lightAndAmbientColors.glsl",
+      "size": 5820,
+      "sha256": "6fff43639ee55cdfea8e65ad2cd296effc32f7f90cfacb4b321923879b6e1c35"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/longExposure.glsl",
+      "size": 316,
+      "sha256": "6f1d35317c1dc1d86df7260e343095898855da59003ed78be705099f628b60ae"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/mainFog.glsl",
+      "size": 2881,
+      "sha256": "bc196a0dc7ee52f1c9f50031568987eb42f4181fd78d863fcb4a67f4ec4fe969"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/mainLighting.glsl",
+      "size": 1433,
+      "sha256": "23e243584076783b811cc16cd9441da6655fd65c3996876c3199074d51afaee1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/materials.glsl",
+      "size": 3525,
+      "sha256": "53a58b914eb542024c9616bcfd2564559670aeeee888a845d04f5b4efe95dd00"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/nightNebula.glsl",
+      "size": 5918,
+      "sha256": "84b5aa7ca22cb7f46eed78256e10beaa69de1a29d68e7e00255944b7d97f614d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/overworldBeams.glsl",
+      "size": 2054,
+      "sha256": "5f275ee0fa3c0acef202e398166d18a270ad3a02237f6051768c870ec9d04258"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/raindropColor.glsl",
+      "size": 533,
+      "sha256": "57b36579f83e1c0d53cf90050c73605c55761ccb9bcef8923826505aaa2d4e0d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/settingsFileDefines.glsl",
+      "size": 1274,
+      "sha256": "77bc2ba2c38336f8a4032a0f43f8e1afced72b65d528a5aed4ab34c9a2373cb1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/shadowMainLighting.glsl",
+      "size": 196,
+      "sha256": "5310c0dd68939708d2b28b23d7f39e601bc085f15f7fbf0aa7e76bf5033b51db"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/shockwave.glsl",
+      "size": 109,
+      "sha256": "e3dca930b54de377e457c25e8d9417c034915fa64c49053379f56791c0e9c925"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/SSAO.glsl",
+      "size": 348,
+      "sha256": "a3fa0975d3b131f60062d815f5b2d0544aeb99c41af091446ca0b627b8b9438c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/stars.glsl",
+      "size": 5771,
+      "sha256": "00146a248ce860817eea9ddd0b085e42977bce3263d63f2840117c5051125f5c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/tonemaps.glsl",
+      "size": 795,
+      "sha256": "959a3082c0f793a25885b0e9efaa2e01ee4f5a3ddafc1e41d595f56def0bcb03"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/volumetricLight.glsl",
+      "size": 818,
+      "sha256": "ae76b0e373b295577c02b0d76288e77d7b504abafc95677875e1abc32ca6fc56"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/water.glsl",
+      "size": 1722,
+      "sha256": "c2253809f33e2ec863181f765ac971b6763c73f9014438b1c8d90675d220d6a1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/wavingBlocks.glsl",
+      "size": 1015,
+      "sha256": "9429419d80144c16a3f6f879d438622ab71339ac22f0b7f51c4a5e0e55056036"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/shaderSettings/worldMotionBlur.glsl",
+      "size": 1116,
+      "sha256": "106194d7350c79f8de90b2a528648a6b133255718de32a2a8f24a8f3a5a49c35"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/all_text_messages.glsl",
+      "size": 3555,
+      "sha256": "920213f1cbb4187ae2698d56fc5e417a27acee68e05e50ca945395c610191eaf"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/color_code_info.glsl",
+      "size": 14800,
+      "sha256": "b86e6eb973df02507cb9a89ebf8b800fc6d08a5966124500e13f29dc2f18f0b4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_apple_act.glsl",
+      "size": 3297,
+      "sha256": "73f63bee4e50d1098e9e9243d3e179a09921fb53e5868f512ff9e969d2c619eb"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_apple_dragon_death.glsl",
+      "size": 2118,
+      "sha256": "2b235fe88891470431ed00eea8df89c7141b07008ab9b239ed8e24086bbc5e82"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_apple_end_crystal.glsl",
+      "size": 2110,
+      "sha256": "1184c56adab1dc672a9def6d3b9404302d987f1428988e8a05880d86e3d0c9a8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_apple_portal_beam.glsl",
+      "size": 2066,
+      "sha256": "a8fe98abe47b2c67f7cceca8380190f635d96a2a0a6a1658faa456305babf5da"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_coordinates_act.glsl",
+      "size": 1354,
+      "sha256": "4c7eb9e785699c35e041f62af58427be40f6ebc0333e9e8411d90c149ef78e6d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_optifine_act.glsl",
+      "size": 5003,
+      "sha256": "7b10e937df955a56cd0f1b413e616dba3ad67df8d03042f8f4d2779d298f0e4e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_optifine_af.glsl",
+      "size": 2521,
+      "sha256": "e7766be48b1e8b08b89f75ad8affa080f2fe51926af2ab8f277850d9cd5844d6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_optifine_dragon_death.glsl",
+      "size": 2094,
+      "sha256": "df7562a50615e6746018014c31602a33036f6949cefc36af0370374593b45533"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_optifine_end_crystal.glsl",
+      "size": 2086,
+      "sha256": "1c00ac84697c7887e24ec08c0650a61c08ee32c9bd3d90327028ee109704e276"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_optifine_portal_beam.glsl",
+      "size": 2004,
+      "sha256": "4e60311af8b78c41a15e5f00f48f433522971d3459a771e25202d1863944bb7b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_palette_not_found.glsl",
+      "size": 1495,
+      "sha256": "07d3162b3bf0f8170d6f918c81de38d90f75f028581c945e2b8c25a5f1b18dbe"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_shadowdistance_act.glsl",
+      "size": 1877,
+      "sha256": "951da40cb008d8f8edb35fde5016b9d49afbda6af97af61f8087b51d8e7e5e10"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_shadows_act.glsl",
+      "size": 1225,
+      "sha256": "5c3657b240a6f7e46ecf869cc26969a3dd69e1d5a723c2bf81e217679eeeb544"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/error_wsr_missing_act.glsl",
+      "size": 1442,
+      "sha256": "605b6cfb6d3694ae4710d94eb00d65fa618d68965df72df98bd255af26e5d984"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/new_Euphoria_Version.glsl",
+      "size": 970,
+      "sha256": "73687614220290cc1f2665b53bb0a171b8de781c25066f5c1b899b8040c6aed6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/old_ssbl_error.glsl",
+      "size": 1413,
+      "sha256": "3e57f58309c89bc8918d3fc3626bb62c36fc3bf46dc165bc374774ebd367e395"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/old_version_ssbl_error.glsl",
+      "size": 1271,
+      "sha256": "204390f006a2de0923cf6ec497836de2983b185a436e3f5c7db1a65e585cee1b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textRendering/textRenderer.glsl",
+      "size": 11151,
+      "sha256": "678e647de413d635b7486b3588850c82468bd91f3be5b11cfe4767d1163a7220"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/cloud-water-old.png",
+      "size": 104834,
+      "sha256": "e03a26c2a265e0d39b8bed90124cf5dcaa788f8a2f3a1191a485460d7f05ffca"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/cloud-water-old.png.mcmeta",
+      "size": 66,
+      "sha256": "6e630170fafe1a018838f02249539bfe48feddb2261f1154411f6c4eea206d5c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/cloud-water.png",
+      "size": 128888,
+      "sha256": "49174f769c70f0d13d0421ab8daf0dfacb5d0c3de4028ceeb7d0b7547c51ab60"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/cloud-water.png.mcmeta",
+      "size": 66,
+      "sha256": "6e630170fafe1a018838f02249539bfe48feddb2261f1154411f6c4eea206d5c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/clouds_minecrafty-water.png",
+      "size": 109162,
+      "sha256": "3d8f1ef4e3f0bab6a5e6eaa9f5f9064815de8fa94d24f6223654867d58178f2c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/clouds_minecrafty-water.png.mcmeta",
+      "size": 66,
+      "sha256": "6e630170fafe1a018838f02249539bfe48feddb2261f1154411f6c4eea206d5c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/cucumber.png",
+      "size": 2952,
+      "sha256": "93ee6240e35a9749ea939788618b4028610a8b06c4d42d54e36dbf6468979a80"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/cucumber.png.mcmeta",
+      "size": 68,
+      "sha256": "895f75ec322f79b3bc8597ea92375339af58de570018b0e73a1e81b89f624aca"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/euphoria_patches.png",
+      "size": 917,
+      "sha256": "09c4960ab67bb5fb88e7f670656036841a8fcd5f9b01ecfe73b0630b235e8b8b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/euphoria_patches.png.mcmeta",
+      "size": 67,
+      "sha256": "3de8318bf3af133476ebbf215eb8b340113acb2576f397ae4e27175b05a10e57"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/noise.png",
+      "size": 48135,
+      "sha256": "c810be7b1154640ec514f34f61cece2882514e6f5887101f20a1c57386cc15a1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/noise.png.mcmeta",
+      "size": 66,
+      "sha256": "6e630170fafe1a018838f02249539bfe48feddb2261f1154411f6c4eea206d5c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/potato.png",
+      "size": 6465,
+      "sha256": "8ca2a7135cf39991387285a32bacef3652ced3901d80f24c2b8b54f10c0a90a4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/textures/potato.png.mcmeta",
+      "size": 68,
+      "sha256": "895f75ec322f79b3bc8597ea92375339af58de570018b0e73a1e81b89f624aca"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/uniforms.glsl",
+      "size": 8049,
+      "sha256": "87168abc832256c2dc97a69b628340e9c2f224cf2a943b1e29c83d6fc0422b66"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/util/colorConversion.glsl",
+      "size": 6437,
+      "sha256": "e885cbc4ffcf95a0719c40e9494950ad0acc9fecf7f63e42d5c9754eda00fbad"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/util/commonFunctions.glsl",
+      "size": 23772,
+      "sha256": "ccd04fee726b3f9e26eb79d1881326412bf90c465ef3f1eac482149e738cebbb"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/util/dFdxdFdy.glsl",
+      "size": 140,
+      "sha256": "67d8af93d13f67e2c7a4a24a3b552d97a117d1e066e7f7c3fbd794170727db44"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/util/dither.glsl",
+      "size": 730,
+      "sha256": "2d33f664722d505dfcca46677544daff08aa924ce36d56de415c16b42df2faab"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/util/miplevel.glsl",
+      "size": 486,
+      "sha256": "470fed50be706109bdd923b8f27fd7f0a9ff41d481211c177548481970d49c74"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/util/spaceConversion.glsl",
+      "size": 1463,
+      "sha256": "ae84c955a2f4e0caaa48f9d7a93da6f1562681c6a799c89d09b3f29d06b6ecfe"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/endCrystalVoxelization.glsl",
+      "size": 2105,
+      "sha256": "06b50aea577f8d6d7d887f4e0332a7f8772ecf3f8a5d249dd87981eafb0d53ef"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/leavesVoxelization.glsl",
+      "size": 1139,
+      "sha256": "82c16554044287340d734ff87a44cd8c19f511c061b3674315d9681ffa269eb7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/lightVoxelization.glsl",
+      "size": 23522,
+      "sha256": "6e4e38bbada5d5aa30ae751dff705b2c1bfe32a3d891b7b83f2a4fdfd8797195"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/puddleVoxelization.glsl",
+      "size": 1240,
+      "sha256": "6e6d3079fd6df7d27cd83dc8dc1a5aea3deac925e97feded65b94e036d5781e5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/reflectionVoxelData.glsl",
+      "size": 4705,
+      "sha256": "bc2b19d8fa9c3f94651316e01e3594607098429f0e84992d3fa57437bb6f57c8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/reflectionVoxelization.glsl",
+      "size": 10650,
+      "sha256": "1d0cc51aaa67a5661d99ae01298b1c7f15cfd6e0c731d22efe3898cb4925e7e3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/SSBOs/blockDataBuffer.glsl",
+      "size": 165,
+      "sha256": "9da3830e723d9f7c7670f6feaa95dbcb550f87e5db05258599c7edab0e25e218"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/SSBOs/clearSSBOs.glsl",
+      "size": 1225,
+      "sha256": "4d2d4f5e62576c70f10ee29ee7563bafe4e2e733163f11e3921ff6c5f3560ae6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/SSBOs/playerVerticesBuffer.glsl",
+      "size": 457,
+      "sha256": "ac867892a724b1531b992ceaae1e1fb1685cade9bfcfb931721726f58bdab7f5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/SSBOs/wsrBuffer.glsl",
+      "size": 153,
+      "sha256": "e075b308d58a2969e81c3177b676d260a030f5c86f32f6d12a54aefce02f116a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/lib/voxelization/SSBOs/wsrLodBuffer.glsl",
+      "size": 159,
+      "sha256": "779843016b3b7f7256f953a24e840f27030b62bdc8d8d752e06211e871cabb69"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/pack.json",
+      "size": 479,
+      "sha256": "1424b675a02e8cb97b6849ac0c439dc15f6e7dea61fba739b259646cc41874dd"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/pack.png",
+      "size": 13075,
+      "sha256": "e6bea12e30c993b3195c4be5991dc395d3105a5b248204596f38b14b2ee0e0e7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/INSTRUCTIONS.txt",
+      "size": 152,
+      "sha256": "863876f68ebe2c1c942616b22186ad57a0fb25a74bb092a8ffaa123194dbc27e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette1.png",
+      "size": 102,
+      "sha256": "e969382d0d76fa4fe1bbbfe6a22e0941564c976b2bb896fcf151e2fed0f64162"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette10.png",
+      "size": 101,
+      "sha256": "3540617c32e636c02a03c1c324addb07cbaa1cc4485bc287345941c00f49975d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette2.png",
+      "size": 87,
+      "sha256": "f5d3a8b1c9e69e79f41dcc1c9f3e6d05e4210be77cacad0f8db5d3a37e01089f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette3.png",
+      "size": 82,
+      "sha256": "2c735e1c7c766d1649f3d7c81b03964629670d01e4c5ffc0359e4636167d86b5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette4.png",
+      "size": 98,
+      "sha256": "fa9a0c58a3457da441fe3c4dc94bdf1d4adb345433ad25e6a3df9838767242d6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette5.png",
+      "size": 101,
+      "sha256": "5403e261f9e8e4dc89e80dd4b5805fea19b533fb395dd1631ba697d1c3159b0d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette6.png",
+      "size": 125,
+      "sha256": "b5d44a3c030cda5699775d4a10cd7d848e324a1c3a18a578a375a580ff541a8b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette7.png",
+      "size": 94,
+      "sha256": "f6ff6b3c41effa6bc51da847efd333b265d2d582b7f12d9c99224d4827266450"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette8.png",
+      "size": 110,
+      "sha256": "84948fca826082b77753e4f8c4a46e28b9d2a6574a2c757c259e8313c0b9af4d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/palettes/palette9.png",
+      "size": 110,
+      "sha256": "b323deaf1a1c32c29e5afb6ed5188022812ac39a754157951b7aa3e117de518c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite.glsl",
+      "size": 10247,
+      "sha256": "7a27dcb96d08cf3711b5dd1cd687950558688cfa02571bbf5c1e8dfdfc42ad6d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite1.glsl",
+      "size": 17675,
+      "sha256": "1b872c21782306a298699059aa453f29171a85d0ec61d2c7310dfcacf07e76da"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite2.glsl",
+      "size": 4394,
+      "sha256": "40582e0fa254289ca59e9722655bbb711d008350fd737236a4846c15865da723"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite3.glsl",
+      "size": 10988,
+      "sha256": "08c230526925d671c7f5ac39b1bc968bfd35904890a28c0b1c9185af13f680e9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite4.glsl",
+      "size": 6766,
+      "sha256": "fdb1fccc14e1be3abecfd1d8f19326ff5f5671798ec9867d4abbe71ddea09f3b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite5.glsl",
+      "size": 14440,
+      "sha256": "e44bd174c0e1173eb77e246d0f8a5c8b5225315c60f72b65ec5c7226af4158ea"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite6.glsl",
+      "size": 2010,
+      "sha256": "3f975765715913bef42a735df7cfc7ad31e9503ef5c065aba9f60d37e230d8ee"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite7.glsl",
+      "size": 1534,
+      "sha256": "888c06a3a53c3b55acae061ffbe795e7457aa375ebb2fa0f007de201f02c2a8c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite8.glsl",
+      "size": 6285,
+      "sha256": "bb52e3a1ca4c0ad4b7151053e55116884f91641549fb95e8771e02db5b1b4c62"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/composite9.glsl",
+      "size": 2319,
+      "sha256": "67a20cf8ff2b64d96032648ed610edf2d1626999a5d96277f6842638895859d4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/deferred1.glsl",
+      "size": 18585,
+      "sha256": "265347b27a69194ade053eaaccc0dde3d30f364f8e05973b8efcf8d6b8784f92"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/dh_terrain.glsl",
+      "size": 9042,
+      "sha256": "c63cdafe77b3f34c679b870828f69364bbbf621cf3cc9a44487237db972f16a7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/dh_water.glsl",
+      "size": 9984,
+      "sha256": "e3776db9af13568763bec763c980d66b19744d4a352fa01e5faabcb21ba7ec39"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/final.glsl",
+      "size": 22486,
+      "sha256": "b3e0f49ebfa4a500cb5e66cc7f6502187187358863692485d73ae05f4b8703e7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_armor_glint.glsl",
+      "size": 2651,
+      "sha256": "ebba6eeb1f8756fe89634d2973040f5087da855ee8e6452316b6f87b23bb115e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_basic.glsl",
+      "size": 7460,
+      "sha256": "48131c2ebed909600bfb9695e1bc327c23ec44a5aef7ea4ff8acf3a0743fa761"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_beaconbeam.glsl",
+      "size": 5649,
+      "sha256": "166e49003b17a08ca3bcd74199c6d1e75e870b325bb7a3916f8156045c2c5f0e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_block.glsl",
+      "size": 14671,
+      "sha256": "7e491981996ebe3df65ed9a6ae62ac7b741a1a780a4b02313d4d52fe6b80eef5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_clouds.glsl",
+      "size": 5485,
+      "sha256": "677134fc017a853182f93bfb1ce4822fde6257315dec4b304ee47b513d08ccb6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_damagedblock.glsl",
+      "size": 2242,
+      "sha256": "d1f1eac6ccec7d05fd7c49623bca4e7e4f15fe36d063e2ba440ddbec2ee80c6f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_entities.glsl",
+      "size": 16037,
+      "sha256": "51c0df561c72d18ac47a8e23a1dcaf0ab7600b7bf653f8039b8f05674cbb8646"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_hand.glsl",
+      "size": 11487,
+      "sha256": "155fa94a7fc2d5e4aa1b1432952d09da1174dbbd694af7a42473294022f39812"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_lightning.glsl",
+      "size": 4928,
+      "sha256": "3d7b44132db931895dec16826cb73e4acd93cf7c670b7bd1a279efca659c0c1e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_skybasic.glsl",
+      "size": 10199,
+      "sha256": "6ce1e181d988ad8935a3d3266a3237aa0f48d0b2dbba8d0faf3d8a70cd352b11"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_skytextured.glsl",
+      "size": 6920,
+      "sha256": "657be59042306cdc09fad203936188d556b54450ffb96b63f3578fb2c5f2a055"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_spidereyes.glsl",
+      "size": 2968,
+      "sha256": "b04fc9a9135599825b16048823ef7a343d7a16bd5a7ca1ce98dcb25312a00928"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_terrain.glsl",
+      "size": 27659,
+      "sha256": "5c32ff75e5c01036307c627c16f4c90ace17f70122937ea39f1087ae2b9fcb03"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_textured.glsl",
+      "size": 15623,
+      "sha256": "e4eb55c046d917163eb51a808b251a2686809a232a200ac58f38339b44d08ab8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_water.glsl",
+      "size": 19908,
+      "sha256": "396d44cc7a8f0739a88531cf4bb4fd6a1178b00551b0fea048371e89a841b45d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/gbuffers_weather.glsl",
+      "size": 4697,
+      "sha256": "e1554b11bfc3143fd26a22c107e7dd321a8025c38109c79ad6fb7bcb271f43f6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/prepare.glsl",
+      "size": 8579,
+      "sha256": "67d624255009d1dd8086b706c883888feb3dc09ad24cf022033ed37295569ff5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/shadow.glsl",
+      "size": 15716,
+      "sha256": "80a358d04041b465c75f0546518cb31b1b2a0f0684463b05c3e1b29ad3b97dde"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/shadowcomp.glsl",
+      "size": 5770,
+      "sha256": "06972e42c001125b08cf58c4b359b4416dad3f0d8eff23a60b485112015fc76e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/program/template.glsl",
+      "size": 699,
+      "sha256": "bda2002c002ece65bbeb48aa9ee771ca17df1b4c43659c7d825dbe27c1f58659"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/shaders.properties",
+      "size": 79321,
+      "sha256": "8bc4047ef3b8f90bf50efc25e98ccdb6642932db3d027849dba5a8a427a6f94e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/clrwl_gbuffers.fsh",
+      "size": 157,
+      "sha256": "ac601772243219fe670e16d39efb0edb5e9434af7291fb7ecfb342e296294aa6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/clrwl_gbuffers.vsh",
+      "size": 155,
+      "sha256": "a3fa9e05097452dbc191757965d86c3122d677ae9315ecdadaa47aab8e17873b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/clrwl_gbuffers_translucent.fsh",
+      "size": 165,
+      "sha256": "7aa4ff765904425688ee55e784790265178c9442229b9036f7fea60954ae0631"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/clrwl_gbuffers_translucent.vsh",
+      "size": 163,
+      "sha256": "e7795875f14ae62b18c4e6b24a01a5fdabb8c1a4b2275556651127d78ee52e60"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/clrwl_shadow.fsh",
+      "size": 135,
+      "sha256": "8eaad8d364d8e6ecc2c361510045667c807b205121e5c67d791870393536007b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/clrwl_shadow.vsh",
+      "size": 133,
+      "sha256": "ed71ab5b5ad296aa0f9de7e35fce11a465631960dae6c259054e637a9a44550f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite.fsh",
+      "size": 114,
+      "sha256": "4c4171aeee1a11d7429feaa5a3da7f6f1338bcdc7028ecc02e53011266b1630b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite.vsh",
+      "size": 112,
+      "sha256": "a251921f7be8b2cbaa1222e2b4f35b37d841e1800ba9e3460c6be4994e378ba9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite1.fsh",
+      "size": 116,
+      "sha256": "26e2c8bd926c3dd852078c8b79b751c8e5577f6506c40b30c635825ad9529c2d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite1.vsh",
+      "size": 114,
+      "sha256": "d9778ba3a72d2c76d7d385bdbb3ecb18dbc11e7653f5e47ceb7f2c528aaa5cac"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite2.fsh",
+      "size": 116,
+      "sha256": "229d0de4756352633233ad5431b9b325767f67c5aaa1205ce4f4226f23e71ffe"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite2.vsh",
+      "size": 114,
+      "sha256": "50f9937a45259e3c53c17c7cf1ee2fdbd311d7c12477952cf25b1076767d4be7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite3.fsh",
+      "size": 116,
+      "sha256": "0115b51ba336f83034e125154cd3977ba54c9ddac2cae2407178e72326ff66db"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite3.vsh",
+      "size": 114,
+      "sha256": "3a2d87efac9a81c8c17bcd8a4f41b06140fee123f57a8126d1969ab93a11b3c3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite4.fsh",
+      "size": 116,
+      "sha256": "e5e87f404530542789dd615ff82c0d3b1fca2468aab4d78252dc4c38d87acd1a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite4.vsh",
+      "size": 114,
+      "sha256": "39b1b7fbc9c878f71f7c09073810a8b041625f823ceb3d7489d96d859ee2a7c4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite5.fsh",
+      "size": 116,
+      "sha256": "714d3a169977ce543f846ee44c1c43f9818a14c197206c322503a89e2600cc86"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite5.vsh",
+      "size": 114,
+      "sha256": "df6bfc30abf0beec5e7ceca61dd71f11e0bfddd9aa111bab5953b2b85d46c0a0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite6.fsh",
+      "size": 116,
+      "sha256": "1c416c37674bfea6da994428104e7624944b35b228f2bb975f75975e1c6d9875"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite6.vsh",
+      "size": 114,
+      "sha256": "f4a646ce9eccf4ba578ee4aaaf013cacbff8330a9a05e4be276f5a1260368bdc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite7.fsh",
+      "size": 116,
+      "sha256": "0125af8df0bed83452318144f59c5a435b30f549fabc9f8a413fe3515da0eed1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite7.vsh",
+      "size": 114,
+      "sha256": "dfc183dfd6d789c49aa3ae953071579ac71efc0ef94d3736236b7d88b418e413"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite8.fsh",
+      "size": 116,
+      "sha256": "6bc1c268be0f09810f3832ac13b24945c501425bda561d4a9e24d56c377ac0e6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite8.vsh",
+      "size": 114,
+      "sha256": "ab0996e8e0dc64ed46b348e33334651930cc91a8f102ba35dcef5c3dd02966be"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite9.fsh",
+      "size": 116,
+      "sha256": "0704ada08dc3ec3d9bdbfafed07ebd411d7df481bc3e573139c9a032bfe62357"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/composite9.vsh",
+      "size": 114,
+      "sha256": "679d0dc5c1597fafd2396d5007408aced7f0a90970b29c6a22fbd829eca9b8f5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/deferred1.fsh",
+      "size": 114,
+      "sha256": "bd575feaebfbcca0a3f61a7d2f0f4bf44c27be2eebdce9f30434cbb01b02657d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/deferred1.vsh",
+      "size": 112,
+      "sha256": "4f69c4de537a0dfd4279daf009f14e0b584aa9438332d1a5a4005b6080b4784a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/dh_terrain.fsh",
+      "size": 116,
+      "sha256": "de055355de623259553267e32d1d65db08cd47a728e52f39d5fa4b7caa362f78"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/dh_terrain.vsh",
+      "size": 114,
+      "sha256": "0dbedcdb514e28cc3cf9c69955f2f094d4c0e2df97c27b81ba283d10b6ed6801"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/dh_water.fsh",
+      "size": 112,
+      "sha256": "1ec36d3f3f76fc45b9e06cd2916f6a1c6ce1be2a2fdcdba2990fe32ac669cf99"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/dh_water.vsh",
+      "size": 110,
+      "sha256": "9a0d76dcdcedfe4fc97d0ea9b565225322ecb7a235c8e3ff1679941882ca0dfc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/final.fsh",
+      "size": 106,
+      "sha256": "409f56dad3a9abb0e1a1b0dfa7da345787667c2ff24a74cfa51079401fc367c0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/final.vsh",
+      "size": 104,
+      "sha256": "4fd934cb13e669edeb2d8750b22abdd6e0bf4c84eaebd3bdc142ff90a76e8e05"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_armor_glint.fsh",
+      "size": 136,
+      "sha256": "924b532a377f94056b773dbf8f4667567b150d604769bf13e5f437348b252b4d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_armor_glint.vsh",
+      "size": 134,
+      "sha256": "08eb3769cdc095531a12fcda33500f00b5fb1e4f1b9a4784b64801abbf5eea6c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_basic.fsh",
+      "size": 124,
+      "sha256": "99f0938a5824d325bbca4e3125f67305283ab7062daed492967d683ef14511cc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_basic.vsh",
+      "size": 122,
+      "sha256": "55e8b918fbaff5bc6d2677295f9793b24232e8667b99ab43c7e1b1b74582fe8f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_beaconbeam.fsh",
+      "size": 134,
+      "sha256": "f204f785af392bfb5bbc49a293c386d7017f76195ad1f3b67281a835c9f9ef3f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_beaconbeam.vsh",
+      "size": 132,
+      "sha256": "c5192f897c16607ba275261c0ce2963651fd7bb5c06d4b873e690504b49a704f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_block.fsh",
+      "size": 124,
+      "sha256": "e84b8992b797081daa338fff099e9167e5babe4e764c5d45b7c682e5c6ad7a33"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_block.vsh",
+      "size": 122,
+      "sha256": "52bed14255587dbe44d393bcc22a0d7bcf7ccc557d9e3ba117b479d14bf96273"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_clouds.fsh",
+      "size": 126,
+      "sha256": "939d180523921339d64b14768ab79720fa93cf62ba80ba8b84e83d3153fc96e4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_clouds.vsh",
+      "size": 124,
+      "sha256": "89bbdf7d9628cb153b8c5b895b6a18a8b074bc9af8332d1d4d5c09837c65c70d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_damagedblock.fsh",
+      "size": 138,
+      "sha256": "a4e58af0761c5927b08475ee6d12f78c8d032b5fc2e538bb1e4c8f6274011d39"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_damagedblock.vsh",
+      "size": 136,
+      "sha256": "725ed085fca62f9f021a763a37a6d3c647df85571031f1c33312ed874b5c5609"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_entities.fsh",
+      "size": 130,
+      "sha256": "7ea733c10dc7193c222a48aa2e81dff7e304fdf213019e943e5366ab124c5777"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_entities.vsh",
+      "size": 128,
+      "sha256": "7832bad928608c222fbe8d4a4e6d1b7631b2706b025e9f49f66ed1c7c923aff3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_entities_glowing.fsh",
+      "size": 165,
+      "sha256": "28a89abd4d8cd6e60b29d4a7b8eb56b4b37e0d03f182396ccf382b6cab5132df"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_entities_glowing.vsh",
+      "size": 163,
+      "sha256": "0c5c81614b139a918d25be12a28d538b6b235b599329b4fa58820dbeae35adfc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_hand.fsh",
+      "size": 122,
+      "sha256": "537aeb7c45511e0c7b2347698840238ab67dce9d97ca03a453b4c9cfbbc40f04"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_hand.vsh",
+      "size": 120,
+      "sha256": "353a9141577d3ae8341983ae5c39ed3f2d17ed0125cd0deacbd3a00de74ee79b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_lightning.fsh",
+      "size": 132,
+      "sha256": "e88a6d82f167ecc33922597b32504fb5b7c156ac48bc951defb3d0f151deb91e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_lightning.vsh",
+      "size": 130,
+      "sha256": "61c65e8b74fa1d8f161b7e9e0903cfb17bb5e4702a1138d7bb10bb525a85c6c5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_line.fsh",
+      "size": 147,
+      "sha256": "bf217f1ecbe4475d5980bf9e64b8cc54c3288364e3ae1c0bb7df16e7480055eb"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_line.vsh",
+      "size": 145,
+      "sha256": "233d10ce5236efda647b0882b7b87a86d0aad09445578e25a8f9c7674e0aaf51"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_skybasic.fsh",
+      "size": 130,
+      "sha256": "dcb2ff6c920f70ffa03d8008fbba998b2f88bb78dd01b7e89769850859b18301"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_skybasic.vsh",
+      "size": 128,
+      "sha256": "74cffece3b45a09f85264613875a6aba62ec464441053a8fd526fcbc97219b3f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_skytextured.fsh",
+      "size": 136,
+      "sha256": "e4df83ee65f27d94b004214f808536a7f91bbe6251af9a295514e339ab61284f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_skytextured.vsh",
+      "size": 134,
+      "sha256": "cbbf1015779a8912301b899f856abb7aeaeeb6d1a5cef6eec6be2a9748329c1d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_spidereyes.fsh",
+      "size": 134,
+      "sha256": "1c904ffe8f40db00562e85f20d893c9d3577ebc8153b635bfb28e5a2591aac70"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_spidereyes.vsh",
+      "size": 132,
+      "sha256": "97a458a98e5c4c3a99d7b757dfdbd3cb559c638a19f12ba40d7ab56afce8390e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_terrain.fsh",
+      "size": 128,
+      "sha256": "a44bf1b4efc0b6a9a7bf29a0f8d9d29103bafe68c3467afedfe52bcbd471375c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_terrain.vsh",
+      "size": 126,
+      "sha256": "01f85b120014dc26ac312c15d6a10a924e20cd6f6385ae9e65a013e77ee8d2bc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_textured.fsh",
+      "size": 130,
+      "sha256": "0fc9016e22d69f0a36fb6984774b64af6c30bcc53bc890811ed2babc76a2174b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_textured.vsh",
+      "size": 128,
+      "sha256": "e95454898b459de221a02dbb802b144087e3da13f0f77f01b385db95d02ca58b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_water.fsh",
+      "size": 124,
+      "sha256": "8a0b9f92c65d24b0d7d6cf719e74c52ec986fc1b7b2565a5e67f4236faa7c47f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_water.vsh",
+      "size": 122,
+      "sha256": "67d8319e515c2bac346c98b6d8e67a996142e7b61ee0829e8523aa659f1a0368"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_weather.fsh",
+      "size": 128,
+      "sha256": "918f03423cb3291291be2ada392ed54c9c5c6ab83394027eca56ca991860f558"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/gbuffers_weather.vsh",
+      "size": 126,
+      "sha256": "d3524904893fbad3944c97dc18cd5dfb6d8883dc855497d0b1d9021ce00369a2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/shadow.fsh",
+      "size": 108,
+      "sha256": "c2effb15f127e6c15d7d5870eb1765fa3cb1c9e237eb46bb384dde92c77b2706"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/shadow.vsh",
+      "size": 120,
+      "sha256": "6827460a04ee8cca485fe13e82d5e04d277ec6e8e360fd7bcf0656c03e11a755"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world-1/shadowcomp.csh",
+      "size": 129,
+      "sha256": "a257622ca7c6c5f76778b6a1b3da6029981dfb5856cfdffc794046dd7ca27dd5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/clrwl_gbuffers.fsh",
+      "size": 160,
+      "sha256": "3ec27c2eeb23d8fe698f3f9dd92a81a9505e756b18062a6a3c85e7bfadd6bc95"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/clrwl_gbuffers.vsh",
+      "size": 158,
+      "sha256": "701fdf23d09ecc001219b7719ab45d3d1d9b1680ab0cabcaadef9804857e2daa"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/clrwl_gbuffers_translucent.fsh",
+      "size": 168,
+      "sha256": "bd45e4e51b81f1c1508a2fea98971b06e8e2bd05f09133b252ffd345a5d062e8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/clrwl_gbuffers_translucent.vsh",
+      "size": 166,
+      "sha256": "c57788b28df127d05f85388add571ef58b63ed2af1aa3844ba8bf8316e5bd48a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/clrwl_shadow.fsh",
+      "size": 138,
+      "sha256": "16161e3e82f4fea794e1fd934b0d9e949a552126e7408a6494e57deba34be8f0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/clrwl_shadow.vsh",
+      "size": 136,
+      "sha256": "301937c967884cdda1767648e881f1affd488380f691a87213f37bd6cab579b4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite.fsh",
+      "size": 117,
+      "sha256": "86c27551c0f8a28c38fe7610de757b891407c0ecd84fc17a6569b093a15111a6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite.vsh",
+      "size": 115,
+      "sha256": "314cfffc1fa4fea6392e02b33e2fbc23f4c7b015b9a71f5346c22f10f9dff149"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite1.fsh",
+      "size": 119,
+      "sha256": "caf4237c9f3a53d78b18c5ae73650a301e3fd2ba5220d8458614c370156b4c8f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite1.vsh",
+      "size": 117,
+      "sha256": "eb54c4158af328c6515d0294141b9e26d7d76742fab868f3aafb74e5cc71b1cb"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite2.fsh",
+      "size": 119,
+      "sha256": "a6d4d061bce23a484452e14afe7f7d143bb124dde52b460ef7563c02443c3d88"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite2.vsh",
+      "size": 117,
+      "sha256": "eaea2d461f0a7225def8979f81091777ed513665983b3dffa84d70a58a9867f3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite3.fsh",
+      "size": 119,
+      "sha256": "e282bc2758bc6fd9ef1cf7cd8bacd6e9015515f28fff01de39e07a76dcc35fec"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite3.vsh",
+      "size": 117,
+      "sha256": "cb17aefc55105cfe94ac579c69136a87d06503b9eb2f529240e22ce6107741a6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite4.fsh",
+      "size": 119,
+      "sha256": "eda8f9da0165b6aa1b6d3cf9156ff57a825b1eac768a4864ab026697badb5a6f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite4.vsh",
+      "size": 117,
+      "sha256": "4ff96b76837f717cdb080677f88c1ec99163ddd9149c6d4172375ac7dc0aa78d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite5.fsh",
+      "size": 119,
+      "sha256": "bf0c524778a86b30344cb9b7b1453af9efab55feefa4d2963e5e85d3d87c649c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite5.vsh",
+      "size": 117,
+      "sha256": "0a6fa6aefba93f6f8437291b92fccabbb90f98dec897e43b4898c4e8b9ea4288"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite6.fsh",
+      "size": 119,
+      "sha256": "f050175a252d167f750a04654ee9a5956c0f8a9fcb949e29663f1d072989953f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite6.vsh",
+      "size": 117,
+      "sha256": "d06ad445b901026be912d052dbff1f174ea821715f0f659f5a0916ba715e1bbf"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite7.fsh",
+      "size": 119,
+      "sha256": "dbf0c23c53593a67c99b447f10e89c2d9edd915357e0bd302952b23b0e9d2abe"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite7.vsh",
+      "size": 117,
+      "sha256": "5602d5b85c64264e1384b74682669d61652b69a5b6c34e509e34dc5a6be42b3f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite8.fsh",
+      "size": 119,
+      "sha256": "43b79deeca0d9d591f7e1dd7f403ebeb753ff6ec3663bed89c25df425d638102"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite8.vsh",
+      "size": 117,
+      "sha256": "69d9603993e0657f5e0ff380b320402c9c04108bdce3a6a2b2733c0012f34eed"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite9.fsh",
+      "size": 119,
+      "sha256": "a3aeca66419b01f93a82014f3f313a6b20d1048285d4b76762c82d281846fdc1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/composite9.vsh",
+      "size": 117,
+      "sha256": "77bd1976eced7ab0450ae6ee3ed58f62d69032be31edb377d652b2e41fc58c41"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/deferred1.fsh",
+      "size": 117,
+      "sha256": "05d5c59a614e9cc45d1238200fff7f6cb3d9b831ac51ac622134de379b89aa52"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/deferred1.vsh",
+      "size": 115,
+      "sha256": "d5b4424994012b183665becfb3f98744dde3610f38a82f2a9e2b122aa6348d2b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/dh_terrain.fsh",
+      "size": 119,
+      "sha256": "4e886f58170cf843958656afe0cd8354807dab9556198f99218b9692d4d703f3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/dh_terrain.vsh",
+      "size": 117,
+      "sha256": "3fd4e482b6ce9d5ca81e19a349a2a53f5de54370032ddb0a4b841ff38f1fbddb"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/dh_water.fsh",
+      "size": 115,
+      "sha256": "6e6c6ab7d00e175ee2aa71395a988e3fad5b7389e1ae380466871ea77dca623e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/dh_water.vsh",
+      "size": 113,
+      "sha256": "8c3fb62d9c830afd0d819dbbf5f4f57828db6022e63a0b988aaaeb2498dc6ac8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/final.fsh",
+      "size": 109,
+      "sha256": "a31fb000ae6dd1f963f44ff2cd238af3583d46a696c998f8e33762c569d9738f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/final.vsh",
+      "size": 107,
+      "sha256": "0b8b251baf8bb331b2e19612922a1631bc7de169808f85eafffa0a8a6be92a2a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_armor_glint.fsh",
+      "size": 139,
+      "sha256": "82f6350305fb70eb0d892a917554f78cfa829302416a57c548dae8959dc61a6b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_armor_glint.vsh",
+      "size": 137,
+      "sha256": "6b5c2b67c668de1b8ea991f90922ac05d42b03d2a32a8e53a857c460e3a24fd2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_basic.fsh",
+      "size": 129,
+      "sha256": "0afdc00384f4ee3fad365e04a85e4402781b61107f8d289642736de28f8e7048"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_basic.vsh",
+      "size": 125,
+      "sha256": "07793007038554da622ac5af82612f969902d0f9a9b480574795f386d8555ddc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_beaconbeam.fsh",
+      "size": 137,
+      "sha256": "e573fbf99a0dcd93b9e02636181b2e7d996952d1baed26a1df122f618f722151"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_beaconbeam.vsh",
+      "size": 135,
+      "sha256": "76389f7e9ee681ece47d2cd1888cee097bb31de48ad294e003b578b7a4862912"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_block.fsh",
+      "size": 127,
+      "sha256": "8394f01095f34310d90c36bbfefe4eb5027b28ad6c886b5eda053d4ed26342f1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_block.vsh",
+      "size": 125,
+      "sha256": "4fb14cf077e2e925acfd7ea4eb8a873e2ffa978a29221a77bcdb3f11f6bec255"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_clouds.fsh",
+      "size": 129,
+      "sha256": "969525f83d4b4ad212dbdf154d2709e5a50463b73b6762f4d2e641b37ab84edf"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_clouds.vsh",
+      "size": 127,
+      "sha256": "b81da2a75ebd78f15ed7f25902d607adc45a0eef70d51d613dc1cc03f8f1e5b8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_damagedblock.fsh",
+      "size": 141,
+      "sha256": "31bb0e5d2fa54b9604de4f4e691eeace87e727ca061b36b1e65b6fcfc3008b37"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_damagedblock.vsh",
+      "size": 139,
+      "sha256": "6b14792bb575f5f9ddff3cae67cfac2eb0a0f6ceb8417f9d74215536fe5c3de6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_entities.fsh",
+      "size": 133,
+      "sha256": "d2ff3fd16cabbb8820c5771a5e320c55910dd3ab422113a851d2c1e0bc572a57"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_entities.vsh",
+      "size": 131,
+      "sha256": "2029c06fd3cb48cecab40b94c0a5c3e963fcf281ea9d2f22156bb272b6f58f99"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_entities_glowing.fsh",
+      "size": 168,
+      "sha256": "2d53a8393766e1f92e72e7dd2bb7c5a1108c2ee05f1f1200346c63135f05f46a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_entities_glowing.vsh",
+      "size": 166,
+      "sha256": "c90830430f7b4df544d5fb4af98f7dcbf20bf9d94f5765c0ffcebcaa72dd3cdf"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_hand.fsh",
+      "size": 125,
+      "sha256": "f2f8f8a6e24dc8e47a40a97560667e3e86f0243f4da74ff4431fd4eeb4c485fe"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_hand.vsh",
+      "size": 123,
+      "sha256": "7e065c6247a9d2a83cc435fb83a909659a2e5d194ce5456d94d2fae847814ec5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_lightning.fsh",
+      "size": 135,
+      "sha256": "a155bb548423ba3704e812dddaf801f7f0c7c28922cd9d670525625b1561529c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_lightning.vsh",
+      "size": 133,
+      "sha256": "6f0098b5e2b7e7f632910b763cee4f544faf3411ddafa9a189d3594bf0f0531c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_line.fsh",
+      "size": 150,
+      "sha256": "ed079aff5256be28751485e73cf46ab3e35e630cf632f07357e12d96312db710"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_line.vsh",
+      "size": 148,
+      "sha256": "d068fd9e4e7af2655cc0e0b7645b21db9f7bc8d35ceb0e817f97fdc7d4975b2b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_skybasic.fsh",
+      "size": 133,
+      "sha256": "e797abd4504d5f01b90241b9693d6fe086622be398dbfbbc31da82a11e493bb3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_skybasic.vsh",
+      "size": 131,
+      "sha256": "a191e6a57bcf0622936951b12139c74873c4b23aaf5e4a8e3beb18cca4e7cddf"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_skytextured.fsh",
+      "size": 139,
+      "sha256": "4db8425b28d6823d887382c440400f0d5a56d8151a0ac0d2787c9e1f4cac85f1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_skytextured.vsh",
+      "size": 137,
+      "sha256": "d43076b1fc5a12f7821af4e7d53180850b397bdb5e9a97a19faeb66e9cf4b5d2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_spidereyes.fsh",
+      "size": 137,
+      "sha256": "777b54bda3ef9f80aab5a61e3c1eb87d10bd36fd1a5c67a7cb012af075cfd0d2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_spidereyes.vsh",
+      "size": 135,
+      "sha256": "5d124aed6a7a4c07ea9a9b26f42b379a968d7b4059987ca13e28a3cbf2f0d2e9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_terrain.fsh",
+      "size": 131,
+      "sha256": "bcae88267bed16a24cb4661a4820abab3d751a6ae7156e2f3d0e804330aa9c5a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_terrain.vsh",
+      "size": 129,
+      "sha256": "2af78a57feed4370178ff7309d33d08f2d4500e467377f57e3df1df5b340a413"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_textured.fsh",
+      "size": 133,
+      "sha256": "41e0283e21c69a9401ebd9ccc4b5b5d13ab5b37a1e3896daec059d1a60af0b6a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_textured.vsh",
+      "size": 131,
+      "sha256": "4ad7095765d9284a504a8d3c7449bfd3ad5072405fdd210480462089c99a506b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_water.fsh",
+      "size": 127,
+      "sha256": "893fac013538ad81d2b79ea58d1aad970e31bc6ea8e40ee02244db2b03096be2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_water.vsh",
+      "size": 125,
+      "sha256": "fa9beeee0d2f5837fe5f9bdd20b614f5d39707f8c1ab1c5965ef0d6291c54ff6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_weather.fsh",
+      "size": 131,
+      "sha256": "4f9a83ef90cfb59af69540177591524741c20e22a08a419221569f928107a964"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/gbuffers_weather.vsh",
+      "size": 129,
+      "sha256": "9b495d62b7e327168c2aa9ef93653447770a6cf9641b96685cbf80330c96425e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/prepare.fsh",
+      "size": 113,
+      "sha256": "dac50917fd925d9ff0b3c70720c965c4abcebc6be3e2858944d8c4e0e8a24fa0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/prepare.vsh",
+      "size": 111,
+      "sha256": "98e33760b37d1386b3c44e3b7de82ecf3b87b7d513cc4f52363a888f9b78bc21"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/shadow.fsh",
+      "size": 111,
+      "sha256": "5d71d587c230f9a14777ea165ad8209dc4f6a177058762c17610fd1a0ec09ace"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/shadow.vsh",
+      "size": 123,
+      "sha256": "22d63fd5b936443c1d385bf363c4964beaac67dc57eebd393f681d261d1edafd"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world0/shadowcomp.csh",
+      "size": 132,
+      "sha256": "a55d1c19d6f3b4f2019efe0bf4ca5c53e5f11b6b0e0416f482ce1f9053d97192"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/clrwl_gbuffers.fsh",
+      "size": 154,
+      "sha256": "546910b91e584b9055458970bc590c84bd08faf9126eb18dce244a5824c9bafc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/clrwl_gbuffers.vsh",
+      "size": 152,
+      "sha256": "7ce0bd1733d4a31e57d6eab7c67c2d4fc4cf33a27391a72d5d427edebfe92d5c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/clrwl_gbuffers_translucent.fsh",
+      "size": 162,
+      "sha256": "dcafd5ecaa559c60fc99771542ad8145d2929895004a87b8b75c6ffda238e6ae"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/clrwl_gbuffers_translucent.vsh",
+      "size": 160,
+      "sha256": "e905b1be92b70db290f3c17585c816f7549ae1c66e9d228478bab76e146978b1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/clrwl_shadow.fsh",
+      "size": 132,
+      "sha256": "d273f5fc1d52836994a5b46f2a6e183e77e8202b57a6d293f6a713c40c7acdf0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/clrwl_shadow.vsh",
+      "size": 130,
+      "sha256": "0a5f54562e5256e3541262f5051dbc9923ed1e5d8f19be4a6a439f7dca60eac2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite.fsh",
+      "size": 111,
+      "sha256": "aa636e73690ba2ab72bb0b3e68626f8921e79995fb57d522fe7f5b77be0c0294"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite.vsh",
+      "size": 109,
+      "sha256": "d58f23434796212eb56cf920ae59da9944f3c954eab2e0f3679d32616da56cf7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite1.fsh",
+      "size": 113,
+      "sha256": "99d83257e2e115f807c352125ead2e305ba6f4e9652abdc9df63b5db87b4b87f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite1.vsh",
+      "size": 111,
+      "sha256": "7ad4ece8e508b106d845b8b9846c90b5b06d91a4fe7892ea8ba184e54d7b65ad"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite2.fsh",
+      "size": 113,
+      "sha256": "066521fcade7878d765fd55d9beba648eaa4aeb3e24c851888050a594d3b53f9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite2.vsh",
+      "size": 111,
+      "sha256": "4a520de13f52431d8e2711ebfc15855d3bcd5db4aaab691e8f169b387d8fcae8"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite3.fsh",
+      "size": 113,
+      "sha256": "48482c4cf18d6163e70f8376056e6e09615a7be9ddd05346a24be637f98ab93a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite3.vsh",
+      "size": 111,
+      "sha256": "d1d6c9ee97d23c03c605f2463be05741a12fa74a391032f208b6eca9630ded0e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite4.fsh",
+      "size": 113,
+      "sha256": "85a8ded648a4b011dc4cd72ac4faccdbbf79b43333e7310e3b1f7feb1f821464"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite4.vsh",
+      "size": 111,
+      "sha256": "eed87f3e500207e7f05d257b59b55fb79906e9018affd426cd14d5a49a915f40"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite5.fsh",
+      "size": 113,
+      "sha256": "10059510005d1f30466288f2ea5977660bf27d510145168546d85228dec92742"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite5.vsh",
+      "size": 111,
+      "sha256": "eef5d880b6551f3329b9a708e793a5546dea2ff62fbff2aa8148430e43604056"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite6.fsh",
+      "size": 113,
+      "sha256": "49f498dc087f09e83b1eb68efadff3cb09c0151daac9ad16ed8987c2d322f99b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite6.vsh",
+      "size": 111,
+      "sha256": "eb2a1dbb5f8736da6cba26c0a22b65b08a5ee3182c926d905dc8eee53a60aadf"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite7.fsh",
+      "size": 113,
+      "sha256": "cd87aed623e8a24f94ad23ece5f52cdcfc69883380d0dc10ede3621f028c82fe"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite7.vsh",
+      "size": 111,
+      "sha256": "0dee90934ad3c6fc6335414cc72ee403fe6a69dea41e2333191ed229a2fe7653"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite8.fsh",
+      "size": 113,
+      "sha256": "49823d4c5f37b5f5f1175456c542083665b47ab6bb48cb5ce4a5b5b2627cb8cb"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite8.vsh",
+      "size": 111,
+      "sha256": "0685ce1ef2d2beaca717127e713007ce69bddee977ab6cfdd9b41c2a69c9e5c1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite9.fsh",
+      "size": 113,
+      "sha256": "2704b9beefb0eee70204759acf4a1476b6b88fa371cb5f95710b93626994ae71"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/composite9.vsh",
+      "size": 111,
+      "sha256": "c6bfec5af6eef6f623d58edc6ddebae1012bdb8fc67209d35b027d4558de9f87"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/deferred1.fsh",
+      "size": 111,
+      "sha256": "f6e6fcedb848d2ac4b2899a88c151a04c7fc14fd1a0b45b46537b9130304ecd7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/deferred1.vsh",
+      "size": 109,
+      "sha256": "35d2faac2b1194fbb6c658c94ee46b74659be9cbe8c3a2bd1a24cc16ade056f6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/dh_terrain.fsh",
+      "size": 113,
+      "sha256": "67b7d170ee35d93355a0380e5b696e067744531cc266c910335a756b1a7cf478"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/dh_terrain.vsh",
+      "size": 111,
+      "sha256": "5c1c96de3079df226ab554e1d01c945c3670f92972983dad81c0d85df904f20e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/dh_water.fsh",
+      "size": 109,
+      "sha256": "c401cb87ce9c0a16bb06492362d7c228e0d91fce2ece5dfce91c9771a4d2d63c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/dh_water.vsh",
+      "size": 107,
+      "sha256": "7a3b179ea42a4ea80840ad4a0c1f041e65194bb0a8dbf9ec41ab0a35661cf0e9"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/final.fsh",
+      "size": 103,
+      "sha256": "9acb32cb6c88f3b358cb920aa804d15d53c8e3a832d167b7d9815f6270845abd"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/final.vsh",
+      "size": 101,
+      "sha256": "17e4004eb4de77d7fae23b52a29f3741a46a2b31c81c63670ae4ca8197af8ae3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_armor_glint.fsh",
+      "size": 133,
+      "sha256": "2fbe2facf866077cc5f0b6588e757e2772a2eb543b80483020f106ec62e6f6a5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_armor_glint.vsh",
+      "size": 131,
+      "sha256": "1864dccb9d9fe70276b36f48aef5225290d85a8d333b1e59f2501cbf8e1dbf3d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_basic.fsh",
+      "size": 121,
+      "sha256": "2435c14dcbc24b02e9d34d45e827010bf53f71a67fb0722ced09ffb4a0956d3e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_basic.vsh",
+      "size": 119,
+      "sha256": "bef944793abef82ccfcb101ce2b21105cd95d787e5fe43b2a3c71396b644af04"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_beaconbeam.fsh",
+      "size": 131,
+      "sha256": "db17d4310da965022b8bf07070a7ee21bb3d8e97f4a6be2936ddac775c9ebc86"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_beaconbeam.vsh",
+      "size": 129,
+      "sha256": "e0cd1a35f49d96696d1f248874d533f684a6dd7e59d7ae67f61bf4bf4a8a4b7b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_block.fsh",
+      "size": 121,
+      "sha256": "903c3bace569cfea077831e1a001e9fe38e83615e1de19e0b16e7bf35c284ba0"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_block.vsh",
+      "size": 119,
+      "sha256": "8d784493f0e3b4252fb573539f28f86a6f5ab8b14f564595cb6145be6deeff92"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_clouds.fsh",
+      "size": 123,
+      "sha256": "239ad9d47c29daba0c39f54be84a2c78145f02fa12b4ce2955f9f786e538bdba"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_clouds.vsh",
+      "size": 121,
+      "sha256": "e0398b6d7700bbcd97fb7dc149d4d23a9d63fa90f02e3c14f54111a53c45f089"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_damagedblock.fsh",
+      "size": 135,
+      "sha256": "d440fe47b6bea0ce646b786897dc1f542c0f9ed3452d79c1f897bf714d8b610a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_damagedblock.vsh",
+      "size": 133,
+      "sha256": "6e4f517d0a175bf4850359aefbb7adbfded8070b8a0f4e543697d9d8615ed3b4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_entities.fsh",
+      "size": 127,
+      "sha256": "2163e3305813d9efa7e3f20e9957ec02a823532a16a39da277e2817238ed8491"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_entities.vsh",
+      "size": 125,
+      "sha256": "830dc3dbd42f2bbe323535b7e8842460b31f49ba480801512c619cb73ee89858"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_entities_glowing.fsh",
+      "size": 162,
+      "sha256": "ed0a8882d1b1f8fbe2e24cd6216f9c4293cd8e78862dcff54f70037aa918a28d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_entities_glowing.vsh",
+      "size": 160,
+      "sha256": "0dc55561054aeb1f8ecbfce713fc5075e5fd6c4321d013f6606adb1e85504b50"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_hand.fsh",
+      "size": 119,
+      "sha256": "cabbfe84d13f6383da5aa58948f504b3832339b9c111763e8310f1e0c6265163"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_hand.vsh",
+      "size": 117,
+      "sha256": "7929aa85cdb9f14e57da85a65d1973f306fed2668317164ee4154d491ee39b72"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_lightning.fsh",
+      "size": 129,
+      "sha256": "7e3488cddbebda3da87dbfa561d5ebce3016cfd3565df570e6e7b14819b30716"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_lightning.vsh",
+      "size": 127,
+      "sha256": "a4d3cdfc923fa87b4f7d3f15d30cae53c7e7585736b1b8d20334926e2d033077"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_line.fsh",
+      "size": 144,
+      "sha256": "d08ba12cd9b36b56489deaba528f43b1b5183180d6e8a6f60bf37d4d5ce1018c"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_line.vsh",
+      "size": 142,
+      "sha256": "abf4bb3c47fccf3c14d9362ee790ccd5930ed1b5f824c35dc6f5dd797d34d262"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_skybasic.fsh",
+      "size": 127,
+      "sha256": "2252c92fe909aaa82897e79bf59f089bc8c2736010ac04bb0de66fdf062a758a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_skybasic.vsh",
+      "size": 125,
+      "sha256": "03c043727c320eec3e81066b3596794b4b3cd45bf5d984c726d84c189270b477"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_skytextured.fsh",
+      "size": 133,
+      "sha256": "5643a433071184edac78fbf1a5c63ed97a07fa77abf245419da59fe24bf6dd48"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_skytextured.vsh",
+      "size": 131,
+      "sha256": "506332426c65d1482de874b193af145f368e8cc2b430399ab9c10f531866cfe2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_spidereyes.fsh",
+      "size": 131,
+      "sha256": "e66e3f9b67dee63f04b430c4e4703cc88b7c26808324c0dd33f0c05096bf9430"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_spidereyes.vsh",
+      "size": 129,
+      "sha256": "bd512449b0cbc081b1fc396819deab1f577b26f22c16af5694393fadd41050da"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_terrain.fsh",
+      "size": 125,
+      "sha256": "3bd4518637b7fab5f5df7ce543c6bc519c23ade9acce6e712afb5c5a5b9dbfef"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_terrain.vsh",
+      "size": 123,
+      "sha256": "975a6c92d595470b3c98f67892efb295e2047968bcb2e19ee80fa8625d6091b5"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_textured.fsh",
+      "size": 127,
+      "sha256": "effbb7c4e0b57620a50ce9a5db4a384ba90e0cd818d116f06a7246e7e2072148"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_textured.vsh",
+      "size": 125,
+      "sha256": "518be8a9477bac5d11519a35199b46421de51c841c62383eb2d0bb3e8d7a2e8e"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_water.fsh",
+      "size": 121,
+      "sha256": "77b9d1a21eb1e95dead5d3947c2cadfff39cbc99c650a0f529bf935f375f347a"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_water.vsh",
+      "size": 119,
+      "sha256": "59dd0846852a80467ee1c4da38789b558d3c3f32657d8316d610ee04057b9211"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_weather.fsh",
+      "size": 125,
+      "sha256": "c40b627d30707a95c318e5515f9edbd0d86f6bf933831151565d54783cda5918"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/gbuffers_weather.vsh",
+      "size": 123,
+      "sha256": "3e42a0992ba2d9c79808a0e89fe49eb8e7b8d62bf93b0722c69f943d9cad1408"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/prepare.fsh",
+      "size": 107,
+      "sha256": "d33ee22879ede18e49e0bad5a97f223e0e05ab42df738e5ea56d6c4628343a6d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/prepare.vsh",
+      "size": 105,
+      "sha256": "53b425c64eb79e5f09d874ccc15f773002ff02efac206e6119f074879a419de2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/shadow.fsh",
+      "size": 105,
+      "sha256": "97a42bc4a81e6f55752d5ffa5935209adbc3380ce33f974b6f1571a1dedfa4e6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/shadow.vsh",
+      "size": 117,
+      "sha256": "fa022a9302f25401a854a85a7e67bfe850769d59ebf3c1d7355814f09468e924"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/shadowcomp.csh",
+      "size": 126,
+      "sha256": "1ff2a3529f60f4cdf66e2e8ac09d90813ce479ef340c18440deeccf845141ff3"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.txt",
+      "size": 718,
+      "sha256": "e0d77b7b17396de0c0e8161804543bba71bd91604c7e992b25257732a3645038"
+    },
+    {
+      "path": "shaderpacks/photon_v1.3b.zip",
+      "size": 3800987,
+      "sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
+    },
+    {
+      "path": "shaderpacks/photon_v1.3b.zip.txt",
+      "size": 181,
+      "sha256": "69a7307e2b02a1fbb42dfce32f871f253a6c1205645e6a60761eff5da7d37150"
+    }
+  ]
+}

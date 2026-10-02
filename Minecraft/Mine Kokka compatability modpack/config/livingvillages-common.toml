@@ -1,0 +1,50 @@
+#Initial colony radius around a village bell.
+# Default: 48
+# Range: 24 ~ 128
+initialRadius = 48
+#How far an unregistered villager searches for an existing village before founding a new one.
+# Default: 50
+# Range: 24 ~ 96
+villageDiscoveryRadius = 50
+#Worker steering interval in ticks. Lower values keep villagers focused on their current task.
+# Default: 2
+# Range: 2 ~ 40
+workerTickInterval = 2
+#Spread worker AI over several server ticks so pathfinding spikes do not freeze redstone/TPS.
+# Default: 2
+# Range: 1 ~ 8
+workerStaggerBuckets = 2
+#Ticks a worker waits before retrying an expensive failed path/approach search.
+# Default: 20
+# Range: 10 ~ 200
+pathRetryCooldown = 20
+#How far workers may search for forests, water and safe satellite work sites.
+# Default: 72
+# Range: 32 ~ 128
+worksiteSearchRadius = 72
+#Maximum block interaction reach for normal workers after they have reached a valid work position.
+# Default: 5.75
+# Range: 3.0 ~ 10.0
+workerReach = 5.75
+#Emergency builder reach. Builders still walk close first, but may place from very far away after repeated path failures.
+# Default: 32.0
+# Range: 6.0 ~ 64.0
+builderReach = 32.0
+#Allow builders to create the village warehouse, homes and roads autonomously.
+enableAutoBuild = true
+#If true, normal construction consumes materials from the village warehouse. The first warehouse is bootstrapped.
+buildersRequireMaterials = true
+#Enable farmer/lumberjack/miner/fisher/rancher/blacksmith work logic.
+enableWorkers = true
+#Villagers sometimes gather near a campfire in the evening and talk.
+enableCampfireGathering = true
+#Allow established colonies to spend iron and pumpkins on iron golems.
+enableGolems = true
+#Allow settlements with guards to adopt nearby wild wolves as colony guard dogs.
+enableWolves = true
+#Workers flee nearby monsters and try to leave water before resuming their jobs.
+enableWorkerSafety = true
+#Soft cap used by role planning and colony-owned family growth logic.
+# Default: 100
+# Range: 8 ~ 256
+maxColonyPopulation = 100

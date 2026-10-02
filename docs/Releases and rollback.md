@@ -4,7 +4,7 @@
 
 1. Test the pack from an exact commit on `main` and link the test report.
 2. Update the pack's CHANGELOG.md with its version, fixes, known issues and save compatibility limits.
-3. Create a GitHub Release with a new pack specific tag: `minecraft121/v0.1.0`, `minecraft1201/v0.1.0` or `csgo/v0.1.0`. Point it at the tested commit. Never move a published tag to different code.
+3. Create a GitHub Release with a new pack specific tag: `neoforge1211/v0.1.0`, `minecraft1201/v0.1.0` or `csgo/v0.1.0`. Point it at the tested commit. Never move a published tag to different code.
 4. Attach the pack's reproducible export or installer manifest with exact dependencies and installation instructions. Include only assets permitted for redistribution.
 5. Verify a fresh installation from that release.
 
@@ -24,7 +24,7 @@ From a clean working tree, create a branch and restore the affected folder from 
 
 ```powershell
 git switch -c codex/restoreMinecraft121
-git restore --source=minecraft121/v0.1.0 --staged --worktree -- "Minecraft/1.21 NeoForge"
+git restore --source=neoforge1211/v0.1.0 --staged --worktree -- "Minecraft/Mine Kokka"
 git diff --cached
 ```
 

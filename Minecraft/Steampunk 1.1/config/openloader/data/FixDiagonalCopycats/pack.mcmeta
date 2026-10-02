@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Исключает блоки Copycats из диагональных заборов и стен (фикс предупреждения Diagonal Blocks)"
+  }
+}

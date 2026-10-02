@@ -1,0 +1,2 @@
+#Whether to render the helmet overlay on heavy helmets
+helmetOverlay = true

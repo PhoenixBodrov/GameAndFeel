@@ -2,7 +2,7 @@
 
 This project is maintained by Phoenix and Vanya.
 
-Read README.md and the existing pack files before editing. Identify the target pack: Minecraft 1.21 NeoForge, Minecraft 1.20.1 Forge or CS:GO. Keep changes within its folder unless shared changes are required. Never copy configs or scripts between game or loader versions without checking compatibility.
+Read README.md and the existing pack files before editing. Identify the target pack: Minecraft 1.21.1 NeoForge, Minecraft 1.20.1 Forge or CS:GO. Keep changes within its folder unless shared changes are required. Never copy configs or scripts between game or loader versions without checking compatibility.
 
 Determine exact dependency versions and tools from the supplied files. Do not invent mod identifiers, APIs or config formats. Preserve unrelated changes and existing pack management formats. Refresh a packwiz index only when packwiz is actually used.
 

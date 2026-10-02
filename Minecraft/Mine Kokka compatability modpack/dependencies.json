@@ -1,0 +1,132 @@
+{
+  "pack": "Mine Kokka compatability modpack",
+  "version": {
+    "profile": "NeoForge 1.21.1",
+    "loaderCoordinates": [
+      "net.neoforged:neoforge:21.1.250:universal",
+      "net.neoforged:neoforge:21.1.250:client"
+    ]
+  },
+  "files": [
+    {
+      "path": "mods/badpackets-neo-0.8.2.jar",
+      "size": 54641,
+      "sha256": "6e97bf8c2a66df484e8c100a1fc1b615b8beac70ec44f4c3bc07bb672dcd54c6"
+    },
+    {
+      "path": "mods/ColdSweat-2.4.3.1.jar",
+      "size": 2738635,
+      "sha256": "e605022f1a9a8229e9840e1ee8570a4bd7f8cfee3c432b978bbccfe56a8c6ce9"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "size": 19123767,
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "size": 33123131,
+      "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
+    },
+    {
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "size": 410690,
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "size": 622582,
+      "sha256": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "size": 2540723,
+      "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+    },
+    {
+      "path": "mods/irons_lib-1.21.1-1.1.0.jar",
+      "size": 400168,
+      "sha256": "92aa20968d51a65267218aafe757cae2a3330f5f552ab8594510d89fded84989"
+    },
+    {
+      "path": "mods/irons_spellbooks-1.21.1-3.16.1.jar",
+      "size": 13789430,
+      "sha256": "e917dfdb9ced0cae0e5d9c471cae5b427855b31b0015872ec376ab2bdde373a7"
+    },
+    {
+      "path": "mods/kokkhud-0.21.2.jar",
+      "size": 2535302,
+      "sha256": "89279c0dbf151a87c42d204643ca59871de0d046e318a3c68f66feace70cc0bf"
+    },
+    {
+      "path": "mods/mutil-1.21.1-6.3.1.jar",
+      "size": 101648,
+      "sha256": "d86a4b3cff9ce199072510e2106888a0866c8678682f6acd5bd5b4edb15d3a7b"
+    },
+    {
+      "path": "mods/nightnightkokk-0.6.8.jar",
+      "size": 197737,
+      "sha256": "02f23c439106841da532b201863de73de1c1cfaed4416c8890bd0fa28b9fdbb7"
+    },
+    {
+      "path": "mods/palegarden-1.0.8-neoforge-1.21.1.jar",
+      "size": 778521,
+      "sha256": "2a3ab9ca7bf725771547f5a6e073d999ac9115b34876671511dec7d45a659010"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-2.0.4-1.21.1.jar",
+      "size": 203149,
+      "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+    },
+    {
+      "path": "mods/quality_equipment-2.0-neoforge-1.21.1.jar",
+      "size": 209554,
+      "sha256": "b89081b8f955e125c73bcff148ce57a0bbbcd2d99fa4cafdf0b4af3841ea5414"
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
+      "size": 12986136,
+      "sha256": "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab"
+    },
+    {
+      "path": "mods/seasonskokk-1.0.0-beta.2.jar",
+      "size": 112064,
+      "sha256": "6edd1536b601e694479a5381622fd673cd0f79be02a939692fe2f34e2a8ee524"
+    },
+    {
+      "path": "mods/sodium-neoforge-0.8.13-mc1.21.1.jar",
+      "size": 1292934,
+      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
+    },
+    {
+      "path": "mods/strongmobsfromkokk-0.7.0.jar",
+      "size": 215306,
+      "sha256": "5d7bf641bc94c47703fa43e0299a048932f2d2d3dc9167196367fa2bb21cf334"
+    },
+    {
+      "path": "mods/tetra-1.21.1-6.13.0.jar",
+      "size": 4026293,
+      "sha256": "6c3ed9c8caeafaa45dbb72e640341f3e651ed4b21e21e9c5a82348c5d470b9e4"
+    },
+    {
+      "path": "mods/TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "size": 517750,
+      "sha256": "2a5ec9cca187b4a031e9dd7e5eec8d0872f7d2bc355d88bda633021fa7eb71b0"
+    },
+    {
+      "path": "mods/villagerskokk-0.1.0-m1c.9.jar",
+      "size": 443064,
+      "sha256": "1c5c7f6d3c1491a8bd1313fbbdf363a5a7bc4ced6305d384daa13dc5999ed4b2"
+    },
+    {
+      "path": "mods/wthit-1.21.1-neo-12.10.2.jar",
+      "size": 863316,
+      "sha256": "f350344dbeb9d506efbc6e17fc88c34eca42d7aed8b7525dd6642255dcc2c0ec"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+      "size": 553400,
+      "sha256": "98ac741dee294d2a3c82d153349148c3bb7fb688c30eb3b49c3b9ac37e968c5a"
+    }
+  ]
+}

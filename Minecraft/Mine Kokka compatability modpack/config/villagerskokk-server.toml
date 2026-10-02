@@ -1,0 +1,116 @@
+[simulation]
+	#Административный предел управляемых жителей на сервер. Достижение предела запрещает новое присоединение, но никого не удаляет.
+	# Default: 64
+	# Range: 1 ~ 512
+	maxActiveCitizens = 64
+	#Период стратегического планирования, обычные тики. Зарезервировано для M1+.
+	# Default: 100
+	# Range: 20 ~ 6000
+	directorIntervalRealTicks = 100
+	#Период распределения профессий, обычные тики. Зарезервировано для M1+.
+	# Default: 200
+	# Range: 20 ~ 12000
+	rolePlannerIntervalRealTicks = 200
+	#Без загруженной области поселение не производит и не строит (нет офлайн-продукции).
+	pauseSettlementWhenUnavailable = true
+	#Скрытая принудительная загрузка чанков. В M0 не используется никогда, ключ оставлен для явного решения владельца сервера.
+	allowForcedChunkLoading = false
+	#Как часто обновлять последнюю известную позицию загруженных жителей, обычные тики.
+	# Default: 100
+	# Range: 20 ~ 2400
+	positionRefreshRealTicks = 100
+
+[population]
+	#Взросление ребёнка в эффективных тиках (часы NightNight). Зарезервировано для M2.
+	# Default: 9600
+	# Range: 1200 ~ 10000000
+	childMaturityEffectiveTicks = 9600
+	#Зарезервировано для M2.
+	# Default: 1
+	# Range: 0 ~ 8
+	maxBirthEventsPerRealTick = 1
+	#Зарезервировано для M5.
+	allowImmigrationEvents = false
+
+[economy]
+	#Хозяйственные сутки питания в резерве, а не длина сезона. Зарезервировано для M1+.
+	# Default: 7.0
+	# Range: 0.0 ~ 120.0
+	foodReserveWorkDays = 7.0
+	#Зарезервировано для M1+.
+	# Default: 2
+	# Range: 0 ~ 16
+	houseMaterialReserveCount = 2
+	#Посевной резерв нельзя есть и продавать. Зарезервировано для M2.
+	protectSeedReserve = true
+
+[ai]
+	#Watchdog задачи без прогресса — только обычные тики, не ускоренные. Зарезервировано для M1.
+	# Default: 200
+	# Range: 40 ~ 24000
+	noProgressTimeoutRealTicks = 200
+	#Зарезервировано для M1.
+	# Default: 3
+	# Range: 0 ~ 16
+	maxLocalRecoveryAttempts = 3
+	#Аварийная телепортация застрявших NPC. По проекту выключена; исправляется путь, а не симптом.
+	allowEmergencyTeleport = false
+
+[construction]
+	#Автономное строительство и разрушение учитывают правило mobGriefing.
+	respectMobGriefing = true
+	#Зарезервировано для M1+.
+	allowDestroyPlayerBlocks = false
+	#Зарезервировано для M1+.
+	allowUnsafeLiquidPlacement = false
+
+	[compat.nightNight]
+		#Читать эффективную скорость часов NightNight для календарных часов поселения.
+		enabled = true
+
+	[compat.seasons]
+		#Читать сезон и сезонный сдвиг Seasons,Kokk. Seasons всегда требует NightNight.
+		enabled = true
+
+	[compat.create]
+		#Create-мастерские. В M0 только определение версии.
+		enabled = true
+		#Зарезервировано для M3.
+		# Default: 0.8
+		# Range: 0.1 ~ 1.0
+		maxPlannedStressFraction = 0.8
+		#Паровые двигатели, поезда, латунная логистика. Не входит в базовую прогрессию.
+		allowAdvancedIndustry = false
+		#Зарезервировано для M3.
+		allowCustomMachineWear = false
+
+	[compat.coldSweat]
+		#Измерение температуры среды через Cold Sweat.
+		enabled = true
+		#AMBIENT_BRIDGE — Cold Sweat измеряет среду, нагрузку NPC считает VillagersKokk. ENTITY_TEMPERATURE в первом релизе не поддерживается.
+		#Allowed Values: OFF, AMBIENT_BRIDGE
+		mode = "AMBIENT_BRIDGE"
+		#Период замера на одного активного NPC. Зарезервировано для M2.
+		# Default: 40
+		# Range: 10 ~ 1200
+		sampleIntervalRealTicks = 40
+		#Собственный температурный урон NPC. Зарезервировано для M2.
+		ownTemperatureDamage = false
+
+	[compat.strongMobs]
+		#Читать глобальный уровень Strong mobs from Kokk.
+		enabled = true
+		#Глобальный уровень — предупреждение о возможностях мира, а не признак осады рядом.
+		useGlobalLevelAsWarning = true
+		#Менять конфиг StrongMobs. VillagersKokk этого не делает; ключ для явного решения владельца сборки.
+		modifyForeignConfig = false
+
+	[compat.treeChop]
+		#Жители валят деревья как игрок с TreeChop: рубят основание, дерево падает целиком (любой высоты).
+		enabled = true
+
+[debug]
+	logTaskTransitions = true
+	logInventoryTransfers = false
+	#Писать в лог загрузку, выгрузку и гибель управляемых жителей.
+	logCitizenPresence = true

@@ -8,8 +8,11 @@ body:
     attributes:
       label: Affected pack
       options:
-        - Minecraft 1.21 NeoForge
-        - Minecraft 1.20.1 Forge
+        - Minecraft AI
+        - SteamPunk
+        - Steampunk 1.1
+        - Mine Kokka
+        - Mine Kokka compatability modpack
         - CS:GO
         - Shared tooling or documentation
         - Unsure

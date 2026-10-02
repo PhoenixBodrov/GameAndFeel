@@ -1,6 +1,6 @@
 # Working together
 
-Phoenix and Vanya use their own clones. GitHub is the shared history and review location. Vanya still needs a collaborator invitation once his GitHub username is supplied.
+Phoenix and Vanya use their own clones. GitHub is the shared history and review location. kokkas56 has been invited and must accept the invitation before pushing changes.
 
 ## A feature or bug fix
 

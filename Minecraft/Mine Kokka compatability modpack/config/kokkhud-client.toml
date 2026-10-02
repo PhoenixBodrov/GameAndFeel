@@ -1,0 +1,111 @@
+#Enable KokkHUD replacement for health, armor, food and experience
+enabled = true
+#Horizontal offset of the whole custom HUD in GUI pixels
+# Default: 0
+# Range: -500 ~ 500
+xOffset = 0
+#Vertical offset of the whole custom HUD in GUI pixels. Positive values move it down
+# Default: -1
+# Range: -300 ~ 300
+yOffset = -1
+showArmor = true
+showFood = true
+showExperience = true
+#Replace Iron's Spells default mana bar with KokkHUD's compact blue bar
+replaceIronsMana = true
+#Replace Iron's Spells purple spell-slot frames with KokkHUD dark/brass frames
+replaceIronsSpellBar = true
+#Show current/max mana inside the custom blue mana bar
+showManaText = true
+#Replace Cold Sweat's body-temperature HUD icon when its temperature API is readable
+replaceColdSweatTemperature = true
+#Show the fatigue/energy bar when NightNightKokk or supported Somnia fatigue data is available
+showFatigue = true
+#Tint screen edges and add subtle climate feedback from Cold Sweat temperature
+enableClimateScreen = true
+#Base strength of cold/hot full-screen tinting and edge vignette
+# Default: 0.8
+# Range: 0.0 ~ 1.5
+climateScreenStrength = 0.8
+#Show peripheral snow/frost particles during strong freezing
+enableSnowParticles = false
+#Shake the camera progressively during severe freezing; never applied in creative/spectator
+enableColdShake = true
+#Camera shiver strength during severe freezing
+# Default: 1.0
+# Range: 0.0 ~ 2.0
+coldShakeStrength = 1.0
+#Apply a slow heatstroke-like camera sway during severe overheating; never applied in creative/spectator
+enableHeatDizziness = true
+#Camera dizziness strength during severe overheating
+# Default: 1.05
+# Range: 0.0 ~ 1.8
+heatDizzinessStrength = 1.05
+#Add a smooth movement slowdown during strong freezing; never applied in creative/spectator
+enableColdSlowdown = true
+#Maximum extra movement slowdown at critical cold. 0.18 means up to 18 percent
+# Default: 0.16
+# Range: 0.0 ~ 0.45
+coldSlowdownMax = 0.16
+#Distance between heart slots
+# Default: 8
+# Range: 7 ~ 16
+heartSpacing = 8
+#Distance between armor slots
+# Default: 8
+# Range: 7 ~ 16
+armorSpacing = 8
+#Width of each main XP/mana bar
+# Default: 88
+# Range: 64 ~ 140
+statusBarWidth = 88
+#Width of the optional fatigue bar on the right
+# Default: 70
+# Range: 50 ~ 120
+fatigueBarWidth = 70
+#Half-width reserved around screen centre for the temperature skull
+# Default: 20
+# Range: 16 ~ 48
+centerGapHalf = 20
+# Default: 0
+# Range: -200 ~ 200
+healthXOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+healthYOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+armorXOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+armorYOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+foodXOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+foodYOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+xpXOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+xpYOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+manaXOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+manaYOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+fatigueXOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+fatigueYOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+spellBarXOffset = 0
+# Default: 0
+# Range: -200 ~ 200
+spellBarYOffset = 0
