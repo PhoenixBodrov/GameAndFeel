@@ -12,10 +12,12 @@ Use the same release tag on both computers. Download its archive and install the
 
 Source updates include configs and scripts. Mod changes additionally require matching dependency files from the selected release. A Git pull alone does not download release archives or install a loader.
 
-## Server updates
+## Local multiplayer over Radmin VPN
 
-A client archive is not a verified server pack. First identify server compatible mods and create a separate tested server export. The server address, operating system, installation path and stop/start method have not been supplied, so live deployment is not configured.
+The team uses local hosts over Radmin VPN and shares the world when changing hosts. Both players should use the same pack snapshot and matching game and loader versions. Radmin provides the connection; pack files and world saves are transferred separately.
 
-For each tested server release: stop the server, back up the world and current installation, stage the new server export in a separate folder, copy only the intended world and server specific settings, run compatibility tests, then switch the service to that folder. Keep the previous installation and backup for rollback. Never replace an active server directory with a client snapshot.
+Before changing hosts, the current host saves and closes the world or stops the local server. Back up the complete world folder and send a private archive to the next host. Record the pack release tag with the backup. The next host extracts it into the matching local installation and becomes the only active host of that world. Do not edit two copies and try to merge their world files.
 
-The staging tool is suitable for a verified server export too, but it does not stop services, move worlds or deploy remotely.
+Keep world archives outside this public repository. Git tracks pack configuration and scripts, while world backups are transferred privately. For a pack update, test a copy of the world first and retain the previous pack plus its matching world backup for rollback. Opening a world in a newer game version can make returning to an older version unsafe.
+
+No remote deployment service is needed for the current setup. Automatic world transfer is not configured. The staging tool prepares pack files in a new folder; it does not move saves or start a local server.

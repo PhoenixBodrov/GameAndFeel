@@ -10,14 +10,14 @@ The folder names mirror the supplied Minecraft directory.
 
 | Folder | Game and loader | Purpose |
 | --- | --- | --- |
-| Minecraft/Minecraft AI | 1.20.1 Forge 47.4.10 | Existing pack source |
-| Minecraft/SteamPunk | 1.20.1 Forge 47.4.10 | Downloadable existing snapshot |
-| Minecraft/Steampunk 1.1 | 1.20.1 Forge 47.4.10 | Downloadable existing snapshot |
-| Minecraft/Mine Kokka | 1.21.1 NeoForge 21.1.233 | Existing NeoForge pack source |
+| Minecraft/Minecraft AI | 1.20.1 Forge 47.4.10 | Experimental development pack |
+| Minecraft/SteamPunk | 1.20.1 Forge 47.4.10 | Current stable pack used for play and development |
+| Minecraft/Steampunk 1.1 | 1.20.1 Forge 47.4.10 | Older development pack, may be retired |
+| Minecraft/Mine Kokka | 1.21.1 NeoForge 21.1.233 | Newest main development pack |
 | Minecraft/Mine Kokka compatability modpack | 1.21.1 NeoForge 21.1.250 | Separate bug and compatibility test pack |
 | CSGO | Awaiting files | CS:GO modpack |
 
-Development currently focuses on Minecraft 1.20.1. The exact active folder has not been confirmed. The test pack stays separate from the full NeoForge pack. Updated 1.21.1 files can be committed when supplied.
+SteamPunk is the current stable pack, with a planned move to Mine Kokka. Mine Kokka is the newest development pack. Steampunk 1.1 is older work that may be retired. Minecraft AI is for experimental development. The compatibility pack stays separate for testing new mods. The supplied Steampunk 1.1 metadata identifies Forge 1.20.1, despite its description as previous 1.21; retain the recorded version until replacement files confirm otherwise.
 
 Configs, scripts, quests and custom pack data are tracked. Binary dependency inventories record exact checksums. Downloadable archives contain installed mods and resources, without launcher accounts, worlds, logs or generated caches. Snapshots are user supplied and have not been launch tested by this setup process.
 
